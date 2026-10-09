@@ -1,0 +1,1667 @@
+[
+  {
+    "word": "dobar",
+    "meanings": [
+      "gut (Adjektiv)"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "On je {dobar} čovek.",
+        "de": "Er ist ein guter Mensch."
+      },
+      {
+        "sr": "Imam {dobru} vest.",
+        "de": "Ich habe eine gute Nachricht."
+      }
+    ]
+  },
+  {
+    "word": "loš",
+    "meanings": [
+      "schlecht"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Danas je {loše} vreme.",
+        "de": "Heute ist schlechtes Wetter."
+      },
+      {
+        "sr": "To je {loša} ideja.",
+        "de": "Das ist eine schlechte Idee."
+      }
+    ]
+  },
+  {
+    "word": "velik",
+    "meanings": [
+      "groß"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Ovaj stan je {velik}.",
+        "de": "Diese Wohnung ist groß."
+      },
+      {
+        "sr": "Imaju {veliku} baštu.",
+        "de": "Sie haben einen großen Garten."
+      }
+    ]
+  },
+  {
+    "word": "mali",
+    "meanings": [
+      "klein"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Njihov stan je {mali}.",
+        "de": "Ihre Wohnung ist klein."
+      },
+      {
+        "sr": "Imam {malu} molbu.",
+        "de": "Ich habe eine kleine Bitte."
+      }
+    ]
+  },
+  {
+    "word": "nov",
+    "meanings": [
+      "neu"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Kupio sam {nov} auto.",
+        "de": "Ich habe ein neues Auto gekauft."
+      },
+      {
+        "sr": "Imaš {novu} frizuru!",
+        "de": "Du hast eine neue Frisur!"
+      }
+    ]
+  },
+  {
+    "word": "star",
+    "meanings": [
+      "alt"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Ovaj most je veoma {star}.",
+        "de": "Diese Brücke ist sehr alt."
+      },
+      {
+        "sr": "Volim {stare} filmove.",
+        "de": "Ich mag alte Filme."
+      }
+    ]
+  },
+  {
+    "word": "mlad",
+    "meanings": [
+      "jung"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Još si {mlad}.",
+        "de": "Du bist noch jung."
+      },
+      {
+        "sr": "Njena mama je još {mlada}.",
+        "de": "Ihre Mama ist noch jung."
+      }
+    ]
+  },
+  {
+    "word": "lep",
+    "meanings": [
+      "schön"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Ovo je {lep} grad.",
+        "de": "Das ist eine schöne Stadt."
+      },
+      {
+        "sr": "Imaš {lepu} haljinu.",
+        "de": "Du hast ein schönes Kleid."
+      }
+    ]
+  },
+  {
+    "word": "ružan",
+    "meanings": [
+      "hässlich"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Danas je {ružno} vreme.",
+        "de": "Heute ist hässliches Wetter."
+      },
+      {
+        "sr": "To je bio {ružan} san.",
+        "de": "Das war ein hässlicher Traum."
+      }
+    ]
+  },
+  {
+    "word": "dugačak",
+    "meanings": [
+      "lang"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Put je bio {dugačak}.",
+        "de": "Der Weg war lang."
+      },
+      {
+        "sr": "Ima {dugačku} kosu.",
+        "de": "Sie hat lange Haare."
+      }
+    ]
+  },
+  {
+    "word": "kratak",
+    "meanings": [
+      "kurz"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Film je bio {kratak}.",
+        "de": "Der Film war kurz."
+      },
+      {
+        "sr": "Idem u {kratku} šetnju.",
+        "de": "Ich mache einen kurzen Spaziergang."
+      }
+    ]
+  },
+  {
+    "word": "visok",
+    "meanings": [
+      "hoch",
+      "groß (gewachsen)"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Njen brat je veoma {visok}.",
+        "de": "Ihr Bruder ist sehr groß."
+      },
+      {
+        "sr": "Cene su {visoke}.",
+        "de": "Die Preise sind hoch."
+      }
+    ]
+  },
+  {
+    "word": "težak",
+    "meanings": [
+      "schwer",
+      "schwierig"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Ispit je bio {težak}.",
+        "de": "Die Prüfung war schwer."
+      },
+      {
+        "sr": "Imao sam {tešku} nedelju.",
+        "de": "Ich hatte eine schwere Woche."
+      }
+    ]
+  },
+  {
+    "word": "lak",
+    "meanings": [
+      "leicht",
+      "einfach"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Ovaj zadatak je {lak}.",
+        "de": "Diese Aufgabe ist leicht."
+      },
+      {
+        "sr": "Torba je {laka}.",
+        "de": "Die Tasche ist leicht."
+      }
+    ]
+  },
+  {
+    "word": "brz",
+    "meanings": [
+      "schnell"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Ovaj voz je {brz}.",
+        "de": "Dieser Zug ist schnell."
+      },
+      {
+        "sr": "Ona je {brza} kao vetar.",
+        "de": "Sie ist schnell wie der Wind."
+      }
+    ]
+  },
+  {
+    "word": "spor",
+    "meanings": [
+      "langsam (nicht schnell)"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Internet je danas {spor}.",
+        "de": "Das Internet ist heute langsam."
+      },
+      {
+        "sr": "Usluga je bila {spora}.",
+        "de": "Die Bedienung war langsam."
+      }
+    ]
+  },
+  {
+    "word": "topao",
+    "meanings": [
+      "warm"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Hleb je još {topao}.",
+        "de": "Das Brot ist noch warm."
+      },
+      {
+        "sr": "Treba mi {topla} jakna.",
+        "de": "Ich brauche eine warme Jacke."
+      }
+    ]
+  },
+  {
+    "word": "hladan",
+    "meanings": [
+      "kalt"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Vetar je {hladan}.",
+        "de": "Der Wind ist kalt."
+      },
+      {
+        "sr": "Želim {hladnu} vodu.",
+        "de": "Ich möchte kaltes Wasser."
+      }
+    ]
+  },
+  {
+    "word": "vruć",
+    "meanings": [
+      "heiß"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Pazi, tanjir je {vruć}.",
+        "de": "Pass auf, der Teller ist heiß."
+      },
+      {
+        "sr": "Supa je {vruća}.",
+        "de": "Die Suppe ist heiß."
+      }
+    ]
+  },
+  {
+    "word": "čist",
+    "meanings": [
+      "sauber"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Stan je {čist}.",
+        "de": "Die Wohnung ist sauber."
+      },
+      {
+        "sr": "Imate li {čistu} čašu?",
+        "de": "Haben Sie ein sauberes Glas?"
+      }
+    ]
+  },
+  {
+    "word": "prljav",
+    "meanings": [
+      "schmutzig"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Auto je {prljav} posle puta.",
+        "de": "Das Auto ist nach der Fahrt schmutzig."
+      },
+      {
+        "sr": "Ostavi {prljave} cipele napolju.",
+        "de": "Lass die schmutzigen Schuhe draußen."
+      }
+    ]
+  },
+  {
+    "word": "pun",
+    "meanings": [
+      "voll"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Autobus je {pun}.",
+        "de": "Der Bus ist voll."
+      },
+      {
+        "sr": "Čaša je još {puna}.",
+        "de": "Das Glas ist noch voll."
+      }
+    ]
+  },
+  {
+    "word": "prazan",
+    "meanings": [
+      "leer"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Frižider je {prazan}.",
+        "de": "Der Kühlschrank ist leer."
+      },
+      {
+        "sr": "Ulice su {prazne} nedeljom.",
+        "de": "Die Straßen sind sonntags leer."
+      }
+    ]
+  },
+  {
+    "word": "slobodan",
+    "meanings": [
+      "frei"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Ovaj sto je {slobodan}.",
+        "de": "Dieser Tisch ist frei."
+      },
+      {
+        "sr": "Jesi li {slobodna} večeras?",
+        "de": "Hast du heute Abend frei?"
+      }
+    ]
+  },
+  {
+    "word": "zauzet",
+    "meanings": [
+      "besetzt",
+      "beschäftigt"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Danas sam {zauzet}.",
+        "de": "Heute bin ich beschäftigt."
+      },
+      {
+        "sr": "Linija je {zauzeta}.",
+        "de": "Die Leitung ist besetzt."
+      }
+    ]
+  },
+  {
+    "word": "gotov",
+    "meanings": [
+      "fertig"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Ručak je {gotov}!",
+        "de": "Das Mittagessen ist fertig!"
+      },
+      {
+        "sr": "Kafa je {gotova}.",
+        "de": "Der Kaffee ist fertig."
+      }
+    ]
+  },
+  {
+    "word": "spreman",
+    "meanings": [
+      "bereit"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "{Spreman} sam za put.",
+        "de": "Ich bin bereit für die Reise."
+      },
+      {
+        "sr": "Jesi li {spremna}?",
+        "de": "Bist du bereit?"
+      }
+    ]
+  },
+  {
+    "word": "važan",
+    "meanings": [
+      "wichtig"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Ovo je {važan} dan za nas.",
+        "de": "Das ist ein wichtiger Tag für uns."
+      },
+      {
+        "sr": "Porodica mi je {važna}.",
+        "de": "Die Familie ist mir wichtig."
+      }
+    ]
+  },
+  {
+    "word": "tačan",
+    "meanings": [
+      "richtig",
+      "pünktlich"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Da li je ovo {tačan} odgovor?",
+        "de": "Ist das die richtige Antwort?"
+      },
+      {
+        "sr": "Adresa nije {tačna}.",
+        "de": "Die Adresse ist nicht richtig."
+      }
+    ]
+  },
+  {
+    "word": "pogrešan",
+    "meanings": [
+      "falsch"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Dobili ste {pogrešan} broj.",
+        "de": "Sie haben die falsche Nummer gewählt."
+      },
+      {
+        "sr": "Krenuli smo u {pogrešnom} pravcu.",
+        "de": "Wir sind in die falsche Richtung losgefahren."
+      }
+    ]
+  },
+  {
+    "word": "isti",
+    "meanings": [
+      "gleich",
+      "derselbe"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Imamo {isti} ukus.",
+        "de": "Wir haben den gleichen Geschmack."
+      },
+      {
+        "sr": "Živimo u {istoj} ulici.",
+        "de": "Wir wohnen in derselben Straße."
+      }
+    ]
+  },
+  {
+    "word": "drugačiji",
+    "meanings": [
+      "anders"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Život ovde je {drugačiji}.",
+        "de": "Das Leben hier ist anders."
+      },
+      {
+        "sr": "Imam {drugačije} mišljenje.",
+        "de": "Ich habe eine andere Meinung."
+      }
+    ]
+  },
+  {
+    "word": "siguran",
+    "meanings": [
+      "sicher"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Nisam {siguran} da razumem.",
+        "de": "Ich bin nicht sicher, ob ich es verstehe."
+      },
+      {
+        "sr": "Jesi li {sigurna}?",
+        "de": "Bist du sicher?"
+      }
+    ]
+  },
+  {
+    "word": "zanimljiv",
+    "meanings": [
+      "interessant"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Film je bio {zanimljiv}.",
+        "de": "Der Film war interessant."
+      },
+      {
+        "sr": "To je {zanimljiva} priča.",
+        "de": "Das ist eine interessante Geschichte."
+      }
+    ]
+  },
+  {
+    "word": "dosadan",
+    "meanings": [
+      "langweilig"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Sastanak je bio {dosadan}.",
+        "de": "Die Besprechung war langweilig."
+      },
+      {
+        "sr": "Ta serija je {dosadna}.",
+        "de": "Diese Serie ist langweilig."
+      }
+    ]
+  },
+  {
+    "word": "smešan",
+    "meanings": [
+      "lustig",
+      "komisch"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Njen deda je baš {smešan}.",
+        "de": "Ihr Opa ist echt lustig."
+      },
+      {
+        "sr": "To je {smešna} priča.",
+        "de": "Das ist eine lustige Geschichte."
+      }
+    ]
+  },
+  {
+    "word": "čudan",
+    "meanings": [
+      "seltsam"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Imam {čudan} osećaj.",
+        "de": "Ich habe ein seltsames Gefühl."
+      },
+      {
+        "sr": "To je {čudno}.",
+        "de": "Das ist seltsam."
+      }
+    ]
+  },
+  {
+    "word": "miran",
+    "meanings": [
+      "ruhig"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Ovo je {miran} kraj.",
+        "de": "Das ist eine ruhige Gegend."
+      },
+      {
+        "sr": "Budi {mirna}, sve je u redu.",
+        "de": "Bleib ruhig, alles ist in Ordnung."
+      }
+    ]
+  },
+  {
+    "word": "ljubazan",
+    "meanings": [
+      "freundlich"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Konobar je bio {ljubazan}.",
+        "de": "Der Kellner war freundlich."
+      },
+      {
+        "sr": "Tvoja mama je veoma {ljubazna}.",
+        "de": "Deine Mama ist sehr freundlich."
+      }
+    ]
+  },
+  {
+    "word": "drag",
+    "meanings": [
+      "lieb"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "On je moj {drag} prijatelj.",
+        "de": "Er ist mein lieber Freund."
+      },
+      {
+        "sr": "{Draga} moja, nedostaješ mi.",
+        "de": "Meine Liebe, du fehlst mir."
+      }
+    ]
+  },
+  {
+    "word": "pametan",
+    "meanings": [
+      "klug"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Njen brat je {pametan}.",
+        "de": "Ihr Bruder ist klug."
+      },
+      {
+        "sr": "To je {pametna} odluka.",
+        "de": "Das ist eine kluge Entscheidung."
+      }
+    ]
+  },
+  {
+    "word": "zgodan",
+    "meanings": [
+      "gutaussehend",
+      "praktisch"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Njen brat je {zgodan}.",
+        "de": "Ihr Bruder sieht gut aus."
+      },
+      {
+        "sr": "Ovo je {zgodna} torba.",
+        "de": "Das ist eine praktische Tasche."
+      }
+    ]
+  },
+  {
+    "word": "sladak",
+    "meanings": [
+      "süß"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Baš si {slatka}.",
+        "de": "Du bist echt süß."
+      },
+      {
+        "sr": "Kolač je previše {sladak}.",
+        "de": "Der Kuchen ist zu süß."
+      }
+    ]
+  },
+  {
+    "word": "slan",
+    "meanings": [
+      "salzig"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Sir je malo {slan}.",
+        "de": "Der Käse ist etwas salzig."
+      },
+      {
+        "sr": "Supa je previše {slana}.",
+        "de": "Die Suppe ist zu salzig."
+      }
+    ]
+  },
+  {
+    "word": "kiseo",
+    "meanings": [
+      "sauer"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Limun je {kiseo}.",
+        "de": "Die Zitrone ist sauer."
+      },
+      {
+        "sr": "Volim {kisele} krastavce.",
+        "de": "Ich mag saure Gurken."
+      }
+    ]
+  },
+  {
+    "word": "ukusan",
+    "meanings": [
+      "lecker"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Ručak je bio {ukusan}.",
+        "de": "Das Mittagessen war lecker."
+      },
+      {
+        "sr": "Kakva {ukusna} torta!",
+        "de": "Was für eine leckere Torte!"
+      }
+    ]
+  },
+  {
+    "word": "jak",
+    "meanings": [
+      "stark"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Kafa je {jaka}.",
+        "de": "Der Kaffee ist stark."
+      },
+      {
+        "sr": "On je {jak} kao bik.",
+        "de": "Er ist stark wie ein Stier."
+      }
+    ]
+  },
+  {
+    "word": "slab",
+    "meanings": [
+      "schwach"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Signal je ovde {slab}.",
+        "de": "Der Empfang ist hier schwach."
+      },
+      {
+        "sr": "Posle gripa sam još {slab}.",
+        "de": "Nach der Grippe bin ich noch schwach."
+      }
+    ]
+  },
+  {
+    "word": "zdrav",
+    "meanings": [
+      "gesund"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Važno je da si {zdrav}.",
+        "de": "Wichtig ist, dass du gesund bist."
+      },
+      {
+        "sr": "Jedemo {zdravu} hranu.",
+        "de": "Wir essen gesundes Essen."
+      }
+    ]
+  },
+  {
+    "word": "bolestan",
+    "meanings": [
+      "krank"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Danas sam {bolestan}.",
+        "de": "Heute bin ich krank."
+      },
+      {
+        "sr": "Njena baka je {bolesna}.",
+        "de": "Ihre Oma ist krank."
+      }
+    ]
+  },
+  {
+    "word": "beo",
+    "meanings": [
+      "weiß"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Sneg je {beo}.",
+        "de": "Der Schnee ist weiß."
+      },
+      {
+        "sr": "Nosi {belu} haljinu.",
+        "de": "Sie trägt ein weißes Kleid."
+      }
+    ]
+  },
+  {
+    "word": "crn",
+    "meanings": [
+      "schwarz"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Imam {crn} kaput.",
+        "de": "Ich habe einen schwarzen Mantel."
+      },
+      {
+        "sr": "Kafu pijem {crnu}.",
+        "de": "Ich trinke den Kaffee schwarz."
+      }
+    ]
+  },
+  {
+    "word": "crven",
+    "meanings": [
+      "rot"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Auto je {crven}.",
+        "de": "Das Auto ist rot."
+      },
+      {
+        "sr": "Kupio sam ti {crvene} ruže.",
+        "de": "Ich habe dir rote Rosen gekauft."
+      }
+    ]
+  },
+  {
+    "word": "plav",
+    "meanings": [
+      "blau",
+      "blond"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "More je {plavo}.",
+        "de": "Das Meer ist blau."
+      },
+      {
+        "sr": "Ima {plave} oči.",
+        "de": "Sie hat blaue Augen."
+      }
+    ]
+  },
+  {
+    "word": "zelen",
+    "meanings": [
+      "grün"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Semafor je {zelen}.",
+        "de": "Die Ampel ist grün."
+      },
+      {
+        "sr": "Volim {zelenu} salatu.",
+        "de": "Ich mag grünen Salat."
+      }
+    ]
+  },
+  {
+    "word": "žut",
+    "meanings": [
+      "gelb"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Taksi je {žut}.",
+        "de": "Das Taxi ist gelb."
+      },
+      {
+        "sr": "Lišće je u jesen {žuto}.",
+        "de": "Das Laub ist im Herbst gelb."
+      }
+    ]
+  },
+  {
+    "word": "kako se osećaš",
+    "meanings": [
+      "wie fühlst du dich"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "{Kako se osećaš} danas?",
+        "de": "Wie fühlst du dich heute?"
+      },
+      {
+        "sr": "Bila si bolesna, {kako se osećaš}?",
+        "de": "Du warst krank, wie fühlst du dich?"
+      }
+    ]
+  },
+  {
+    "word": "dobro sam",
+    "meanings": [
+      "mir geht es gut"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "{Dobro sam}, hvala na pitanju.",
+        "de": "Mir geht es gut, danke der Nachfrage."
+      },
+      {
+        "sr": "Ne brini, {dobro sam}.",
+        "de": "Mach dir keine Sorgen, mir geht es gut."
+      }
+    ]
+  },
+  {
+    "word": "nisam dobro",
+    "meanings": [
+      "mir geht es nicht gut"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Danas {nisam dobro}.",
+        "de": "Heute geht es mir nicht gut."
+      },
+      {
+        "sr": "Izvini, {nisam dobro}, idem kući.",
+        "de": "Entschuldige, mir geht es nicht gut, ich gehe nach Hause."
+      }
+    ]
+  },
+  {
+    "word": "šta ti je",
+    "meanings": [
+      "was ist los mit dir"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "{Šta ti je}? Izgledaš tužno.",
+        "de": "Was ist los mit dir? Du siehst traurig aus."
+      },
+      {
+        "sr": "Hej, {šta ti je} danas?",
+        "de": "Hey, was ist heute los mit dir?"
+      }
+    ]
+  },
+  {
+    "word": "sve je u redu",
+    "meanings": [
+      "alles ist in Ordnung"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "{Sve je u redu}, ne brini.",
+        "de": "Alles ist in Ordnung, mach dir keine Sorgen."
+      },
+      {
+        "sr": "Hvala, {sve je u redu}.",
+        "de": "Danke, alles ist in Ordnung."
+      }
+    ]
+  },
+  {
+    "word": "ne brini",
+    "meanings": [
+      "mach dir keine Sorgen"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "{Ne brini}, sve će biti u redu.",
+        "de": "Mach dir keine Sorgen, alles wird gut."
+      },
+      {
+        "sr": "{Ne brini} za mene.",
+        "de": "Mach dir keine Sorgen um mich."
+      }
+    ]
+  },
+  {
+    "word": "osećaj",
+    "meanings": [
+      "Gefühl"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Imam dobar {osećaj}.",
+        "de": "Ich habe ein gutes Gefühl."
+      },
+      {
+        "sr": "Poznajem taj {osećaj}.",
+        "de": "Ich kenne dieses Gefühl."
+      }
+    ]
+  },
+  {
+    "word": "raspoloženje",
+    "meanings": [
+      "Stimmung",
+      "Laune"
+    ],
+    "label": "neutrum",
+    "level": 3,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Muzika popravlja {raspoloženje}.",
+        "de": "Musik hebt die Stimmung."
+      },
+      {
+        "sr": "U kakvom si {raspoloženju}?",
+        "de": "In was für einer Stimmung bist du?"
+      }
+    ]
+  },
+  {
+    "word": "umoran",
+    "meanings": [
+      "müde"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "{Umoran} sam posle puta.",
+        "de": "Ich bin müde nach der Reise."
+      },
+      {
+        "sr": "Jesi li {umorna}?",
+        "de": "Bist du müde?"
+      }
+    ]
+  },
+  {
+    "word": "tužan",
+    "meanings": [
+      "traurig"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Zašto si {tužna}?",
+        "de": "Warum bist du traurig?"
+      },
+      {
+        "sr": "Bio sam {tužan} kad si otišla.",
+        "de": "Ich war traurig, als du gegangen bist."
+      }
+    ]
+  },
+  {
+    "word": "veseo",
+    "meanings": [
+      "fröhlich"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Njen tata je uvek {veseo}.",
+        "de": "Ihr Papa ist immer fröhlich."
+      },
+      {
+        "sr": "Bila je to {vesela} noć.",
+        "de": "Das war eine fröhliche Nacht."
+      }
+    ]
+  },
+  {
+    "word": "zadovoljan",
+    "meanings": [
+      "zufrieden"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "{Zadovoljan} sam hotelom.",
+        "de": "Ich bin mit dem Hotel zufrieden."
+      },
+      {
+        "sr": "Jesi li {zadovoljna} poklonom?",
+        "de": "Bist du mit dem Geschenk zufrieden?"
+      }
+    ]
+  },
+  {
+    "word": "ljut",
+    "meanings": [
+      "wütend",
+      "scharf"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Jesi li {ljuta} na mene?",
+        "de": "Bist du wütend auf mich?"
+      },
+      {
+        "sr": "Ajvar je {ljut}.",
+        "de": "Der Ajvar ist scharf."
+      }
+    ]
+  },
+  {
+    "word": "nervozan",
+    "meanings": [
+      "nervös"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Malo sam {nervozan} pred večeru.",
+        "de": "Ich bin vor dem Abendessen etwas nervös."
+      },
+      {
+        "sr": "Ne budi {nervozna}.",
+        "de": "Sei nicht nervös."
+      }
+    ]
+  },
+  {
+    "word": "uzbuđen",
+    "meanings": [
+      "aufgeregt"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "{Uzbuđen} sam zbog puta.",
+        "de": "Ich bin wegen der Reise aufgeregt."
+      },
+      {
+        "sr": "Deca su {uzbuđena}.",
+        "de": "Die Kinder sind aufgeregt."
+      }
+    ]
+  },
+  {
+    "word": "iznenađen",
+    "meanings": [
+      "überrascht"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Bio sam {iznenađen} kad sam te video.",
+        "de": "Ich war überrascht, als ich dich gesehen habe."
+      },
+      {
+        "sr": "Svi su bili {iznenađeni}.",
+        "de": "Alle waren überrascht."
+      }
+    ]
+  },
+  {
+    "word": "zabrinut",
+    "meanings": [
+      "besorgt"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "{Zabrinut} sam za nju.",
+        "de": "Ich bin besorgt um sie."
+      },
+      {
+        "sr": "Njena mama je {zabrinuta}.",
+        "de": "Ihre Mama ist besorgt."
+      }
+    ]
+  },
+  {
+    "word": "briga",
+    "meanings": [
+      "Sorge"
+    ],
+    "label": "feminin",
+    "level": 3,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "To nije tvoja {briga}.",
+        "de": "Das ist nicht deine Sorge."
+      },
+      {
+        "sr": "Bez {brige}, sve će biti u redu.",
+        "de": "Keine Sorge, alles wird gut."
+      }
+    ]
+  },
+  {
+    "word": "strah",
+    "meanings": [
+      "Angst"
+    ],
+    "label": "maskulin",
+    "level": 3,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Imam {strah} od visine.",
+        "de": "Ich habe Höhenangst."
+      },
+      {
+        "sr": "Nema razloga za {strah}.",
+        "de": "Es gibt keinen Grund zur Angst."
+      }
+    ]
+  },
+  {
+    "word": "bojim se",
+    "meanings": [
+      "ich habe Angst",
+      "ich fürchte"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "{Bojim se} da ćemo zakasniti.",
+        "de": "Ich fürchte, wir kommen zu spät."
+      },
+      {
+        "sr": "{Bojim se} pasa.",
+        "de": "Ich habe Angst vor Hunden."
+      }
+    ]
+  },
+  {
+    "word": "ponosan",
+    "meanings": [
+      "stolz"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "{Ponosan} sam na tebe.",
+        "de": "Ich bin stolz auf dich."
+      },
+      {
+        "sr": "Njeni roditelji su {ponosni}.",
+        "de": "Ihre Eltern sind stolz."
+      }
+    ]
+  },
+  {
+    "word": "zahvalan",
+    "meanings": [
+      "dankbar"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "{Zahvalan} sam vam na svemu.",
+        "de": "Ich bin Ihnen für alles dankbar."
+      },
+      {
+        "sr": "Veoma smo {zahvalni}.",
+        "de": "Wir sind sehr dankbar."
+      }
+    ]
+  },
+  {
+    "word": "ljubomoran",
+    "meanings": [
+      "eifersüchtig"
+    ],
+    "label": null,
+    "level": 4,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Nisam {ljubomoran}.",
+        "de": "Ich bin nicht eifersüchtig."
+      },
+      {
+        "sr": "Malo je {ljubomorna}.",
+        "de": "Sie ist ein bisschen eifersüchtig."
+      }
+    ]
+  },
+  {
+    "word": "usamljen",
+    "meanings": [
+      "einsam"
+    ],
+    "label": null,
+    "level": 4,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Bez tebe sam {usamljen}.",
+        "de": "Ohne dich bin ich einsam."
+      },
+      {
+        "sr": "Njena baka je često {usamljena}.",
+        "de": "Ihre Oma ist oft einsam."
+      }
+    ]
+  },
+  {
+    "word": "radost",
+    "meanings": [
+      "Freude"
+    ],
+    "label": "feminin",
+    "level": 3,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Deca su naša {radost}.",
+        "de": "Kinder sind unsere Freude."
+      },
+      {
+        "sr": "Plakala je od {radosti}.",
+        "de": "Sie hat vor Freude geweint."
+      }
+    ]
+  },
+  {
+    "word": "stres",
+    "meanings": [
+      "Stress"
+    ],
+    "label": "maskulin",
+    "level": 3,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Na poslu imam mnogo {stresa}.",
+        "de": "Bei der Arbeit habe ich viel Stress."
+      },
+      {
+        "sr": "{Stres} nije dobar za zdravlje.",
+        "de": "Stress ist nicht gut für die Gesundheit."
+      }
+    ]
+  },
+  {
+    "word": "bol",
+    "meanings": [
+      "Schmerz"
+    ],
+    "label": "maskulin",
+    "level": 3,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Osećam {bol} u leđima.",
+        "de": "Ich spüre einen Schmerz im Rücken."
+      },
+      {
+        "sr": "Imate li nešto protiv {bolova}?",
+        "de": "Haben Sie etwas gegen Schmerzen?"
+      }
+    ]
+  },
+  {
+    "word": "muka mi je",
+    "meanings": [
+      "mir ist schlecht"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "{Muka mi je} od vožnje.",
+        "de": "Mir ist schlecht vom Fahren."
+      },
+      {
+        "sr": "Previše sam jeo, {muka mi je}.",
+        "de": "Ich habe zu viel gegessen, mir ist schlecht."
+      }
+    ]
+  },
+  {
+    "word": "hladno mi je",
+    "meanings": [
+      "mir ist kalt"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "{Hladno mi je}, daj mi jaknu.",
+        "de": "Mir ist kalt, gib mir die Jacke."
+      },
+      {
+        "sr": "{Hladno mi je}, možemo li unutra?",
+        "de": "Mir ist kalt, können wir reingehen?"
+      }
+    ]
+  },
+  {
+    "word": "dosadno mi je",
+    "meanings": [
+      "mir ist langweilig"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "{Dosadno mi je}, hajde da izađemo.",
+        "de": "Mir ist langweilig, lass uns ausgehen."
+      },
+      {
+        "sr": "{Dosadno mi je} bez tebe.",
+        "de": "Ohne dich ist mir langweilig."
+      }
+    ]
+  },
+  {
+    "word": "svejedno mi je",
+    "meanings": [
+      "mir ist es egal"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "{Svejedno mi je}, izaberi ti.",
+        "de": "Mir ist es egal, such du aus."
+      },
+      {
+        "sr": "Kafa ili čaj? {Svejedno mi je}.",
+        "de": "Kaffee oder Tee? Mir ist es egal."
+      }
+    ]
+  }
+]

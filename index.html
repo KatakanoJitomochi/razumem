@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" href="/razumem/favicon.ico" sizes="48x48" />
+    <link rel="icon" href="/razumem/favicon.svg" sizes="any" type="image/svg+xml" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="description" content="Razumem — Serbisch lernen, Vokabeltrainer mit Wiederholung in Abständen" />
+    <!-- Browser chrome follows light/dark like the app does (see --bg in src/index.css). -->
+    <meta name="theme-color" content="#EEF0F3" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#0F1113" media="(prefers-color-scheme: dark)" />
+    <link rel="apple-touch-icon" href="/razumem/apple-touch-icon-180x180.png" sizes="180x180" />
+    <link rel="mask-icon" href="/razumem/mask-icon.svg" color="#0E7C7B" />
+    <!-- iPhone home screen: name under the icon, and the app runs without Safari's bars. -->
+    <meta name="apple-mobile-web-app-title" content="Razumem" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <title>Razumem</title>
+    <!-- No webfont <link> here on purpose: the font is bundled locally via
+         @fontsource in src/main.tsx, so the app needs no network to render. -->
+    <script type="module" crossorigin src="/razumem/assets/index-OFjCVogK.js"></script>
+    <link rel="stylesheet" crossorigin href="/razumem/assets/index-CdlkEODW.css">
+  <link rel="manifest" href="/razumem/manifest.webmanifest"></head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>

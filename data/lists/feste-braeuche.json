@@ -1,0 +1,1555 @@
+[
+  {
+    "word": "praznik",
+    "meanings": [
+      "Feiertag"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Sutra je {praznik}, niko ne radi.",
+        "de": "Morgen ist Feiertag, niemand arbeitet."
+      },
+      {
+        "sr": "Za {praznike} idemo kod njenih roditelja.",
+        "de": "An den Feiertagen fahren wir zu ihren Eltern."
+      }
+    ]
+  },
+  {
+    "word": "slava",
+    "meanings": [
+      "Slava (Fest des Familienheiligen)"
+    ],
+    "label": "feminin",
+    "level": 3,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Njena porodica slavi {slavu} u decembru.",
+        "de": "Ihre Familie feiert die Slava im Dezember."
+      },
+      {
+        "sr": "Pozvani smo na {slavu} kod njenog ujaka.",
+        "de": "Wir sind zur Slava bei ihrem Onkel eingeladen."
+      }
+    ]
+  },
+  {
+    "word": "srećna slava",
+    "meanings": [
+      "frohe Slava"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "{Srećna slava}, domaćine!",
+        "de": "Frohe Slava, Hausherr!"
+      },
+      {
+        "sr": "Hvala na pozivu i {srećna slava}.",
+        "de": "Danke für die Einladung und frohe Slava."
+      }
+    ]
+  },
+  {
+    "word": "slavski kolač",
+    "meanings": [
+      "Slava-Brot"
+    ],
+    "label": null,
+    "level": 4,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Domaćin lomi {slavski kolač}.",
+        "de": "Der Hausherr bricht das Slava-Brot."
+      },
+      {
+        "sr": "Na stolu su sveća i {slavski kolač}.",
+        "de": "Auf dem Tisch stehen die Kerze und das Slava-Brot."
+      }
+    ]
+  },
+  {
+    "word": "žito",
+    "meanings": [
+      "Slava-Weizen (gekochter süßer Weizen)"
+    ],
+    "label": "neutrum",
+    "level": 4,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Na slavi se prvo služi {žito}.",
+        "de": "Bei der Slava wird zuerst der Weizen serviert."
+      },
+      {
+        "sr": "Uzmi kašičicu {žita}.",
+        "de": "Nimm einen Löffel Weizen."
+      }
+    ]
+  },
+  {
+    "word": "post",
+    "meanings": [
+      "Fasten",
+      "Fastenzeit"
+    ],
+    "label": "maskulin",
+    "level": 4,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Pre Božića traje {post}.",
+        "de": "Vor Weihnachten ist Fastenzeit."
+      },
+      {
+        "sr": "Za vreme {posta} ne jedu meso.",
+        "de": "Während der Fastenzeit essen sie kein Fleisch."
+      }
+    ]
+  },
+  {
+    "word": "posan",
+    "meanings": [
+      "fastengerecht (ohne Fleisch, Milch, Eier)"
+    ],
+    "label": null,
+    "level": 4,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Slava je u postu, pa je sve {posno}.",
+        "de": "Die Slava fällt in die Fastenzeit, deshalb ist alles fastengerecht."
+      },
+      {
+        "sr": "Da li je ovaj kolač {posan}?",
+        "de": "Ist dieser Kuchen fastengerecht?"
+      }
+    ]
+  },
+  {
+    "word": "Božić",
+    "meanings": [
+      "Weihnachten"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "{Božić} u Srbiji je sedmog januara.",
+        "de": "Weihnachten ist in Serbien am siebten Januar."
+      },
+      {
+        "sr": "Za {Božić} se okuplja cela porodica.",
+        "de": "Zu Weihnachten kommt die ganze Familie zusammen."
+      }
+    ]
+  },
+  {
+    "word": "srećan Božić",
+    "meanings": [
+      "frohe Weihnachten"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "{Srećan Božić} tebi i tvojoj porodici!",
+        "de": "Frohe Weihnachten dir und deiner Familie!"
+      },
+      {
+        "sr": "Svima želim {srećan Božić}.",
+        "de": "Ich wünsche allen frohe Weihnachten."
+      }
+    ]
+  },
+  {
+    "word": "Hristos se rodi",
+    "meanings": [
+      "Christus ist geboren (Weihnachtsgruß)"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Na Božić se kaže {Hristos se rodi}.",
+        "de": "An Weihnachten sagt man: Christus ist geboren."
+      },
+      {
+        "sr": "{Hristos se rodi}, srećan Božić!",
+        "de": "Christus ist geboren, frohe Weihnachten!"
+      }
+    ]
+  },
+  {
+    "word": "vaistinu se rodi",
+    "meanings": [
+      "wahrhaftig ist er geboren (Antwort)"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Odgovor je: {vaistinu se rodi}.",
+        "de": "Die Antwort lautet: Wahrhaftig ist er geboren."
+      },
+      {
+        "sr": "{Vaistinu se rodi}, i vama srećan Božić!",
+        "de": "Wahrhaftig ist er geboren, auch Ihnen frohe Weihnachten!"
+      }
+    ]
+  },
+  {
+    "word": "Badnje veče",
+    "meanings": [
+      "Heiligabend"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Na {Badnje veče} večeramo posno.",
+        "de": "An Heiligabend essen wir fastengerecht zu Abend."
+      },
+      {
+        "sr": "{Badnje veče} provodimo sa porodicom.",
+        "de": "Den Heiligabend verbringen wir mit der Familie."
+      }
+    ]
+  },
+  {
+    "word": "badnjak",
+    "meanings": [
+      "Badnjak (Eichenzweig zu Weihnachten)"
+    ],
+    "label": "maskulin",
+    "level": 4,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Na Badnje veče unosimo {badnjak} u kuću.",
+        "de": "An Heiligabend tragen wir den Badnjak ins Haus."
+      },
+      {
+        "sr": "Ispred crkve se pali {badnjak}.",
+        "de": "Vor der Kirche wird der Badnjak verbrannt."
+      }
+    ]
+  },
+  {
+    "word": "česnica",
+    "meanings": [
+      "Weihnachtsbrot (mit Münze)"
+    ],
+    "label": "feminin",
+    "level": 4,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Baka mesi {česnicu} za Božić.",
+        "de": "Oma backt das Weihnachtsbrot für Weihnachten."
+      },
+      {
+        "sr": "Ko nađe novčić u {česnici}, imaće sreće cele godine.",
+        "de": "Wer die Münze im Weihnachtsbrot findet, hat das ganze Jahr Glück."
+      }
+    ]
+  },
+  {
+    "word": "jelka",
+    "meanings": [
+      "Weihnachtsbaum",
+      "Tanne"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Večeras kitimo {jelku}.",
+        "de": "Heute Abend schmücken wir den Weihnachtsbaum."
+      },
+      {
+        "sr": "Pokloni su ispod {jelke}.",
+        "de": "Die Geschenke liegen unter dem Weihnachtsbaum."
+      }
+    ]
+  },
+  {
+    "word": "kititi",
+    "meanings": [
+      "schmücken"
+    ],
+    "label": "unvollendet",
+    "level": 4,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Deca {kite} jelku.",
+        "de": "Die Kinder schmücken den Weihnachtsbaum."
+      },
+      {
+        "sr": "Salu smo {kitili} celo popodne.",
+        "de": "Wir haben den Saal den ganzen Nachmittag geschmückt."
+      }
+    ]
+  },
+  {
+    "word": "Deda Mraz",
+    "meanings": [
+      "Weihnachtsmann (Väterchen Frost)"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "{Deda Mraz} donosi poklone za Novu godinu.",
+        "de": "Väterchen Frost bringt die Geschenke zu Neujahr."
+      },
+      {
+        "sr": "Deca pišu pismo {Deda Mrazu}.",
+        "de": "Die Kinder schreiben dem Weihnachtsmann einen Brief."
+      }
+    ]
+  },
+  {
+    "word": "Nova godina",
+    "meanings": [
+      "Neujahr",
+      "Silvester"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Gde slavite {Novu godinu}?",
+        "de": "Wo feiert ihr Silvester?"
+      },
+      {
+        "sr": "Za {Novu godinu} idemo u Beograd.",
+        "de": "Zu Neujahr fahren wir nach Belgrad."
+      }
+    ]
+  },
+  {
+    "word": "srećna Nova godina",
+    "meanings": [
+      "frohes neues Jahr"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "{Srećna Nova godina}, ljubavi!",
+        "de": "Frohes neues Jahr, mein Schatz!"
+      },
+      {
+        "sr": "U ponoć svi viču: {srećna Nova godina}!",
+        "de": "Um Mitternacht rufen alle: Frohes neues Jahr!"
+      }
+    ]
+  },
+  {
+    "word": "doček Nove godine",
+    "meanings": [
+      "Silvesterfeier"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Gde ćemo na {doček Nove godine}?",
+        "de": "Wo gehen wir zur Silvesterfeier hin?"
+      },
+      {
+        "sr": "{Doček Nove godine} je bio na trgu.",
+        "de": "Die Silvesterfeier war auf dem Platz."
+      }
+    ]
+  },
+  {
+    "word": "vatromet",
+    "meanings": [
+      "Feuerwerk"
+    ],
+    "label": "maskulin",
+    "level": 3,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "U ponoć počinje {vatromet}.",
+        "de": "Um Mitternacht beginnt das Feuerwerk."
+      },
+      {
+        "sr": "Gledali smo {vatromet} sa terase.",
+        "de": "Wir haben das Feuerwerk von der Terrasse aus angeschaut."
+      }
+    ]
+  },
+  {
+    "word": "srećni praznici",
+    "meanings": [
+      "frohe Feiertage"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "{Srećni praznici} vama i vašoj porodici!",
+        "de": "Frohe Feiertage Ihnen und Ihrer Familie!"
+      },
+      {
+        "sr": "Hvala, i vama {srećni praznici}.",
+        "de": "Danke, auch Ihnen frohe Feiertage."
+      }
+    ]
+  },
+  {
+    "word": "Uskrs",
+    "meanings": [
+      "Ostern"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "{Uskrs} je najveći hrišćanski praznik.",
+        "de": "Ostern ist das größte christliche Fest."
+      },
+      {
+        "sr": "Za {Uskrs} idemo kod njene bake.",
+        "de": "Zu Ostern fahren wir zu ihrer Oma."
+      }
+    ]
+  },
+  {
+    "word": "srećan Uskrs",
+    "meanings": [
+      "frohe Ostern"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "{Srećan Uskrs} celoj porodici!",
+        "de": "Frohe Ostern der ganzen Familie!"
+      },
+      {
+        "sr": "Želim vam {srećan Uskrs}.",
+        "de": "Ich wünsche Ihnen frohe Ostern."
+      }
+    ]
+  },
+  {
+    "word": "Hristos vaskrse",
+    "meanings": [
+      "Christus ist auferstanden (Ostergruß)"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Na Uskrs se pozdravljamo sa {Hristos vaskrse}.",
+        "de": "An Ostern begrüßen wir uns mit: Christus ist auferstanden."
+      },
+      {
+        "sr": "{Hristos vaskrse}, dragi moji!",
+        "de": "Christus ist auferstanden, meine Lieben!"
+      }
+    ]
+  },
+  {
+    "word": "vaistinu vaskrse",
+    "meanings": [
+      "wahrhaftig ist er auferstanden (Antwort)"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Na to se odgovara: {vaistinu vaskrse}.",
+        "de": "Darauf antwortet man: Wahrhaftig ist er auferstanden."
+      },
+      {
+        "sr": "{Vaistinu vaskrse}, srećan Uskrs!",
+        "de": "Wahrhaftig ist er auferstanden, frohe Ostern!"
+      }
+    ]
+  },
+  {
+    "word": "farbati jaja",
+    "meanings": [
+      "Eier färben"
+    ],
+    "label": null,
+    "level": 4,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "U petak {farbamo jaja} sa decom.",
+        "de": "Am Freitag färben wir mit den Kindern Eier."
+      },
+      {
+        "sr": "Nikad nisam {farbao jaja}.",
+        "de": "Ich habe noch nie Eier gefärbt."
+      }
+    ]
+  },
+  {
+    "word": "Osmi mart",
+    "meanings": [
+      "Frauentag (8. März)"
+    ],
+    "label": null,
+    "level": 4,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Za {Osmi mart} ženama se poklanja cveće.",
+        "de": "Zum Frauentag schenkt man den Frauen Blumen."
+      },
+      {
+        "sr": "Ne zaboravi cveće za {Osmi mart}!",
+        "de": "Vergiss die Blumen zum Frauentag nicht!"
+      }
+    ]
+  },
+  {
+    "word": "proslava",
+    "meanings": [
+      "Feier"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "{Proslava} počinje u osam.",
+        "de": "Die Feier beginnt um acht."
+      },
+      {
+        "sr": "Bio sam na {proslavi} njenog rođendana.",
+        "de": "Ich war auf ihrer Geburtstagsfeier."
+      }
+    ]
+  },
+  {
+    "word": "slaviti",
+    "meanings": [
+      "feiern"
+    ],
+    "label": "unvollendet",
+    "level": 2,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Šta danas {slavimo}?",
+        "de": "Was feiern wir heute?"
+      },
+      {
+        "sr": "Rođendan sam {slavio} sa prijateljima.",
+        "de": "Meinen Geburtstag habe ich mit Freunden gefeiert."
+      }
+    ]
+  },
+  {
+    "word": "veselje",
+    "meanings": [
+      "Fest",
+      "Fröhlichkeit"
+    ],
+    "label": "neutrum",
+    "level": 4,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "{Veselje} je trajalo do jutra.",
+        "de": "Das Fest dauerte bis zum Morgen."
+      },
+      {
+        "sr": "Bez muzike nema {veselja}.",
+        "de": "Ohne Musik gibt es kein Fest."
+      }
+    ]
+  },
+  {
+    "word": "svečan",
+    "meanings": [
+      "festlich",
+      "feierlich"
+    ],
+    "label": null,
+    "level": 4,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Ručak je bio baš {svečan}.",
+        "de": "Das Mittagessen war richtig festlich."
+      },
+      {
+        "sr": "Obuci nešto {svečano}.",
+        "de": "Zieh etwas Festliches an."
+      }
+    ]
+  },
+  {
+    "word": "čestitati",
+    "meanings": [
+      "gratulieren"
+    ],
+    "label": "unvollendet",
+    "level": 2,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Želim da ti {čestitam} rođendan.",
+        "de": "Ich möchte dir zum Geburtstag gratulieren."
+      },
+      {
+        "sr": "Svi su nam {čestitali} veridbu.",
+        "de": "Alle haben uns zur Verlobung gratuliert."
+      }
+    ]
+  },
+  {
+    "word": "čestitam",
+    "meanings": [
+      "herzlichen Glückwunsch",
+      "ich gratuliere"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "{Čestitam}, baš mi je drago!",
+        "de": "Herzlichen Glückwunsch, das freut mich sehr!"
+      },
+      {
+        "sr": "{Čestitam} na veridbi!",
+        "de": "Herzlichen Glückwunsch zur Verlobung!"
+      }
+    ]
+  },
+  {
+    "word": "čestitka",
+    "meanings": [
+      "Glückwunschkarte"
+    ],
+    "label": "feminin",
+    "level": 3,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Napisao sam {čestitku} za njenu baku.",
+        "de": "Ich habe eine Glückwunschkarte für ihre Oma geschrieben."
+      },
+      {
+        "sr": "Dobili smo lepu {čestitku} iz Srbije.",
+        "de": "Wir haben eine schöne Glückwunschkarte aus Serbien bekommen."
+      }
+    ]
+  },
+  {
+    "word": "sve najbolje",
+    "meanings": [
+      "alles Gute"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "{Sve najbolje} za rođendan!",
+        "de": "Alles Gute zum Geburtstag!"
+      },
+      {
+        "sr": "Želim ti {sve najbolje}.",
+        "de": "Ich wünsche dir alles Gute."
+      }
+    ]
+  },
+  {
+    "word": "srećno",
+    "meanings": [
+      "viel Glück"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "{Srećno} na ispitu!",
+        "de": "Viel Glück bei der Prüfung!"
+      },
+      {
+        "sr": "{Srećno}, javi kako je bilo.",
+        "de": "Viel Glück, sag Bescheid, wie es war."
+      }
+    ]
+  },
+  {
+    "word": "želja",
+    "meanings": [
+      "Wunsch"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Zamisli {želju} i ugasi sveće.",
+        "de": "Wünsch dir etwas und puste die Kerzen aus."
+      },
+      {
+        "sr": "Imam samo jednu {želju}.",
+        "de": "Ich habe nur einen Wunsch."
+      }
+    ]
+  },
+  {
+    "word": "poželeti",
+    "meanings": [
+      "wünschen"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Šta bi {poželela} za rođendan?",
+        "de": "Was würdest du dir zum Geburtstag wünschen?"
+      },
+      {
+        "sr": "{Poželeo} sam im srećne praznike.",
+        "de": "Ich habe ihnen frohe Feiertage gewünscht."
+      }
+    ]
+  },
+  {
+    "word": "zdravlje",
+    "meanings": [
+      "Gesundheit"
+    ],
+    "label": "neutrum",
+    "level": 2,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Najvažnije je {zdravlje}.",
+        "de": "Das Wichtigste ist die Gesundheit."
+      },
+      {
+        "sr": "Želim vam puno {zdravlja} i sreće.",
+        "de": "Ich wünsche Ihnen viel Gesundheit und Glück."
+      }
+    ]
+  },
+  {
+    "word": "na zdravlje",
+    "meanings": [
+      "wohl bekomm's",
+      "Gesundheit (beim Niesen)"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Kad neko kine, kaže se {na zdravlje}.",
+        "de": "Wenn jemand niest, sagt man Gesundheit."
+      },
+      {
+        "sr": "{Na zdravlje}, drago mi je da ti se svidelo.",
+        "de": "Wohl bekomm's, es freut mich, dass es dir geschmeckt hat."
+      }
+    ]
+  },
+  {
+    "word": "poklon",
+    "meanings": [
+      "Geschenk"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Imam mali {poklon} za tvoju mamu.",
+        "de": "Ich habe ein kleines Geschenk für deine Mama."
+      },
+      {
+        "sr": "Hvala na {poklonu}, baš je lep.",
+        "de": "Danke für das Geschenk, es ist wirklich schön."
+      }
+    ]
+  },
+  {
+    "word": "pokloniti",
+    "meanings": [
+      "schenken"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Šta da {poklonim} tvom ocu?",
+        "de": "Was soll ich deinem Vater schenken?"
+      },
+      {
+        "sr": "{Poklonio} sam joj knjigu.",
+        "de": "Ich habe ihr ein Buch geschenkt."
+      }
+    ]
+  },
+  {
+    "word": "iznenaditi",
+    "meanings": [
+      "überraschen"
+    ],
+    "label": "vollendet",
+    "level": 3,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Hoću da je {iznenadim} za rođendan.",
+        "de": "Ich will sie zum Geburtstag überraschen."
+      },
+      {
+        "sr": "Baš ste me {iznenadili}!",
+        "de": "Ihr habt mich wirklich überrascht!"
+      }
+    ]
+  },
+  {
+    "word": "kolač",
+    "meanings": [
+      "Kuchen"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Njena mama pravi najbolje {kolače}.",
+        "de": "Ihre Mama macht die besten Kuchen."
+      },
+      {
+        "sr": "Uzmi još jedan {kolač}.",
+        "de": "Nimm noch einen Kuchen."
+      }
+    ]
+  },
+  {
+    "word": "torta",
+    "meanings": [
+      "Torte"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Ko će da iseče {tortu}?",
+        "de": "Wer schneidet die Torte an?"
+      },
+      {
+        "sr": "{Torta} je sa čokoladom.",
+        "de": "Die Torte ist mit Schokolade."
+      }
+    ]
+  },
+  {
+    "word": "sveća",
+    "meanings": [
+      "Kerze"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Upalio sam {sveću} u crkvi.",
+        "de": "Ich habe in der Kirche eine Kerze angezündet."
+      },
+      {
+        "sr": "Na torti je deset {sveća}.",
+        "de": "Auf der Torte sind zehn Kerzen."
+      }
+    ]
+  },
+  {
+    "word": "upaliti",
+    "meanings": [
+      "anzünden",
+      "anmachen"
+    ],
+    "label": "vollendet",
+    "level": 3,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Domaćin će {upaliti} slavsku sveću.",
+        "de": "Der Hausherr wird die Slava-Kerze anzünden."
+      },
+      {
+        "sr": "{Upali} svetlo, molim te.",
+        "de": "Mach bitte das Licht an."
+      }
+    ]
+  },
+  {
+    "word": "običaj",
+    "meanings": [
+      "Brauch"
+    ],
+    "label": "maskulin",
+    "level": 3,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "To je stari srpski {običaj}.",
+        "de": "Das ist ein alter serbischer Brauch."
+      },
+      {
+        "sr": "Ne znam vaše {običaje}, objasnite mi.",
+        "de": "Ich kenne eure Bräuche nicht, erklärt sie mir."
+      }
+    ]
+  },
+  {
+    "word": "tradicija",
+    "meanings": [
+      "Tradition"
+    ],
+    "label": "feminin",
+    "level": 3,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "U njenoj porodici je to {tradicija}.",
+        "de": "In ihrer Familie ist das Tradition."
+      },
+      {
+        "sr": "Poštujem njihovu {tradiciju}.",
+        "de": "Ich respektiere ihre Tradition."
+      }
+    ]
+  },
+  {
+    "word": "crkva",
+    "meanings": [
+      "Kirche"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Ova {crkva} je veoma stara.",
+        "de": "Diese Kirche ist sehr alt."
+      },
+      {
+        "sr": "Na Božić idemo u {crkvu}.",
+        "de": "An Weihnachten gehen wir in die Kirche."
+      }
+    ]
+  },
+  {
+    "word": "sveštenik",
+    "meanings": [
+      "Priester"
+    ],
+    "label": "maskulin",
+    "level": 4,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "{Sveštenik} dolazi da preseče slavski kolač.",
+        "de": "Der Priester kommt, um das Slava-Brot anzuschneiden."
+      },
+      {
+        "sr": "Razgovarao sam sa {sveštenikom} posle službe.",
+        "de": "Ich habe nach dem Gottesdienst mit dem Priester gesprochen."
+      }
+    ]
+  },
+  {
+    "word": "ikona",
+    "meanings": [
+      "Ikone"
+    ],
+    "label": "feminin",
+    "level": 4,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Na zidu visi {ikona} svetog Nikole.",
+        "de": "An der Wand hängt die Ikone des heiligen Nikolaus."
+      },
+      {
+        "sr": "Slavska sveća gori pored {ikone}.",
+        "de": "Die Slava-Kerze brennt neben der Ikone."
+      }
+    ]
+  },
+  {
+    "word": "krst",
+    "meanings": [
+      "Kreuz"
+    ],
+    "label": "maskulin",
+    "level": 3,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Na crkvi je zlatan {krst}.",
+        "de": "Auf der Kirche ist ein goldenes Kreuz."
+      },
+      {
+        "sr": "Ona nosi mali {krst} oko vrata.",
+        "de": "Sie trägt ein kleines Kreuz um den Hals."
+      }
+    ]
+  },
+  {
+    "word": "manastir",
+    "meanings": [
+      "Kloster"
+    ],
+    "label": "maskulin",
+    "level": 3,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Posetili smo stari {manastir}.",
+        "de": "Wir haben ein altes Kloster besucht."
+      },
+      {
+        "sr": "U {manastiru} je bilo veoma tiho.",
+        "de": "Im Kloster war es sehr still."
+      }
+    ]
+  },
+  {
+    "word": "svadba",
+    "meanings": [
+      "Hochzeit",
+      "Hochzeitsfeier"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Pozvani smo na {svadbu} njene sestre.",
+        "de": "Wir sind zur Hochzeit ihrer Schwester eingeladen."
+      },
+      {
+        "sr": "Na {svadbi} je bilo dvesta gostiju.",
+        "de": "Auf der Hochzeit waren zweihundert Gäste."
+      }
+    ]
+  },
+  {
+    "word": "venčanje",
+    "meanings": [
+      "Trauung",
+      "Hochzeit (Zeremonie)"
+    ],
+    "label": "neutrum",
+    "level": 3,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "{Venčanje} je u crkvi u podne.",
+        "de": "Die Trauung ist mittags in der Kirche."
+      },
+      {
+        "sr": "Posle {venčanja} idemo u restoran.",
+        "de": "Nach der Trauung gehen wir ins Restaurant."
+      }
+    ]
+  },
+  {
+    "word": "mlada",
+    "meanings": [
+      "Braut"
+    ],
+    "label": "feminin",
+    "level": 3,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "{Mlada} je prelepa u venčanici.",
+        "de": "Die Braut ist wunderschön im Brautkleid."
+      },
+      {
+        "sr": "Svi čekaju {mladu}.",
+        "de": "Alle warten auf die Braut."
+      }
+    ]
+  },
+  {
+    "word": "mladoženja",
+    "meanings": [
+      "Bräutigam"
+    ],
+    "label": "maskulin",
+    "level": 3,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "{Mladoženja} je bio veoma nervozan.",
+        "de": "Der Bräutigam war sehr nervös."
+      },
+      {
+        "sr": "Čestitao sam {mladoženji}.",
+        "de": "Ich habe dem Bräutigam gratuliert."
+      }
+    ]
+  },
+  {
+    "word": "mladenci",
+    "meanings": [
+      "Brautpaar"
+    ],
+    "label": "Plural",
+    "level": 3,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "{Mladenci} otvaraju ples.",
+        "de": "Das Brautpaar eröffnet den Tanz."
+      },
+      {
+        "sr": "Živeli {mladenci}!",
+        "de": "Es lebe das Brautpaar!"
+      }
+    ]
+  },
+  {
+    "word": "burma",
+    "meanings": [
+      "Ehering"
+    ],
+    "label": "feminin",
+    "level": 4,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Kum čuva {burme} do venčanja.",
+        "de": "Der Trauzeuge bewahrt die Eheringe bis zur Trauung auf."
+      },
+      {
+        "sr": "Ona nosi zlatnu {burmu}.",
+        "de": "Sie trägt einen goldenen Ehering."
+      }
+    ]
+  },
+  {
+    "word": "prsten",
+    "meanings": [
+      "Ring"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Kupio sam joj {prsten}.",
+        "de": "Ich habe ihr einen Ring gekauft."
+      },
+      {
+        "sr": "Kutija sa {prstenom} je u mom džepu.",
+        "de": "Die Schachtel mit dem Ring ist in meiner Tasche."
+      }
+    ]
+  },
+  {
+    "word": "veridba",
+    "meanings": [
+      "Verlobung"
+    ],
+    "label": "feminin",
+    "level": 4,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Njihova {veridba} je bila u maju.",
+        "de": "Ihre Verlobung war im Mai."
+      },
+      {
+        "sr": "Proslavili smo {veridbu} sa porodicom.",
+        "de": "Wir haben die Verlobung mit der Familie gefeiert."
+      }
+    ]
+  },
+  {
+    "word": "zaprositi",
+    "meanings": [
+      "einen Heiratsantrag machen"
+    ],
+    "label": "vollendet",
+    "level": 4,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Hoću da je {zaprosim} na moru.",
+        "de": "Ich will ihr am Meer einen Heiratsantrag machen."
+      },
+      {
+        "sr": "{Zaprosio} ju je pred celom porodicom.",
+        "de": "Er hat ihr vor der ganzen Familie einen Heiratsantrag gemacht."
+      }
+    ]
+  },
+  {
+    "word": "venčati se",
+    "meanings": [
+      "heiraten"
+    ],
+    "label": "vollendet",
+    "level": 3,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Želimo da se {venčamo} sledeće godine.",
+        "de": "Wir möchten nächstes Jahr heiraten."
+      },
+      {
+        "sr": "{Venčali} su se u maloj crkvi.",
+        "de": "Sie haben in einer kleinen Kirche geheiratet."
+      }
+    ]
+  },
+  {
+    "word": "oženiti se",
+    "meanings": [
+      "heiraten (als Mann)"
+    ],
+    "label": "vollendet",
+    "level": 3,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Njen brat se {oženio} prošle godine.",
+        "de": "Ihr Bruder hat letztes Jahr geheiratet."
+      },
+      {
+        "sr": "Hoću da se {oženim} tobom.",
+        "de": "Ich will dich heiraten."
+      }
+    ]
+  },
+  {
+    "word": "udati se",
+    "meanings": [
+      "heiraten (als Frau)"
+    ],
+    "label": "vollendet",
+    "level": 3,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Njena sestra se {udala} u junu.",
+        "de": "Ihre Schwester hat im Juni geheiratet."
+      },
+      {
+        "sr": "Hoćeš li da se {udaš} za mene?",
+        "de": "Willst du mich heiraten?"
+      }
+    ]
+  },
+  {
+    "word": "brak",
+    "meanings": [
+      "Ehe"
+    ],
+    "label": "maskulin",
+    "level": 3,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Njeni roditelji su u {braku} trideset godina.",
+        "de": "Ihre Eltern sind seit dreißig Jahren verheiratet."
+      },
+      {
+        "sr": "Želim im srećan {brak}.",
+        "de": "Ich wünsche ihnen eine glückliche Ehe."
+      }
+    ]
+  },
+  {
+    "word": "pozivnica",
+    "meanings": [
+      "Einladungskarte"
+    ],
+    "label": "feminin",
+    "level": 3,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Stigla je {pozivnica} za svadbu.",
+        "de": "Die Einladungskarte zur Hochzeit ist angekommen."
+      },
+      {
+        "sr": "Na {pozivnici} piše adresa restorana.",
+        "de": "Auf der Einladungskarte steht die Adresse des Restaurants."
+      }
+    ]
+  },
+  {
+    "word": "poziv",
+    "meanings": [
+      "Einladung",
+      "Anruf"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Hvala vam na {pozivu}.",
+        "de": "Vielen Dank für die Einladung."
+      },
+      {
+        "sr": "Dobili smo {poziv} na slavu.",
+        "de": "Wir haben eine Einladung zur Slava bekommen."
+      }
+    ]
+  },
+  {
+    "word": "hvala na pozivu",
+    "meanings": [
+      "danke für die Einladung"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "{Hvala na pozivu}, rado ćemo doći.",
+        "de": "Danke für die Einladung, wir kommen gern."
+      },
+      {
+        "sr": "{Hvala na pozivu}, ali tada nismo tu.",
+        "de": "Danke für die Einladung, aber da sind wir nicht da."
+      }
+    ]
+  },
+  {
+    "word": "ići u goste",
+    "meanings": [
+      "zu Besuch gehen"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Večeras {idemo u goste} kod kumova.",
+        "de": "Heute Abend gehen wir zu den Paten zu Besuch."
+      },
+      {
+        "sr": "Volim da {idem u goste} kod njene bake.",
+        "de": "Ich gehe gern ihre Oma besuchen."
+      }
+    ]
+  },
+  {
+    "word": "dobro došli",
+    "meanings": [
+      "willkommen (zu mehreren oder förmlich)"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "{Dobro došli}, uđite!",
+        "de": "Willkommen, kommen Sie herein!"
+      },
+      {
+        "sr": "{Dobro došli} u naš dom.",
+        "de": "Willkommen in unserem Zuhause."
+      }
+    ]
+  },
+  {
+    "word": "bolje vas našli",
+    "meanings": [
+      "schön, hier zu sein (Antwort auf Willkommen)"
+    ],
+    "label": null,
+    "level": 4,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Na dobro došli odgovaramo: {bolje vas našli}.",
+        "de": "Auf „willkommen“ antworten wir: Schön, hier zu sein."
+      },
+      {
+        "sr": "{Bolje vas našli}, hvala na pozivu!",
+        "de": "Schön, hier zu sein, danke für die Einladung!"
+      }
+    ]
+  },
+  {
+    "word": "zdravica",
+    "meanings": [
+      "Trinkspruch"
+    ],
+    "label": "feminin",
+    "level": 4,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Njen otac je održao {zdravicu}.",
+        "de": "Ihr Vater hat einen Trinkspruch gehalten."
+      },
+      {
+        "sr": "Kum uvek ima najbolju {zdravicu}.",
+        "de": "Der Trauzeuge hat immer den besten Trinkspruch."
+      }
+    ]
+  },
+  {
+    "word": "nazdraviti",
+    "meanings": [
+      "anstoßen",
+      "zuprosten"
+    ],
+    "label": "vollendet",
+    "level": 3,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Hajde da {nazdravimo} mladencima!",
+        "de": "Lasst uns auf das Brautpaar anstoßen!"
+      },
+      {
+        "sr": "{Nazdravili} smo za Novu godinu.",
+        "de": "Wir haben auf das neue Jahr angestoßen."
+      }
+    ]
+  },
+  {
+    "word": "ja častim",
+    "meanings": [
+      "ich lade ein",
+      "das geht auf mich"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Večeras {ja častim}!",
+        "de": "Heute Abend lade ich ein!"
+      },
+      {
+        "sr": "Ostavi novčanik, {ja častim}.",
+        "de": "Lass den Geldbeutel stecken, das geht auf mich."
+      }
+    ]
+  },
+  {
+    "word": "kolo",
+    "meanings": [
+      "Kolo (Reigentanz)"
+    ],
+    "label": "neutrum",
+    "level": 4,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Na svadbi svi igraju {kolo}.",
+        "de": "Auf der Hochzeit tanzen alle Kolo."
+      },
+      {
+        "sr": "Uhvati se u {kolo} sa nama!",
+        "de": "Reih dich bei uns in den Kolo ein!"
+      }
+    ]
+  },
+  {
+    "word": "igrati",
+    "meanings": [
+      "tanzen",
+      "spielen"
+    ],
+    "label": "unvollendet",
+    "level": 2,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Hoćeš li da {igraš} sa mnom?",
+        "de": "Willst du mit mir tanzen?"
+      },
+      {
+        "sr": "Celu noć smo {igrali} i pevali.",
+        "de": "Wir haben die ganze Nacht getanzt und gesungen."
+      }
+    ]
+  },
+  {
+    "word": "pevati",
+    "meanings": [
+      "singen"
+    ],
+    "label": "unvollendet",
+    "level": 2,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Njen deda lepo {peva}.",
+        "de": "Ihr Opa singt schön."
+      },
+      {
+        "sr": "Svi su {pevali} stare pesme.",
+        "de": "Alle haben alte Lieder gesungen."
+      }
+    ]
+  },
+  {
+    "word": "pesma",
+    "meanings": [
+      "Lied"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Ovo je moja omiljena {pesma}.",
+        "de": "Das ist mein Lieblingslied."
+      },
+      {
+        "sr": "Ne znam reči ove {pesme}.",
+        "de": "Ich kenne den Text dieses Liedes nicht."
+      }
+    ]
+  }
+]

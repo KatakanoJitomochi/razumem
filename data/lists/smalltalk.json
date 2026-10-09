@@ -1,0 +1,1553 @@
+[
+  {
+    "word": "odakle si",
+    "meanings": [
+      "woher kommst du"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "{Odakle si}, iz Beograda?",
+        "de": "Woher kommst du, aus Belgrad?"
+      },
+      {
+        "sr": "A ti, {odakle si}?",
+        "de": "Und du, woher kommst du?"
+      }
+    ]
+  },
+  {
+    "word": "ja sam iz",
+    "meanings": [
+      "ich komme aus",
+      "ich bin aus"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "{Ja sam iz} Nemačke.",
+        "de": "Ich komme aus Deutschland."
+      },
+      {
+        "sr": "{Ja sam iz} malog grada blizu Minhena.",
+        "de": "Ich komme aus einer kleinen Stadt bei München."
+      }
+    ]
+  },
+  {
+    "word": "zemlja",
+    "meanings": [
+      "Land",
+      "Erde"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Srbija je lepa {zemlja}.",
+        "de": "Serbien ist ein schönes Land."
+      },
+      {
+        "sr": "Iz koje {zemlje} dolaziš?",
+        "de": "Aus welchem Land kommst du?"
+      }
+    ]
+  },
+  {
+    "word": "grad",
+    "meanings": [
+      "Stadt"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Beograd je veliki {grad}.",
+        "de": "Belgrad ist eine große Stadt."
+      },
+      {
+        "sr": "Živim u malom {gradu}.",
+        "de": "Ich wohne in einer kleinen Stadt."
+      }
+    ]
+  },
+  {
+    "word": "selo",
+    "meanings": [
+      "Dorf"
+    ],
+    "label": "neutrum",
+    "level": 2,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Njena baka živi na {selu}.",
+        "de": "Ihre Oma lebt auf dem Dorf."
+      },
+      {
+        "sr": "Ovo {selo} je veoma mirno.",
+        "de": "Dieses Dorf ist sehr ruhig."
+      }
+    ]
+  },
+  {
+    "word": "Srbija",
+    "meanings": [
+      "Serbien"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "{Srbija} mi se mnogo sviđa.",
+        "de": "Serbien gefällt mir sehr."
+      },
+      {
+        "sr": "Prvi put sam u {Srbiji}.",
+        "de": "Ich bin zum ersten Mal in Serbien."
+      }
+    ]
+  },
+  {
+    "word": "Nemačka",
+    "meanings": [
+      "Deutschland"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "{Nemačka} je daleko odavde.",
+        "de": "Deutschland ist weit weg von hier."
+      },
+      {
+        "sr": "Živim i radim u {Nemačkoj}.",
+        "de": "Ich lebe und arbeite in Deutschland."
+      }
+    ]
+  },
+  {
+    "word": "Nemac",
+    "meanings": [
+      "Deutscher"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Ja sam {Nemac}, ali učim srpski.",
+        "de": "Ich bin Deutscher, aber ich lerne Serbisch."
+      },
+      {
+        "sr": "Imamo jednog {Nemca} u porodici.",
+        "de": "Wir haben einen Deutschen in der Familie."
+      }
+    ]
+  },
+  {
+    "word": "stranac",
+    "meanings": [
+      "Ausländer"
+    ],
+    "label": "maskulin",
+    "level": 3,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Ovde sam {stranac}, još se snalazim.",
+        "de": "Ich bin hier Ausländer, ich finde mich noch zurecht."
+      },
+      {
+        "sr": "Za {stranca} dobro govoriš srpski.",
+        "de": "Für einen Ausländer sprichst du gut Serbisch."
+      }
+    ]
+  },
+  {
+    "word": "jezik",
+    "meanings": [
+      "Sprache",
+      "Zunge"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Srpski je težak {jezik}.",
+        "de": "Serbisch ist eine schwere Sprache."
+      },
+      {
+        "sr": "Koje {jezike} govoriš?",
+        "de": "Welche Sprachen sprichst du?"
+      }
+    ]
+  },
+  {
+    "word": "srpski",
+    "meanings": [
+      "Serbisch"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Učim {srpski} već godinu dana.",
+        "de": "Ich lerne seit einem Jahr Serbisch."
+      },
+      {
+        "sr": "Kako se to kaže na {srpskom}?",
+        "de": "Wie sagt man das auf Serbisch?"
+      }
+    ]
+  },
+  {
+    "word": "nemački",
+    "meanings": [
+      "Deutsch"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Da li neko ovde govori {nemački}?",
+        "de": "Spricht hier jemand Deutsch?"
+      },
+      {
+        "sr": "Na {nemačkom} je to lakše.",
+        "de": "Auf Deutsch ist das leichter."
+      }
+    ]
+  },
+  {
+    "word": "engleski",
+    "meanings": [
+      "Englisch"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Sa njenim bratom pričam {engleski}.",
+        "de": "Mit ihrem Bruder spreche ich Englisch."
+      },
+      {
+        "sr": "Možemo li na {engleskom}?",
+        "de": "Können wir auf Englisch?"
+      }
+    ]
+  },
+  {
+    "word": "govorim malo srpski",
+    "meanings": [
+      "ich spreche ein bisschen Serbisch"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "{Govorim malo srpski}, ali razumem dosta.",
+        "de": "Ich spreche ein bisschen Serbisch, aber ich verstehe ziemlich viel."
+      },
+      {
+        "sr": "Izvinite, {govorim malo srpski}.",
+        "de": "Entschuldigen Sie, ich spreche nur ein bisschen Serbisch."
+      }
+    ]
+  },
+  {
+    "word": "reč",
+    "meanings": [
+      "Wort"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Ne znam ovu {reč}.",
+        "de": "Ich kenne dieses Wort nicht."
+      },
+      {
+        "sr": "Svaki dan učim deset novih {reči}.",
+        "de": "Ich lerne jeden Tag zehn neue Wörter."
+      }
+    ]
+  },
+  {
+    "word": "učiti",
+    "meanings": [
+      "lernen"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "{Učim} srpski zbog tebe.",
+        "de": "Ich lerne deinetwegen Serbisch."
+      },
+      {
+        "sr": "Gde si {učila} nemački?",
+        "de": "Wo hast du Deutsch gelernt?"
+      }
+    ]
+  },
+  {
+    "word": "vežbati",
+    "meanings": [
+      "üben",
+      "trainieren"
+    ],
+    "label": "unvollendet",
+    "level": 2,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Moram više da {vežbam}.",
+        "de": "Ich muss mehr üben."
+      },
+      {
+        "sr": "Sa njom {vežbam} srpski svaki dan.",
+        "de": "Mit ihr übe ich jeden Tag Serbisch."
+      }
+    ]
+  },
+  {
+    "word": "koliko dugo",
+    "meanings": [
+      "wie lange"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "{Koliko dugo} učiš srpski?",
+        "de": "Wie lange lernst du schon Serbisch?"
+      },
+      {
+        "sr": "{Koliko dugo} ostajete u Beogradu?",
+        "de": "Wie lange bleibt ihr in Belgrad?"
+      }
+    ]
+  },
+  {
+    "word": "ime",
+    "meanings": [
+      "Name",
+      "Vorname"
+    ],
+    "label": "neutrum",
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Kako ti je {ime}?",
+        "de": "Wie ist dein Name?"
+      },
+      {
+        "sr": "Zaboravio sam njegovo {ime}.",
+        "de": "Ich habe seinen Namen vergessen."
+      }
+    ]
+  },
+  {
+    "word": "koliko imaš godina",
+    "meanings": [
+      "wie alt bist du"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "A ti, {koliko imaš godina}?",
+        "de": "Und du, wie alt bist du?"
+      },
+      {
+        "sr": "{Koliko imaš godina}, ako smem da pitam?",
+        "de": "Wie alt bist du, wenn ich fragen darf?"
+      }
+    ]
+  },
+  {
+    "word": "čime se baviš",
+    "meanings": [
+      "was machst du beruflich",
+      "womit beschäftigst du dich"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "I, {čime se baviš}?",
+        "de": "Und, was machst du beruflich?"
+      },
+      {
+        "sr": "{Čime se baviš} u slobodno vreme?",
+        "de": "Womit beschäftigst du dich in deiner Freizeit?"
+      }
+    ]
+  },
+  {
+    "word": "posao",
+    "meanings": [
+      "Arbeit",
+      "Job"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Kakav je tvoj {posao}?",
+        "de": "Wie ist deine Arbeit?"
+      },
+      {
+        "sr": "Imam mnogo {posla}.",
+        "de": "Ich habe viel Arbeit."
+      }
+    ]
+  },
+  {
+    "word": "firma",
+    "meanings": [
+      "Firma"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Radim u maloj {firmi}.",
+        "de": "Ich arbeite in einer kleinen Firma."
+      },
+      {
+        "sr": "Naša {firma} ima deset zaposlenih.",
+        "de": "Unsere Firma hat zehn Angestellte."
+      }
+    ]
+  },
+  {
+    "word": "kolega",
+    "meanings": [
+      "Kollege"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Ovo je moj {kolega} sa posla.",
+        "de": "Das ist mein Arbeitskollege."
+      },
+      {
+        "sr": "Idem na ručak sa {kolegama}.",
+        "de": "Ich gehe mit den Kollegen mittagessen."
+      }
+    ]
+  },
+  {
+    "word": "šef",
+    "meanings": [
+      "Chef"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Moj {šef} je danas dobre volje.",
+        "de": "Mein Chef ist heute gut gelaunt."
+      },
+      {
+        "sr": "Moram da pitam {šefa}.",
+        "de": "Ich muss den Chef fragen."
+      }
+    ]
+  },
+  {
+    "word": "student",
+    "meanings": [
+      "Student"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Njen brat je {student}.",
+        "de": "Ihr Bruder ist Student."
+      },
+      {
+        "sr": "Kao {student} sam živeo u Berlinu.",
+        "de": "Als Student habe ich in Berlin gelebt."
+      }
+    ]
+  },
+  {
+    "word": "fakultet",
+    "meanings": [
+      "Universität",
+      "Fakultät"
+    ],
+    "label": "maskulin",
+    "level": 3,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Šta studiraš na {fakultetu}?",
+        "de": "Was studierst du an der Universität?"
+      },
+      {
+        "sr": "Završio sam {fakultet} pre deset godina.",
+        "de": "Ich habe die Universität vor zehn Jahren abgeschlossen."
+      }
+    ]
+  },
+  {
+    "word": "škola",
+    "meanings": [
+      "Schule"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "{Škola} počinje u osam.",
+        "de": "Die Schule beginnt um acht."
+      },
+      {
+        "sr": "U {školi} sam učio engleski.",
+        "de": "In der Schule habe ich Englisch gelernt."
+      }
+    ]
+  },
+  {
+    "word": "penzija",
+    "meanings": [
+      "Rente"
+    ],
+    "label": "feminin",
+    "level": 3,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Njen otac je u {penziji}.",
+        "de": "Ihr Vater ist in Rente."
+      },
+      {
+        "sr": "Sledeće godine ide u {penziju}.",
+        "de": "Nächstes Jahr geht er in Rente."
+      }
+    ]
+  },
+  {
+    "word": "kakvo je vreme",
+    "meanings": [
+      "wie ist das Wetter"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "{Kakvo je vreme} u Nemačkoj?",
+        "de": "Wie ist das Wetter in Deutschland?"
+      },
+      {
+        "sr": "{Kakvo je vreme} danas kod vas?",
+        "de": "Wie ist das Wetter heute bei euch?"
+      }
+    ]
+  },
+  {
+    "word": "vreme",
+    "meanings": [
+      "Wetter",
+      "Zeit"
+    ],
+    "label": "neutrum",
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Danas je lepo {vreme}.",
+        "de": "Heute ist schönes Wetter."
+      },
+      {
+        "sr": "Nemam {vremena} za hobi.",
+        "de": "Ich habe keine Zeit für ein Hobby."
+      }
+    ]
+  },
+  {
+    "word": "sunce",
+    "meanings": [
+      "Sonne"
+    ],
+    "label": "neutrum",
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Danas sija {sunce}.",
+        "de": "Heute scheint die Sonne."
+      },
+      {
+        "sr": "Sedimo na {suncu} i pijemo kafu.",
+        "de": "Wir sitzen in der Sonne und trinken Kaffee."
+      }
+    ]
+  },
+  {
+    "word": "kiša",
+    "meanings": [
+      "Regen"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Sutra će biti {kiše}.",
+        "de": "Morgen wird es Regen geben."
+      },
+      {
+        "sr": "Ne volim {kišu}.",
+        "de": "Ich mag keinen Regen."
+      }
+    ]
+  },
+  {
+    "word": "pada kiša",
+    "meanings": [
+      "es regnet"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Ponesi kišobran, {pada kiša}.",
+        "de": "Nimm einen Regenschirm mit, es regnet."
+      },
+      {
+        "sr": "{Pada kiša} ceo dan.",
+        "de": "Es regnet den ganzen Tag."
+      }
+    ]
+  },
+  {
+    "word": "sneg",
+    "meanings": [
+      "Schnee"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Napolju pada {sneg}.",
+        "de": "Draußen schneit es."
+      },
+      {
+        "sr": "Deca se igraju u {snegu}.",
+        "de": "Die Kinder spielen im Schnee."
+      }
+    ]
+  },
+  {
+    "word": "vetar",
+    "meanings": [
+      "Wind"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Danas duva jak {vetar}.",
+        "de": "Heute weht ein starker Wind."
+      },
+      {
+        "sr": "Hladno je zbog {vetra}.",
+        "de": "Wegen des Windes ist es kalt."
+      }
+    ]
+  },
+  {
+    "word": "hladno je",
+    "meanings": [
+      "es ist kalt"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "{Hladno je}, obuci jaknu.",
+        "de": "Es ist kalt, zieh eine Jacke an."
+      },
+      {
+        "sr": "{Hladno je} za ovo doba godine.",
+        "de": "Es ist kalt für diese Jahreszeit."
+      }
+    ]
+  },
+  {
+    "word": "toplo je",
+    "meanings": [
+      "es ist warm"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "{Toplo je}, možemo da sedimo napolju.",
+        "de": "Es ist warm, wir können draußen sitzen."
+      },
+      {
+        "sr": "{Toplo je} kao u proleće.",
+        "de": "Es ist warm wie im Frühling."
+      }
+    ]
+  },
+  {
+    "word": "slobodno vreme",
+    "meanings": [
+      "Freizeit"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Šta radiš u {slobodno vreme}?",
+        "de": "Was machst du in deiner Freizeit?"
+      },
+      {
+        "sr": "Nemam mnogo {slobodnog vremena}.",
+        "de": "Ich habe nicht viel Freizeit."
+      }
+    ]
+  },
+  {
+    "word": "hobi",
+    "meanings": [
+      "Hobby"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Kuvanje je moj {hobi}.",
+        "de": "Kochen ist mein Hobby."
+      },
+      {
+        "sr": "Imaš li neki {hobi}?",
+        "de": "Hast du ein Hobby?"
+      }
+    ]
+  },
+  {
+    "word": "muzika",
+    "meanings": [
+      "Musik"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Kakvu {muziku} slušaš?",
+        "de": "Was für Musik hörst du?"
+      },
+      {
+        "sr": "Ova {muzika} mi se sviđa.",
+        "de": "Diese Musik gefällt mir."
+      }
+    ]
+  },
+  {
+    "word": "film",
+    "meanings": [
+      "Film"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Jesi li gledala taj {film}?",
+        "de": "Hast du den Film gesehen?"
+      },
+      {
+        "sr": "Pričamo o novom {filmu}.",
+        "de": "Wir reden über den neuen Film."
+      }
+    ]
+  },
+  {
+    "word": "knjiga",
+    "meanings": [
+      "Buch"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Čitam dobru {knjigu}.",
+        "de": "Ich lese ein gutes Buch."
+      },
+      {
+        "sr": "Ova {knjiga} je o Srbiji.",
+        "de": "Dieses Buch handelt von Serbien."
+      }
+    ]
+  },
+  {
+    "word": "sport",
+    "meanings": [
+      "Sport"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Koji {sport} voliš?",
+        "de": "Welchen Sport magst du?"
+      },
+      {
+        "sr": "Bavim se {sportom} dva puta nedeljno.",
+        "de": "Ich treibe zweimal pro Woche Sport."
+      }
+    ]
+  },
+  {
+    "word": "fudbal",
+    "meanings": [
+      "Fußball"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Subotom igram {fudbal}.",
+        "de": "Samstags spiele ich Fußball."
+      },
+      {
+        "sr": "Njen tata stalno priča o {fudbalu}.",
+        "de": "Ihr Papa redet ständig über Fußball."
+      }
+    ]
+  },
+  {
+    "word": "šetnja",
+    "meanings": [
+      "Spaziergang"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Idemo u {šetnju} pored reke.",
+        "de": "Wir gehen am Fluss spazieren."
+      },
+      {
+        "sr": "Posle {šetnje} pijemo kafu.",
+        "de": "Nach dem Spaziergang trinken wir Kaffee."
+      }
+    ]
+  },
+  {
+    "word": "more",
+    "meanings": [
+      "Meer"
+    ],
+    "label": "neutrum",
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Leti idemo na {more}.",
+        "de": "Im Sommer fahren wir ans Meer."
+      },
+      {
+        "sr": "Volim da plivam u {moru}.",
+        "de": "Ich schwimme gern im Meer."
+      }
+    ]
+  },
+  {
+    "word": "planina",
+    "meanings": [
+      "Berg",
+      "Gebirge"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Zimi idemo na {planinu}.",
+        "de": "Im Winter fahren wir in die Berge."
+      },
+      {
+        "sr": "Vikend smo proveli na {planini}.",
+        "de": "Das Wochenende haben wir in den Bergen verbracht."
+      }
+    ]
+  },
+  {
+    "word": "odmor",
+    "meanings": [
+      "Urlaub",
+      "Pause"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Gde idete na {odmor}?",
+        "de": "Wohin fahrt ihr in den Urlaub?"
+      },
+      {
+        "sr": "Treba mi kratak {odmor}.",
+        "de": "Ich brauche eine kurze Pause."
+      }
+    ]
+  },
+  {
+    "word": "vikend",
+    "meanings": [
+      "Wochenende"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Šta radiš za {vikend}?",
+        "de": "Was machst du am Wochenende?"
+      },
+      {
+        "sr": "Želim ti lep {vikend}.",
+        "de": "Ich wünsche dir ein schönes Wochenende."
+      }
+    ]
+  },
+  {
+    "word": "vesti",
+    "meanings": [
+      "Nachrichten"
+    ],
+    "label": "Plural",
+    "level": 3,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Njen deda svako veče gleda {vesti}.",
+        "de": "Ihr Opa schaut jeden Abend die Nachrichten."
+      },
+      {
+        "sr": "Imam dobre {vesti}!",
+        "de": "Ich habe gute Nachrichten!"
+      }
+    ]
+  },
+  {
+    "word": "šta ima",
+    "meanings": [
+      "was gibt's",
+      "was geht"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Ćao, {šta ima}?",
+        "de": "Hallo, was gibt's?"
+      },
+      {
+        "sr": "{Šta ima} novo kod tebe?",
+        "de": "Was gibt's Neues bei dir?"
+      }
+    ]
+  },
+  {
+    "word": "ništa posebno",
+    "meanings": [
+      "nichts Besonderes"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Evo, {ništa posebno}.",
+        "de": "Ach, nichts Besonderes."
+      },
+      {
+        "sr": "Za vikend ne radim {ništa posebno}.",
+        "de": "Am Wochenende mache ich nichts Besonderes."
+      }
+    ]
+  },
+  {
+    "word": "kako je bilo",
+    "meanings": [
+      "wie war es",
+      "wie war's"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "{Kako je bilo} na poslu?",
+        "de": "Wie war es bei der Arbeit?"
+      },
+      {
+        "sr": "I, {kako je bilo}?",
+        "de": "Und, wie war's?"
+      }
+    ]
+  },
+  {
+    "word": "kako ti se sviđa",
+    "meanings": [
+      "wie gefällt dir"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "{Kako ti se sviđa} Srbija?",
+        "de": "Wie gefällt dir Serbien?"
+      },
+      {
+        "sr": "{Kako ti se sviđa} naša hrana?",
+        "de": "Wie gefällt dir unser Essen?"
+      }
+    ]
+  },
+  {
+    "word": "pričati",
+    "meanings": [
+      "reden",
+      "erzählen"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "O čemu {pričate}?",
+        "de": "Worüber redet ihr?"
+      },
+      {
+        "sr": "{Pričali} smo do kasno u noć.",
+        "de": "Wir haben bis spät in die Nacht geredet."
+      }
+    ]
+  },
+  {
+    "word": "razgovor",
+    "meanings": [
+      "Gespräch"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Bio je to prijatan {razgovor}.",
+        "de": "Das war ein angenehmes Gespräch."
+      },
+      {
+        "sr": "Hvala na {razgovoru}.",
+        "de": "Danke für das Gespräch."
+      }
+    ]
+  },
+  {
+    "word": "pitanje",
+    "meanings": [
+      "Frage"
+    ],
+    "label": "neutrum",
+    "level": 2,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Imam jedno {pitanje}.",
+        "de": "Ich habe eine Frage."
+      },
+      {
+        "sr": "To je dobro {pitanje}.",
+        "de": "Das ist eine gute Frage."
+      }
+    ]
+  },
+  {
+    "word": "odgovor",
+    "meanings": [
+      "Antwort"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Ne znam {odgovor}.",
+        "de": "Ich weiß die Antwort nicht."
+      },
+      {
+        "sr": "Hvala na brzom {odgovoru}.",
+        "de": "Danke für die schnelle Antwort."
+      }
+    ]
+  },
+  {
+    "word": "priča",
+    "meanings": [
+      "Geschichte"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "To je duga {priča}.",
+        "de": "Das ist eine lange Geschichte."
+      },
+      {
+        "sr": "Volim da slušam bakine {priče}.",
+        "de": "Ich höre gern Omas Geschichten."
+      }
+    ]
+  },
+  {
+    "word": "šala",
+    "meanings": [
+      "Witz",
+      "Scherz"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "To je bila samo {šala}.",
+        "de": "Das war nur ein Scherz."
+      },
+      {
+        "sr": "Njen stric zna dobre {šale}.",
+        "de": "Ihr Onkel kennt gute Witze."
+      }
+    ]
+  },
+  {
+    "word": "šalim se",
+    "meanings": [
+      "ich mache nur Spaß",
+      "ich scherze"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Ne ljuti se, {šalim se}.",
+        "de": "Sei nicht böse, ich mache nur Spaß."
+      },
+      {
+        "sr": "{Šalim se}, naravno da dolazim.",
+        "de": "Ich mache nur Spaß, natürlich komme ich."
+      }
+    ]
+  },
+  {
+    "word": "mišljenje",
+    "meanings": [
+      "Meinung"
+    ],
+    "label": "neutrum",
+    "level": 3,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Kakvo je tvoje {mišljenje}?",
+        "de": "Was ist deine Meinung?"
+      },
+      {
+        "sr": "Po mom {mišljenju}, to je dobra ideja.",
+        "de": "Meiner Meinung nach ist das eine gute Idee."
+      }
+    ]
+  },
+  {
+    "word": "mislim da",
+    "meanings": [
+      "ich denke, dass",
+      "ich glaube, dass"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "{Mislim da} si u pravu.",
+        "de": "Ich denke, dass du recht hast."
+      },
+      {
+        "sr": "{Mislim da} će sutra padati kiša.",
+        "de": "Ich glaube, dass es morgen regnen wird."
+      }
+    ]
+  },
+  {
+    "word": "slažem se",
+    "meanings": [
+      "ich stimme zu",
+      "einverstanden"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "{Slažem se} s tobom.",
+        "de": "Ich stimme dir zu."
+      },
+      {
+        "sr": "{Slažem se}, to je dobra ideja.",
+        "de": "Einverstanden, das ist eine gute Idee."
+      }
+    ]
+  },
+  {
+    "word": "ne slažem se",
+    "meanings": [
+      "ich bin anderer Meinung",
+      "ich stimme nicht zu"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Izvini, ali {ne slažem se}.",
+        "de": "Entschuldige, aber ich bin anderer Meinung."
+      },
+      {
+        "sr": "{Ne slažem se} sa tim.",
+        "de": "Dem stimme ich nicht zu."
+      }
+    ]
+  },
+  {
+    "word": "tako je",
+    "meanings": [
+      "genau",
+      "so ist es"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "{Tako je}, baš to sam hteo da kažem.",
+        "de": "Genau, das wollte ich gerade sagen."
+      },
+      {
+        "sr": "Da, {tako je}.",
+        "de": "Ja, so ist es."
+      }
+    ]
+  },
+  {
+    "word": "kako da ne",
+    "meanings": [
+      "aber sicher",
+      "na klar"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Hoćeš kafu? {Kako da ne}!",
+        "de": "Willst du Kaffee? Aber sicher!"
+      },
+      {
+        "sr": "{Kako da ne}, rado ću doći.",
+        "de": "Na klar, ich komme gern."
+      }
+    ]
+  },
+  {
+    "word": "nemam pojma",
+    "meanings": [
+      "ich habe keine Ahnung",
+      "keine Ahnung"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "{Nemam pojma} gde su ključevi.",
+        "de": "Ich habe keine Ahnung, wo die Schlüssel sind."
+      },
+      {
+        "sr": "Iskreno, {nemam pojma}.",
+        "de": "Ehrlich gesagt, keine Ahnung."
+      }
+    ]
+  },
+  {
+    "word": "nema veze",
+    "meanings": [
+      "macht nichts",
+      "egal"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "{Nema veze}, drugi put.",
+        "de": "Macht nichts, ein andermal."
+      },
+      {
+        "sr": "Kasniš? {Nema veze}.",
+        "de": "Du kommst zu spät? Macht nichts."
+      }
+    ]
+  },
+  {
+    "word": "nema problema",
+    "meanings": [
+      "kein Problem"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "{Nema problema}, sačekaću.",
+        "de": "Kein Problem, ich warte."
+      },
+      {
+        "sr": "Mogu da pomognem, {nema problema}.",
+        "de": "Ich kann helfen, kein Problem."
+      }
+    ]
+  },
+  {
+    "word": "čekaj",
+    "meanings": [
+      "warte",
+      "Moment"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "{Čekaj}, nisam razumeo.",
+        "de": "Warte, ich habe es nicht verstanden."
+      },
+      {
+        "sr": "{Čekaj} malo, odmah dolazim.",
+        "de": "Warte kurz, ich komme sofort."
+      }
+    ]
+  },
+  {
+    "word": "baš",
+    "meanings": [
+      "echt",
+      "richtig"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Danas je {baš} hladno.",
+        "de": "Heute ist es echt kalt."
+      },
+      {
+        "sr": "{Baš} mi je drago.",
+        "de": "Das freut mich echt."
+      }
+    ]
+  },
+  {
+    "word": "stvarno",
+    "meanings": [
+      "wirklich",
+      "tatsächlich"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "{Stvarno}? Nisam znao.",
+        "de": "Wirklich? Das wusste ich nicht."
+      },
+      {
+        "sr": "Ovo je {stvarno} dobro.",
+        "de": "Das ist wirklich gut."
+      }
+    ]
+  },
+  {
+    "word": "ozbiljno",
+    "meanings": [
+      "im Ernst",
+      "ernsthaft"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "{Ozbiljno}? Ne mogu da verujem.",
+        "de": "Im Ernst? Ich kann es nicht glauben."
+      },
+      {
+        "sr": "Pitam te {ozbiljno}.",
+        "de": "Ich frage dich im Ernst."
+      }
+    ]
+  },
+  {
+    "word": "znači",
+    "meanings": [
+      "also",
+      "das heißt"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "{Znači}, vidimo se u osam?",
+        "de": "Also, wir sehen uns um acht?"
+      },
+      {
+        "sr": "To {znači} da dolaziš?",
+        "de": "Das heißt, du kommst?"
+      }
+    ]
+  },
+  {
+    "word": "pa",
+    "meanings": [
+      "na ja",
+      "tja"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "{Pa}, ne znam baš.",
+        "de": "Na ja, ich weiß nicht so recht."
+      },
+      {
+        "sr": "{Pa} dobro, idemo.",
+        "de": "Na gut, gehen wir."
+      }
+    ]
+  },
+  {
+    "word": "inače",
+    "meanings": [
+      "übrigens",
+      "sonst"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "{Inače}, kako su tvoji?",
+        "de": "Übrigens, wie geht es deiner Familie?"
+      },
+      {
+        "sr": "Požuri, {inače} kasnimo.",
+        "de": "Beeil dich, sonst kommen wir zu spät."
+      }
+    ]
+  },
+  {
+    "word": "zapravo",
+    "meanings": [
+      "eigentlich"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "{Zapravo}, nisam siguran.",
+        "de": "Eigentlich bin ich mir nicht sicher."
+      },
+      {
+        "sr": "Šta {zapravo} radiš u firmi?",
+        "de": "Was machst du eigentlich in der Firma?"
+      }
+    ]
+  },
+  {
+    "word": "odlično",
+    "meanings": [
+      "ausgezeichnet",
+      "super"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "{Odlično}, vidimo se sutra!",
+        "de": "Super, wir sehen uns morgen!"
+      },
+      {
+        "sr": "Srpski ti ide {odlično}.",
+        "de": "Dein Serbisch läuft ausgezeichnet."
+      }
+    ]
+  }
+]

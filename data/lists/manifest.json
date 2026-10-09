@@ -1,0 +1,130 @@
+[
+  {
+    "id": "erste-worte",
+    "kind": "topic",
+    "name": "Erste Worte",
+    "description": "Begrüßen, bedanken, nachfragen – das Allererste.",
+    "wordCount": 86,
+    "chunkPath": "data/lists/erste-worte.json"
+  },
+  {
+    "id": "zu-zweit",
+    "kind": "topic",
+    "name": "Zu zweit",
+    "description": "Für euch beide: Zuneigung, Verabredungen, kleine Nachrichten.",
+    "wordCount": 81,
+    "chunkPath": "data/lists/zu-zweit.json"
+  },
+  {
+    "id": "ihre-familie",
+    "kind": "topic",
+    "name": "Ihre Familie",
+    "description": "Eltern, Geschwister, Verwandte, Besuche und das gemeinsame Zuhause.",
+    "wordCount": 99,
+    "chunkPath": "data/lists/ihre-familie.json"
+  },
+  {
+    "id": "am-tisch",
+    "kind": "topic",
+    "name": "Am Tisch",
+    "description": "Iss mit ihrer Familie und sprich beim Essen ganz natürlich.",
+    "wordCount": 81,
+    "chunkPath": "data/lists/am-tisch.json"
+  },
+  {
+    "id": "feste-braeuche",
+    "kind": "topic",
+    "name": "Feste & Bräuche",
+    "description": "Slava, Weihnachten, Hochzeit – feiern und gratulieren.",
+    "wordCount": 81,
+    "chunkPath": "data/lists/feste-braeuche.json"
+  },
+  {
+    "id": "smalltalk",
+    "kind": "topic",
+    "name": "Smalltalk",
+    "description": "Woher, was, wie war's – locker ins Gespräch kommen.",
+    "wordCount": 80,
+    "chunkPath": "data/lists/smalltalk.json"
+  },
+  {
+    "id": "zahlen-zeit-tage",
+    "kind": "topic",
+    "name": "Zahlen, Zeit, Tage",
+    "description": "Zählen, Uhrzeit, Wochentage, Monate – wann und wie viel.",
+    "wordCount": 87,
+    "chunkPath": "data/lists/zahlen-zeit-tage.json"
+  },
+  {
+    "id": "unterwegs-in-serbien",
+    "kind": "topic",
+    "name": "Unterwegs in Serbien",
+    "description": "Bus, Auto, Grenze, Hotel – den Weg finden und ankommen.",
+    "wordCount": 81,
+    "chunkPath": "data/lists/unterwegs-in-serbien.json"
+  },
+  {
+    "id": "restaurant-kafana",
+    "kind": "topic",
+    "name": "Restaurant & Kafana",
+    "description": "Bestellen, probieren, bezahlen – von Ćevapi bis Rakija.",
+    "wordCount": 80,
+    "chunkPath": "data/lists/restaurant-kafana.json"
+  },
+  {
+    "id": "einkaufen-markt",
+    "kind": "topic",
+    "name": "Einkaufen & Markt",
+    "description": "Markt, Laden, Preise – Obst, Gemüse, Kleidung und Geld.",
+    "wordCount": 82,
+    "chunkPath": "data/lists/einkaufen-markt.json"
+  },
+  {
+    "id": "haeufigste-verben",
+    "kind": "topic",
+    "name": "Die häufigsten Verben",
+    "description": "Sein, haben, gehen, sagen – die Verben, die du täglich brauchst.",
+    "wordCount": 85,
+    "chunkPath": "data/lists/haeufigste-verben.json"
+  },
+  {
+    "id": "adjektive-gefuehle",
+    "kind": "topic",
+    "name": "Adjektive & Gefühle",
+    "description": "Wie etwas ist und wie es dir geht – Eigenschaften, Farben, Gefühle.",
+    "wordCount": 87,
+    "chunkPath": "data/lists/adjektive-gefuehle.json"
+  },
+  {
+    "id": "stufe-1",
+    "kind": "level",
+    "name": "Stufe 1",
+    "description": "Die allerersten Wörter",
+    "wordCount": 376,
+    "chunkPath": "data/lists/stufe-1.json"
+  },
+  {
+    "id": "stufe-2",
+    "kind": "level",
+    "name": "Stufe 2",
+    "description": "Alltag",
+    "wordCount": 446,
+    "chunkPath": "data/lists/stufe-2.json"
+  },
+  {
+    "id": "stufe-3",
+    "kind": "level",
+    "name": "Stufe 3",
+    "description": "Erweiterter Alltag",
+    "wordCount": 154,
+    "chunkPath": "data/lists/stufe-3.json"
+  },
+  {
+    "id": "stufe-4",
+    "kind": "level",
+    "name": "Stufe 4",
+    "description": "Speziell und kulturell",
+    "wordCount": 34,
+    "chunkPath": "data/lists/stufe-4.json"
+  }
+]

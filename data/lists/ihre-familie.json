@@ -1,0 +1,1897 @@
+[
+  {
+    "word": "majka",
+    "meanings": [
+      "Mutter"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Moja {majka} živi u Nišu.",
+        "de": "Meine Mutter lebt in Niš."
+      },
+      {
+        "sr": "Sutra idem kod {majke}.",
+        "de": "Morgen gehe ich zu meiner Mutter."
+      }
+    ]
+  },
+  {
+    "word": "otac",
+    "meanings": [
+      "Vater"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Njen {otac} radi u Beogradu.",
+        "de": "Ihr Vater arbeitet in Belgrad."
+      },
+      {
+        "sr": "Razgovarao sam sa njenim {ocem}.",
+        "de": "Ich habe mit ihrem Vater gesprochen."
+      }
+    ]
+  },
+  {
+    "word": "roditelji",
+    "meanings": [
+      "Eltern"
+    ],
+    "label": "Plural",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Njeni {roditelji} dolaze u subotu.",
+        "de": "Ihre Eltern kommen am Samstag."
+      },
+      {
+        "sr": "Večerao sam sa njenim {roditeljima}.",
+        "de": "Ich habe mit ihren Eltern zu Abend gegessen."
+      }
+    ]
+  },
+  {
+    "word": "sin",
+    "meanings": [
+      "Sohn"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Njihov {sin} ide u školu.",
+        "de": "Ihr Sohn geht zur Schule."
+      },
+      {
+        "sr": "Ponosni su na svog {sina}.",
+        "de": "Sie sind stolz auf ihren Sohn."
+      }
+    ]
+  },
+  {
+    "word": "ćerka",
+    "meanings": [
+      "Tochter"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Njihova {ćerka} voli da crta.",
+        "de": "Ihre Tochter zeichnet gern."
+      },
+      {
+        "sr": "Juče sam upoznao njihovu {ćerku}.",
+        "de": "Gestern habe ich ihre Tochter kennengelernt."
+      }
+    ]
+  },
+  {
+    "word": "brat",
+    "meanings": [
+      "Bruder"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Moj {brat} dolazi večeras.",
+        "de": "Mein Bruder kommt heute Abend."
+      },
+      {
+        "sr": "Često pričam o svom {bratu}.",
+        "de": "Ich spreche oft über meinen Bruder."
+      }
+    ]
+  },
+  {
+    "word": "sestra",
+    "meanings": [
+      "Schwester"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Tvoja {sestra} je veoma ljubazna.",
+        "de": "Deine Schwester ist sehr freundlich."
+      },
+      {
+        "sr": "Kupio sam poklon za tvoju {sestru}.",
+        "de": "Ich habe ein Geschenk für deine Schwester gekauft."
+      }
+    ]
+  },
+  {
+    "word": "baka",
+    "meanings": [
+      "Oma",
+      "Großmutter"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Moja {baka} pravi odlične palačinke.",
+        "de": "Meine Oma macht ausgezeichnete Pfannkuchen."
+      },
+      {
+        "sr": "U nedelju idemo kod {bake}.",
+        "de": "Am Sonntag gehen wir zu Oma."
+      }
+    ]
+  },
+  {
+    "word": "deda",
+    "meanings": [
+      "Opa",
+      "Großvater"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Njen {deda} voli da gleda fudbal.",
+        "de": "Ihr Opa schaut gern Fußball."
+      },
+      {
+        "sr": "Sedeli smo pored njenog {dede}.",
+        "de": "Wir saßen neben ihrem Opa."
+      }
+    ]
+  },
+  {
+    "word": "porodica",
+    "meanings": [
+      "Familie"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Njena {porodica} živi blizu centra.",
+        "de": "Ihre Familie lebt nahe dem Zentrum."
+      },
+      {
+        "sr": "Radujem se susretu sa tvojom {porodicom}.",
+        "de": "Ich freue mich auf das Treffen mit deiner Familie."
+      }
+    ]
+  },
+  {
+    "word": "rođak",
+    "meanings": [
+      "Cousin",
+      "Verwandter"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Moj {rođak} studira u Kragujevcu.",
+        "de": "Mein Cousin studiert in Kragujevac."
+      },
+      {
+        "sr": "Prošlog leta sam posetio svog {rođaka}.",
+        "de": "Letzten Sommer habe ich meinen Cousin besucht."
+      }
+    ]
+  },
+  {
+    "word": "rođaka",
+    "meanings": [
+      "Cousine",
+      "Verwandte"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Moja {rođaka} živi u Novom Sadu.",
+        "de": "Meine Cousine lebt in Novi Sad."
+      },
+      {
+        "sr": "Pozvao sam svoju {rođaku} na ručak.",
+        "de": "Ich habe meine Cousine zum Mittagessen eingeladen."
+      }
+    ]
+  },
+  {
+    "word": "ujak",
+    "meanings": [
+      "Onkel (Bruder der Mutter)"
+    ],
+    "label": "maskulin",
+    "level": 3,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Njen {ujak} ima malu kuću na selu.",
+        "de": "Ihr Onkel hat ein kleines Haus auf dem Land."
+      },
+      {
+        "sr": "Za praznike ćemo posetiti njenog {ujaka}.",
+        "de": "An den Feiertagen werden wir ihren Onkel besuchen."
+      }
+    ]
+  },
+  {
+    "word": "stric",
+    "meanings": [
+      "Onkel (Bruder des Vaters)"
+    ],
+    "label": "maskulin",
+    "level": 3,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Moj {stric} ima restoran.",
+        "de": "Mein Onkel hat ein Restaurant."
+      },
+      {
+        "sr": "Juče sam razgovarao sa svojim {stricem}.",
+        "de": "Gestern habe ich mit meinem Onkel gesprochen."
+      }
+    ]
+  },
+  {
+    "word": "tetka",
+    "meanings": [
+      "Tante"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Njena {tetka} dolazi iz Niša.",
+        "de": "Ihre Tante kommt aus Niš."
+      },
+      {
+        "sr": "Poslao sam razglednicu njenoj {tetki}.",
+        "de": "Ich habe ihrer Tante eine Postkarte geschickt."
+      }
+    ]
+  },
+  {
+    "word": "ujna",
+    "meanings": [
+      "Tante (Frau des Onkels, Mutterseite)"
+    ],
+    "label": "feminin",
+    "level": 4,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Moja {ujna} pravi domaći hleb.",
+        "de": "Meine Tante backt hausgemachtes Brot."
+      },
+      {
+        "sr": "Za stolom sam sedeo pored svoje {ujne}.",
+        "de": "Am Tisch saß ich neben meiner Tante."
+      }
+    ]
+  },
+  {
+    "word": "strina",
+    "meanings": [
+      "Tante (Frau des Onkels, Vaterseite)"
+    ],
+    "label": "feminin",
+    "level": 4,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Njegova {strina} živi u staroj kući.",
+        "de": "Seine Tante lebt in einem alten Haus."
+      },
+      {
+        "sr": "Razgovarao sam sa njegovom {strinom}.",
+        "de": "Ich habe mit seiner Tante gesprochen."
+      }
+    ]
+  },
+  {
+    "word": "suprug",
+    "meanings": [
+      "Ehemann"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Njen {suprug} radi od kuće.",
+        "de": "Ihr Ehemann arbeitet von zu Hause aus."
+      },
+      {
+        "sr": "Putovala je sa svojim {suprugom}.",
+        "de": "Sie ist mit ihrem Ehemann gereist."
+      }
+    ]
+  },
+  {
+    "word": "supruga",
+    "meanings": [
+      "Ehefrau"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Njegova {supruga} govori nemački.",
+        "de": "Seine Ehefrau spricht Deutsch."
+      },
+      {
+        "sr": "Upoznali smo njegovu {suprugu} na svadbi.",
+        "de": "Wir haben seine Ehefrau auf der Hochzeit kennengelernt."
+      }
+    ]
+  },
+  {
+    "word": "unuk",
+    "meanings": [
+      "Enkel"
+    ],
+    "label": "maskulin",
+    "level": 3,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Bakin {unuk} ima pet godina.",
+        "de": "Omas Enkel ist fünf Jahre alt."
+      },
+      {
+        "sr": "Deda se igra sa svojim {unukom}.",
+        "de": "Opa spielt mit seinem Enkel."
+      }
+    ]
+  },
+  {
+    "word": "unuka",
+    "meanings": [
+      "Enkelin"
+    ],
+    "label": "feminin",
+    "level": 3,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Njihova {unuka} ide u vrtić.",
+        "de": "Ihre Enkelin geht in den Kindergarten."
+      },
+      {
+        "sr": "Baka je kupila lutku svojoj {unuci}.",
+        "de": "Oma hat ihrer Enkelin eine Puppe gekauft."
+      }
+    ]
+  },
+  {
+    "word": "zet",
+    "meanings": [
+      "Schwiegersohn"
+    ],
+    "label": "maskulin",
+    "level": 4,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Njen {zet} je lekar.",
+        "de": "Ihr Schwiegersohn ist Arzt."
+      },
+      {
+        "sr": "Njeni roditelji su ponosni na svog {zeta}.",
+        "de": "Ihre Eltern sind stolz auf ihren Schwiegersohn."
+      }
+    ]
+  },
+  {
+    "word": "snaja",
+    "meanings": [
+      "Schwiegertochter"
+    ],
+    "label": "feminin",
+    "level": 4,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Njihova {snaja} radi u školi.",
+        "de": "Ihre Schwiegertochter arbeitet in einer Schule."
+      },
+      {
+        "sr": "Svi su razgovarali sa njihovom {snajom}.",
+        "de": "Alle haben mit ihrer Schwiegertochter gesprochen."
+      }
+    ]
+  },
+  {
+    "word": "svekar",
+    "meanings": [
+      "Schwiegervater (Vater des Mannes)"
+    ],
+    "label": "maskulin",
+    "level": 4,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Njen {svekar} često dolazi u goste.",
+        "de": "Ihr Schwiegervater kommt oft zu Besuch."
+      },
+      {
+        "sr": "Razgovarala je sa svojim {svekrom}.",
+        "de": "Sie hat mit ihrem Schwiegervater gesprochen."
+      }
+    ]
+  },
+  {
+    "word": "svekrva",
+    "meanings": [
+      "Schwiegermutter (Mutter des Mannes)"
+    ],
+    "label": "feminin",
+    "level": 4,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Njena {svekrva} živi u blizini.",
+        "de": "Ihre Schwiegermutter lebt in der Nähe."
+      },
+      {
+        "sr": "Pozvala je svoju {svekrvu} na ručak.",
+        "de": "Sie hat ihre Schwiegermutter zum Mittagessen eingeladen."
+      }
+    ]
+  },
+  {
+    "word": "tast",
+    "meanings": [
+      "Schwiegervater (Vater der Frau)"
+    ],
+    "label": "maskulin",
+    "level": 4,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Moj {tast} voli da peca.",
+        "de": "Mein Schwiegervater angelt gern."
+      },
+      {
+        "sr": "Prošetao sam sa svojim {tastom}.",
+        "de": "Ich bin mit meinem Schwiegervater spazieren gegangen."
+      }
+    ]
+  },
+  {
+    "word": "tašta",
+    "meanings": [
+      "Schwiegermutter (Mutter der Frau)"
+    ],
+    "label": "feminin",
+    "level": 4,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Moja {tašta} sprema odličan ručak.",
+        "de": "Meine Schwiegermutter bereitet ein ausgezeichnetes Mittagessen zu."
+      },
+      {
+        "sr": "Doneo sam cveće svojoj {tašti}.",
+        "de": "Ich habe meiner Schwiegermutter Blumen mitgebracht."
+      }
+    ]
+  },
+  {
+    "word": "kum",
+    "meanings": [
+      "Pate",
+      "Trauzeuge"
+    ],
+    "label": "maskulin",
+    "level": 3,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Marko je moj {kum}.",
+        "de": "Marko ist mein Pate."
+      },
+      {
+        "sr": "Na venčanju sam sedeo pored svog {kuma}.",
+        "de": "Bei der Hochzeit saß ich neben meinem Trauzeugen."
+      }
+    ]
+  },
+  {
+    "word": "kuma",
+    "meanings": [
+      "Patin",
+      "Trauzeugin"
+    ],
+    "label": "feminin",
+    "level": 3,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Ana je bila njena {kuma}.",
+        "de": "Ana war ihre Patin."
+      },
+      {
+        "sr": "Mladoženja je zahvalio svojoj {kumi}.",
+        "de": "Der Bräutigam hat seiner Trauzeugin gedankt."
+      }
+    ]
+  },
+  {
+    "word": "gost",
+    "meanings": [
+      "Gast"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Večeras imamo jednog {gosta} iz Nemačke.",
+        "de": "Heute Abend haben wir einen Gast aus Deutschland."
+      },
+      {
+        "sr": "Naš {gost} voli srpsku hranu.",
+        "de": "Unser Gast mag serbisches Essen."
+      }
+    ]
+  },
+  {
+    "word": "domaćin",
+    "meanings": [
+      "Gastgeber",
+      "Hausherr"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Naš {domaćin} nas je lepo dočekao.",
+        "de": "Unser Gastgeber hat uns herzlich empfangen."
+      },
+      {
+        "sr": "Zahvalio sam se {domaćinu} na večeri.",
+        "de": "Ich habe mich beim Gastgeber für das Abendessen bedankt."
+      }
+    ]
+  },
+  {
+    "word": "domaćica",
+    "meanings": [
+      "Gastgeberin"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Ljubazna {domaćica} nam je ponudila kafu.",
+        "de": "Die freundliche Gastgeberin hat uns Kaffee angeboten."
+      },
+      {
+        "sr": "Pitao sam {domaćicu} gde mogu da ostavim jaknu.",
+        "de": "Ich habe die Gastgeberin gefragt, wo ich meine Jacke ablegen kann."
+      }
+    ]
+  },
+  {
+    "word": "gostoprimstvo",
+    "meanings": [
+      "Gastfreundschaft"
+    ],
+    "label": "neutrum",
+    "level": 3,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Hvala vam na divnom {gostoprimstvu}.",
+        "de": "Vielen Dank für eure wunderbare Gastfreundschaft."
+      },
+      {
+        "sr": "U Srbiji smo posebno cenili njihovo {gostoprimstvo}.",
+        "de": "In Serbien haben wir ihre Gastfreundschaft besonders geschätzt."
+      }
+    ]
+  },
+  {
+    "word": "poseta",
+    "meanings": [
+      "Besuch"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Naša {poseta} traje do nedelje.",
+        "de": "Unser Besuch dauert bis Sonntag."
+      },
+      {
+        "sr": "Radujem se tvojoj {poseti}.",
+        "de": "Ich freue mich auf deinen Besuch."
+      }
+    ]
+  },
+  {
+    "word": "komšija",
+    "meanings": [
+      "Nachbar"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Naš {komšija} ima dva psa.",
+        "de": "Unser Nachbar hat zwei Hunde."
+      },
+      {
+        "sr": "Jutros sam pričao sa {komšijom}.",
+        "de": "Heute Morgen habe ich mit dem Nachbarn gesprochen."
+      }
+    ]
+  },
+  {
+    "word": "komšinica",
+    "meanings": [
+      "Nachbarin"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Nova {komšinica} se zove Jelena.",
+        "de": "Die neue Nachbarin heißt Jelena."
+      },
+      {
+        "sr": "Pomogao sam {komšinici} da unese kese.",
+        "de": "Ich habe der Nachbarin geholfen, die Tüten hineinzutragen."
+      }
+    ]
+  },
+  {
+    "word": "kuća",
+    "meanings": [
+      "Haus"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Njena {kuća} je blizu centra.",
+        "de": "Ihr Haus liegt nahe am Zentrum."
+      },
+      {
+        "sr": "Živimo u velikoj {kući}.",
+        "de": "Wir wohnen in einem großen Haus."
+      }
+    ]
+  },
+  {
+    "word": "stan",
+    "meanings": [
+      "Wohnung"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Oni žive u malom {stanu}.",
+        "de": "Sie wohnen in einer kleinen Wohnung."
+      },
+      {
+        "sr": "Njihov {stan} ima veliki balkon.",
+        "de": "Ihre Wohnung hat einen großen Balkon."
+      }
+    ]
+  },
+  {
+    "word": "soba",
+    "meanings": [
+      "Zimmer"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Gostinska {soba} je spremna.",
+        "de": "Das Gästezimmer ist fertig."
+      },
+      {
+        "sr": "U {sobi} ima dovoljno mesta za sve.",
+        "de": "Im Zimmer ist genug Platz für alle."
+      }
+    ]
+  },
+  {
+    "word": "dnevna soba",
+    "meanings": [
+      "Wohnzimmer"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "U {dnevnoj sobi} gledamo filmove zajedno.",
+        "de": "Im Wohnzimmer schauen wir zusammen Filme."
+      },
+      {
+        "sr": "Njihova {dnevna soba} ima velike prozore.",
+        "de": "Ihr Wohnzimmer hat große Fenster."
+      }
+    ]
+  },
+  {
+    "word": "spavaća soba",
+    "meanings": [
+      "Schlafzimmer"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "U {spavaćoj sobi} je veliki krevet.",
+        "de": "Im Schlafzimmer steht ein großes Bett."
+      },
+      {
+        "sr": "Njena {spavaća soba} gleda na baštu.",
+        "de": "Ihr Schlafzimmer geht zum Garten hinaus."
+      }
+    ]
+  },
+  {
+    "word": "kuhinja",
+    "meanings": [
+      "Küche"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Miris kafe dolazi iz {kuhinje}.",
+        "de": "Der Kaffeeduft kommt aus der Küche."
+      },
+      {
+        "sr": "Njena {kuhinja} je mala, ali praktična.",
+        "de": "Ihre Küche ist klein, aber praktisch."
+      }
+    ]
+  },
+  {
+    "word": "kupatilo",
+    "meanings": [
+      "Badezimmer"
+    ],
+    "label": "neutrum",
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Peškiri su u {kupatilu}.",
+        "de": "Die Handtücher sind im Badezimmer."
+      },
+      {
+        "sr": "Njihovo {kupatilo} je nedavno renovirano.",
+        "de": "Ihr Badezimmer wurde vor Kurzem renoviert."
+      }
+    ]
+  },
+  {
+    "word": "hodnik",
+    "meanings": [
+      "Flur"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Ostavi cipele u {hodniku}.",
+        "de": "Stell die Schuhe in den Flur."
+      },
+      {
+        "sr": "Dugačak {hodnik} vodi do dnevne sobe.",
+        "de": "Ein langer Flur führt zum Wohnzimmer."
+      }
+    ]
+  },
+  {
+    "word": "ključ",
+    "meanings": [
+      "Schlüssel"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Ne mogu da nađem {ključ}.",
+        "de": "Ich kann den Schlüssel nicht finden."
+      },
+      {
+        "sr": "Vrata su zaključana, a ja sam bez {ključa}.",
+        "de": "Die Tür ist abgeschlossen, und ich habe keinen Schlüssel."
+      }
+    ]
+  },
+  {
+    "word": "vrata",
+    "meanings": [
+      "Tür"
+    ],
+    "label": "Plural",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Molim te, zatvori {vrata}.",
+        "de": "Bitte mach die Tür zu."
+      },
+      {
+        "sr": "Ispred {vrata} čekaju naši prijatelji.",
+        "de": "Vor der Tür warten unsere Freunde."
+      }
+    ]
+  },
+  {
+    "word": "prozor",
+    "meanings": [
+      "Fenster"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Možeš li da otvoriš {prozor}?",
+        "de": "Kannst du das Fenster öffnen?"
+      },
+      {
+        "sr": "Pored {prozora} stoji biljka.",
+        "de": "Neben dem Fenster steht eine Pflanze."
+      }
+    ]
+  },
+  {
+    "word": "krevet",
+    "meanings": [
+      "Bett"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Mačka spava na {krevetu}.",
+        "de": "Die Katze schläft auf dem Bett."
+      },
+      {
+        "sr": "Kupili smo novi {krevet}.",
+        "de": "Wir haben ein neues Bett gekauft."
+      }
+    ]
+  },
+  {
+    "word": "ormar",
+    "meanings": [
+      "Schrank"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Jakna visi u {ormaru}.",
+        "de": "Die Jacke hängt im Schrank."
+      },
+      {
+        "sr": "Taj {ormar} je napravio moj deda.",
+        "de": "Diesen Schrank hat mein Opa gebaut."
+      }
+    ]
+  },
+  {
+    "word": "peškir",
+    "meanings": [
+      "Handtuch"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Treba mi čist {peškir}.",
+        "de": "Ich brauche ein sauberes Handtuch."
+      },
+      {
+        "sr": "Obriši ruke {peškirom}.",
+        "de": "Trockne dir die Hände mit dem Handtuch ab."
+      }
+    ]
+  },
+  {
+    "word": "papuče",
+    "meanings": [
+      "Hausschuhe"
+    ],
+    "label": "Plural",
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Obuj {papuče} pre nego što uđeš.",
+        "de": "Zieh die Hausschuhe an, bevor du hereinkommst."
+      },
+      {
+        "sr": "Baka mi je dala tople {papuče}.",
+        "de": "Oma hat mir warme Hausschuhe gegeben."
+      }
+    ]
+  },
+  {
+    "word": "dvorište",
+    "meanings": [
+      "Hof"
+    ],
+    "label": "neutrum",
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Deca se igraju u {dvorištu}.",
+        "de": "Die Kinder spielen im Hof."
+      },
+      {
+        "sr": "Njihovo {dvorište} je puno cveća.",
+        "de": "Ihr Hof ist voller Blumen."
+      }
+    ]
+  },
+  {
+    "word": "bašta",
+    "meanings": [
+      "Garten"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Leti često sedimo u {bašti}.",
+        "de": "Im Sommer sitzen wir oft im Garten."
+      },
+      {
+        "sr": "Njena {bašta} je puna ruža.",
+        "de": "Ihr Garten ist voller Rosen."
+      }
+    ]
+  },
+  {
+    "word": "sprat",
+    "meanings": [
+      "Stockwerk"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Njihov stan je na drugom {spratu}.",
+        "de": "Ihre Wohnung ist im zweiten Stock."
+      },
+      {
+        "sr": "Kuća ima samo jedan {sprat}.",
+        "de": "Das Haus hat nur ein Stockwerk."
+      }
+    ]
+  },
+  {
+    "word": "adresa",
+    "meanings": [
+      "Adresse"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Pošalji mi svoju {adresu}.",
+        "de": "Schick mir deine Adresse."
+      },
+      {
+        "sr": "Na ovoj {adresi} živi njena baka.",
+        "de": "An dieser Adresse wohnt ihre Oma."
+      }
+    ]
+  },
+  {
+    "word": "telefon",
+    "meanings": [
+      "Telefon"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Moj {telefon} je ostao u kuhinji.",
+        "de": "Mein Telefon ist in der Küche liegen geblieben."
+      },
+      {
+        "sr": "Pozvao sam je sa kućnog {telefona}.",
+        "de": "Ich habe sie vom Haustelefon aus angerufen."
+      }
+    ]
+  },
+  {
+    "word": "rođendan",
+    "meanings": [
+      "Geburtstag"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Danas je njen {rođendan}.",
+        "de": "Heute ist ihr Geburtstag."
+      },
+      {
+        "sr": "Kupio sam joj knjigu za {rođendan}.",
+        "de": "Ich habe ihr zum Geburtstag ein Buch gekauft."
+      }
+    ]
+  },
+  {
+    "word": "gostinska soba",
+    "meanings": [
+      "Gästezimmer"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Spavaćemo u {gostinskoj sobi}.",
+        "de": "Wir werden im Gästezimmer schlafen."
+      },
+      {
+        "sr": "Njihova {gostinska soba} ima sopstveno kupatilo.",
+        "de": "Ihr Gästezimmer hat ein eigenes Badezimmer."
+      }
+    ]
+  },
+  {
+    "word": "ulaz",
+    "meanings": [
+      "Eingang"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Čekam te na {ulazu}.",
+        "de": "Ich warte am Eingang auf dich."
+      },
+      {
+        "sr": "Glavni {ulaz} je sa druge strane zgrade.",
+        "de": "Der Haupteingang befindet sich auf der anderen Seite des Gebäudes."
+      }
+    ]
+  },
+  {
+    "word": "terasa",
+    "meanings": [
+      "Terrasse"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Pijemo kafu na {terasi}.",
+        "de": "Wir trinken Kaffee auf der Terrasse."
+      },
+      {
+        "sr": "Njena {terasa} gleda na park.",
+        "de": "Ihre Terrasse geht zum Park hinaus."
+      }
+    ]
+  },
+  {
+    "word": "trpezarija",
+    "meanings": [
+      "Esszimmer"
+    ],
+    "label": "feminin",
+    "level": 3,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Svi smo se okupili u {trpezariji}.",
+        "de": "Wir haben uns alle im Esszimmer versammelt."
+      },
+      {
+        "sr": "Njihova {trpezarija} je pored kuhinje.",
+        "de": "Ihr Esszimmer liegt neben der Küche."
+      }
+    ]
+  },
+  {
+    "word": "ograda",
+    "meanings": [
+      "Zaun"
+    ],
+    "label": "feminin",
+    "level": 3,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Pas je preskočio {ogradu}.",
+        "de": "Der Hund ist über den Zaun gesprungen."
+      },
+      {
+        "sr": "Iza {ograde} raste visoko drvo.",
+        "de": "Hinter dem Zaun wächst ein hoher Baum."
+      }
+    ]
+  },
+  {
+    "word": "godišnjica",
+    "meanings": [
+      "Jahrestag"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Sutra slavimo {godišnjicu} naše veze.",
+        "de": "Morgen feiern wir den Jahrestag unserer Beziehung."
+      },
+      {
+        "sr": "Za {godišnjicu} smo otišli na večeru.",
+        "de": "Zum Jahrestag sind wir zum Abendessen gegangen."
+      }
+    ]
+  },
+  {
+    "word": "porodični prijatelj",
+    "meanings": [
+      "Familienfreund"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Milan je naš {porodični prijatelj}.",
+        "de": "Milan ist ein Freund der Familie."
+      },
+      {
+        "sr": "Pozvali smo našeg {porodičnog prijatelja} na ručak.",
+        "de": "Wir haben unseren Familienfreund zum Mittagessen eingeladen."
+      }
+    ]
+  },
+  {
+    "word": "porodični ručak",
+    "meanings": [
+      "Familienessen"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Nedeljom često imamo {porodični ručak}.",
+        "de": "Sonntags essen wir oft als Familie zu Mittag."
+      },
+      {
+        "sr": "Svi se raduju {porodičnom ručku}.",
+        "de": "Alle freuen sich auf das Familienessen."
+      }
+    ]
+  },
+  {
+    "word": "porodično okupljanje",
+    "meanings": [
+      "Familientreffen"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Za Božić organizujemo {porodično okupljanje}.",
+        "de": "Zu Weihnachten organisieren wir ein Familientreffen."
+      },
+      {
+        "sr": "Mnogo rođaka je došlo na {porodično okupljanje}.",
+        "de": "Viele Verwandte sind zum Familientreffen gekommen."
+      }
+    ]
+  },
+  {
+    "word": "rodbina",
+    "meanings": [
+      "Verwandtschaft"
+    ],
+    "label": "feminin",
+    "level": 3,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Sva moja {rodbina} živi u Srbiji.",
+        "de": "Meine gesamte Verwandtschaft lebt in Serbien."
+      },
+      {
+        "sr": "Za praznike ćemo posetiti {rodbinu}.",
+        "de": "An den Feiertagen werden wir die Verwandtschaft besuchen."
+      }
+    ]
+  },
+  {
+    "word": "poštovanje",
+    "meanings": [
+      "Respekt"
+    ],
+    "label": "neutrum",
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Važno je pokazati {poštovanje} prema starijima.",
+        "de": "Es ist wichtig, älteren Menschen Respekt zu zeigen."
+      },
+      {
+        "sr": "Zaslužio je naše {poštovanje}.",
+        "de": "Er hat sich unseren Respekt verdient."
+      }
+    ]
+  },
+  {
+    "word": "predstaviti",
+    "meanings": [
+      "vorstellen"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Želim da ti {predstavim} svoju porodicu.",
+        "de": "Ich möchte dir meine Familie vorstellen."
+      },
+      {
+        "sr": "Sutra ću {predstaviti} svoju devojku roditeljima.",
+        "de": "Morgen werde ich meinen Eltern meine Freundin vorstellen."
+      }
+    ]
+  },
+  {
+    "word": "upoznati",
+    "meanings": [
+      "kennenlernen"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Jedva čekam da {upoznam} tvoju porodicu.",
+        "de": "Ich kann es kaum erwarten, deine Familie kennenzulernen."
+      },
+      {
+        "sr": "Prošle godine sam {upoznao} njene roditelje.",
+        "de": "Letztes Jahr habe ich ihre Eltern kennengelernt."
+      }
+    ]
+  },
+  {
+    "word": "dočekati",
+    "meanings": [
+      "empfangen",
+      "begrüßen"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Idem na stanicu da {dočekam} njene roditelje.",
+        "de": "Ich fahre zum Bahnhof, um ihre Eltern zu empfangen."
+      },
+      {
+        "sr": "Njena porodica me je lepo {dočekala}.",
+        "de": "Ihre Familie hat mich herzlich empfangen."
+      }
+    ]
+  },
+  {
+    "word": "ponuditi",
+    "meanings": [
+      "anbieten"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Domaćica mi je {ponudila} kafu.",
+        "de": "Die Gastgeberin hat mir Kaffee angeboten."
+      },
+      {
+        "sr": "Mogu li da vam {ponudim} nešto za piće?",
+        "de": "Kann ich Ihnen etwas zu trinken anbieten?"
+      }
+    ]
+  },
+  {
+    "word": "izuti se",
+    "meanings": [
+      "die Schuhe ausziehen"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Moram da se {izujem} pre ulaska.",
+        "de": "Ich muss vor dem Hineingehen die Schuhe ausziehen."
+      },
+      {
+        "sr": "Kod njih se uvek {izujemo} na ulazu.",
+        "de": "Bei ihnen ziehen wir am Eingang immer die Schuhe aus."
+      }
+    ]
+  },
+  {
+    "word": "ručati",
+    "meanings": [
+      "zu Mittag essen"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Danas {ručam} sa njenim roditeljima.",
+        "de": "Heute esse ich mit ihren Eltern zu Mittag."
+      },
+      {
+        "sr": "Juče smo {ručali} kod bake.",
+        "de": "Gestern haben wir bei Oma zu Mittag gegessen."
+      }
+    ]
+  },
+  {
+    "word": "doći",
+    "meanings": [
+      "kommen"
+    ],
+    "label": "vollendet",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Njena porodica će {doći} oko šest.",
+        "de": "Ihre Familie wird gegen sechs kommen."
+      },
+      {
+        "sr": "Svi su {došli} na vreme.",
+        "de": "Alle sind pünktlich gekommen."
+      }
+    ]
+  },
+  {
+    "word": "živeti",
+    "meanings": [
+      "leben",
+      "wohnen"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Njeni roditelji {žive} u Zemunu.",
+        "de": "Ihre Eltern wohnen in Zemun."
+      },
+      {
+        "sr": "Kada sam bio mali, {živeo} sam sa bakom.",
+        "de": "Als ich klein war, habe ich bei meiner Oma gelebt."
+      }
+    ]
+  },
+  {
+    "word": "voleti",
+    "meanings": [
+      "lieben",
+      "mögen"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Mnogo {volim} njenu porodicu.",
+        "de": "Ich mag ihre Familie sehr."
+      },
+      {
+        "sr": "Ona {voli} da provodi vreme sa bakom.",
+        "de": "Sie verbringt gern Zeit mit ihrer Oma."
+      }
+    ]
+  },
+  {
+    "word": "pozvati",
+    "meanings": [
+      "einladen",
+      "anrufen"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Večeras ću {pozvati} njenog brata.",
+        "de": "Heute Abend werde ich ihren Bruder anrufen."
+      },
+      {
+        "sr": "Njeni roditelji su nas {pozvali} na slavu.",
+        "de": "Ihre Eltern haben uns zur Slava eingeladen."
+      }
+    ]
+  },
+  {
+    "word": "pomoći",
+    "meanings": [
+      "helfen"
+    ],
+    "label": "vollendet",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "{Pomogao} sam baki da spremi ručak.",
+        "de": "Ich habe Oma geholfen, das Mittagessen vorzubereiten."
+      },
+      {
+        "sr": "Možeš li da {pomogneš} mojoj sestri?",
+        "de": "Kannst du meiner Schwester helfen?"
+      }
+    ]
+  },
+  {
+    "word": "kućni ljubimac",
+    "meanings": [
+      "Haustier"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Njihov {kućni ljubimac} je mali pas.",
+        "de": "Ihr Haustier ist ein kleiner Hund."
+      },
+      {
+        "sr": "Deca se svakog dana igraju sa {kućnim ljubimcem}.",
+        "de": "Die Kinder spielen jeden Tag mit dem Haustier."
+      }
+    ]
+  },
+  {
+    "word": "dečak",
+    "meanings": [
+      "Junge"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Onaj {dečak} je njen mlađi brat.",
+        "de": "Der Junge dort ist ihr jüngerer Bruder."
+      },
+      {
+        "sr": "Pomogao sam {dečaku} da pronađe roditelje.",
+        "de": "Ich habe dem Jungen geholfen, seine Eltern zu finden."
+      }
+    ]
+  },
+  {
+    "word": "devojčica",
+    "meanings": [
+      "Mädchen"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Mala {devojčica} se igra u dvorištu.",
+        "de": "Das kleine Mädchen spielt im Hof."
+      },
+      {
+        "sr": "Poklonio sam knjigu {devojčici}.",
+        "de": "Ich habe dem Mädchen ein Buch geschenkt."
+      }
+    ]
+  },
+  {
+    "word": "blizanac",
+    "meanings": [
+      "Zwilling"
+    ],
+    "label": "maskulin",
+    "level": 3,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Moj {blizanac} i ja ličimo jedan na drugog.",
+        "de": "Mein Zwillingsbruder und ich sehen uns ähnlich."
+      },
+      {
+        "sr": "Razgovarao sam sa njenim {blizancem}.",
+        "de": "Ich habe mit ihrem Zwilling gesprochen."
+      }
+    ]
+  },
+  {
+    "word": "stariji",
+    "meanings": [
+      "älter"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Moj brat je dve godine {stariji} od mene.",
+        "de": "Mein Bruder ist zwei Jahre älter als ich."
+      },
+      {
+        "sr": "Uvek slušam {starije} članove porodice.",
+        "de": "Ich höre immer auf die älteren Familienmitglieder."
+      }
+    ]
+  },
+  {
+    "word": "mlađi",
+    "meanings": [
+      "jünger"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Njena sestra je {mlađa} od nje.",
+        "de": "Ihre Schwester ist jünger als sie."
+      },
+      {
+        "sr": "Moj {mlađi} brat još ide u školu.",
+        "de": "Mein jüngerer Bruder geht noch zur Schule."
+      }
+    ]
+  },
+  {
+    "word": "srećan rođendan",
+    "meanings": [
+      "alles Gute zum Geburtstag"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "{Srećan rođendan}, bako!",
+        "de": "Alles Gute zum Geburtstag, Oma!"
+      },
+      {
+        "sr": "{Srećan rođendan}, ljubavi!",
+        "de": "Alles Gute zum Geburtstag, mein Schatz!"
+      }
+    ]
+  },
+  {
+    "word": "dobro došao",
+    "meanings": [
+      "willkommen (zu einem Mann)"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "{Dobro došao} u našu kuću!",
+        "de": "Willkommen in unserem Haus!"
+      },
+      {
+        "sr": "{Dobro došao}, uđi i raskomoti se.",
+        "de": "Willkommen, komm rein und mach es dir bequem."
+      }
+    ]
+  },
+  {
+    "word": "izvoli",
+    "meanings": [
+      "bitte sehr",
+      "hier, bitte"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "{Izvoli}, ovo je za tebe.",
+        "de": "Bitte sehr, das ist für dich."
+      },
+      {
+        "sr": "{Izvoli}, sedi.",
+        "de": "Bitte, setz dich."
+      }
+    ]
+  },
+  {
+    "word": "hvala na gostoprimstvu",
+    "meanings": [
+      "danke für die Gastfreundschaft"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "{Hvala na gostoprimstvu}, bilo je divno.",
+        "de": "Danke für die Gastfreundschaft, es war wunderbar."
+      },
+      {
+        "sr": "Moramo da krenemo, {hvala na gostoprimstvu}.",
+        "de": "Wir müssen los, danke für die Gastfreundschaft."
+      }
+    ]
+  },
+  {
+    "word": "da li mogu da uđem",
+    "meanings": [
+      "darf ich hereinkommen"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Dobar dan, {da li mogu da uđem}?",
+        "de": "Guten Tag, darf ich hereinkommen?"
+      },
+      {
+        "sr": "{Da li mogu da uđem} ili da sačekam ovde?",
+        "de": "Darf ich hereinkommen, oder soll ich hier warten?"
+      }
+    ]
+  },
+  {
+    "word": "osećati se",
+    "meanings": [
+      "sich fühlen"
+    ],
+    "label": "unvollendet",
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "{Osećam se} kao kod kuće.",
+        "de": "Ich fühle mich wie zu Hause."
+      },
+      {
+        "sr": "Posle dugog razgovora {osećao sam se} mnogo opuštenije.",
+        "de": "Nach dem langen Gespräch habe ich mich viel entspannter gefühlt."
+      }
+    ]
+  },
+  {
+    "word": "brinuti se",
+    "meanings": [
+      "sich kümmern",
+      "sich sorgen"
+    ],
+    "label": "unvollendet",
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Njena majka se uvek {brine} o gostima.",
+        "de": "Ihre Mutter kümmert sich immer um die Gäste."
+      },
+      {
+        "sr": "Ne moraš da se {brineš} zbog večere.",
+        "de": "Du musst dir wegen des Abendessens keine Sorgen machen."
+      }
+    ]
+  },
+  {
+    "word": "zahvaliti se",
+    "meanings": [
+      "sich bedanken"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Želim da se {zahvalim} njenim roditeljima.",
+        "de": "Ich möchte mich bei ihren Eltern bedanken."
+      },
+      {
+        "sr": "Na kraju večeri sam se {zahvalio} domaćinima.",
+        "de": "Am Ende des Abends habe ich mich bei den Gastgebern bedankt."
+      }
+    ]
+  },
+  {
+    "word": "pozdraviti",
+    "meanings": [
+      "begrüßen",
+      "grüßen"
+    ],
+    "label": "vollendet",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Uvek {pozdravim} njenu baku poljupcem.",
+        "de": "Ich begrüße ihre Oma immer mit einem Kuss."
+      },
+      {
+        "sr": "Na vratima sam {pozdravio} sve goste.",
+        "de": "An der Tür habe ich alle Gäste begrüßt."
+      }
+    ]
+  },
+  {
+    "word": "posetiti",
+    "meanings": [
+      "besuchen"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Za vikend ćemo {posetiti} njenu porodicu.",
+        "de": "Am Wochenende werden wir ihre Familie besuchen."
+      },
+      {
+        "sr": "Prošlog meseca sam {posetio} njene roditelje.",
+        "de": "Letzten Monat habe ich ihre Eltern besucht."
+      }
+    ]
+  },
+  {
+    "word": "pozvati u goste",
+    "meanings": [
+      "zu Besuch einladen"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Želim da ih {pozovem u goste} sledećeg vikenda.",
+        "de": "Ich möchte sie nächstes Wochenende zu uns einladen."
+      },
+      {
+        "sr": "Njeni roditelji su nas {pozvali u goste}.",
+        "de": "Ihre Eltern haben uns zu sich eingeladen."
+      }
+    ]
+  },
+  {
+    "word": "pripremiti",
+    "meanings": [
+      "vorbereiten"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Moram da {pripremim} sobu za goste.",
+        "de": "Ich muss das Gästezimmer vorbereiten."
+      },
+      {
+        "sr": "Domaćica je {pripremila} večeru pre našeg dolaska.",
+        "de": "Die Gastgeberin hat das Abendessen vor unserer Ankunft vorbereitet."
+      }
+    ]
+  },
+  {
+    "word": "ostati",
+    "meanings": [
+      "bleiben"
+    ],
+    "label": "vollendet",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Možemo da {ostanemo} do nedelje.",
+        "de": "Wir können bis Sonntag bleiben."
+      },
+      {
+        "sr": "Posle večere sam {ostao} još sat vremena.",
+        "de": "Nach dem Abendessen bin ich noch eine Stunde geblieben."
+      }
+    ]
+  },
+  {
+    "word": "deliti",
+    "meanings": [
+      "teilen"
+    ],
+    "label": "unvollendet",
+    "level": 2,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Njena porodica voli da {deli} hranu sa komšijama.",
+        "de": "Ihre Familie teilt gern Essen mit den Nachbarn."
+      },
+      {
+        "sr": "Sa bratom sam {delio} sobu dok smo bili mali.",
+        "de": "Als wir klein waren, habe ich mir mit meinem Bruder ein Zimmer geteilt."
+      }
+    ]
+  }
+]

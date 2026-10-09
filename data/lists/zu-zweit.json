@@ -1,0 +1,1559 @@
+[
+  {
+    "word": "ljubav",
+    "meanings": [
+      "Liebe"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Ti si moja {ljubav}.",
+        "de": "Du bist meine Liebe."
+      },
+      {
+        "sr": "To je prava {ljubav}.",
+        "de": "Das ist wahre Liebe."
+      }
+    ]
+  },
+  {
+    "word": "volim te",
+    "meanings": [
+      "ich liebe dich"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Volim te} najviše na svetu.",
+        "de": "Ich liebe dich mehr als alles auf der Welt."
+      },
+      {
+        "sr": "{Volim te}, laku noć.",
+        "de": "Ich liebe dich, gute Nacht."
+      }
+    ]
+  },
+  {
+    "word": "nedostaješ mi",
+    "meanings": [
+      "du fehlst mir"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Nedostaješ mi} svaki dan.",
+        "de": "Du fehlst mir jeden Tag."
+      },
+      {
+        "sr": "{Nedostaješ mi}, dođi brzo.",
+        "de": "Du fehlst mir, komm schnell."
+      }
+    ]
+  },
+  {
+    "word": "mislim na tebe",
+    "meanings": [
+      "ich denke an dich"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Mislim na tebe} ceo dan.",
+        "de": "Ich denke den ganzen Tag an dich."
+      },
+      {
+        "sr": "Uvek {mislim na tebe}.",
+        "de": "Ich denke immer an dich."
+      }
+    ]
+  },
+  {
+    "word": "dušo",
+    "meanings": [
+      "Schatz",
+      "Liebling"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Dušo}, gde si?",
+        "de": "Schatz, wo bist du?"
+      },
+      {
+        "sr": "Hvala ti, {dušo}.",
+        "de": "Danke dir, Schatz."
+      }
+    ]
+  },
+  {
+    "word": "srce",
+    "meanings": [
+      "Herz"
+    ],
+    "label": "neutrum",
+    "level": 2,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Imaš dobro {srce}.",
+        "de": "Du hast ein gutes Herz."
+      },
+      {
+        "sr": "Ti si u mom {srcu}.",
+        "de": "Du bist in meinem Herzen."
+      }
+    ]
+  },
+  {
+    "word": "sreća",
+    "meanings": [
+      "Glück"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Ti si moja {sreća}.",
+        "de": "Du bist mein Glück."
+      },
+      {
+        "sr": "Imam {sreće} što te imam.",
+        "de": "Ich habe Glück, dass ich dich habe."
+      }
+    ]
+  },
+  {
+    "word": "poljubac",
+    "meanings": [
+      "Kuss"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Daj mi {poljubac}.",
+        "de": "Gib mir einen Kuss."
+      },
+      {
+        "sr": "Šaljem ti {poljubac}.",
+        "de": "Ich schicke dir einen Kuss."
+      }
+    ]
+  },
+  {
+    "word": "zagrljaj",
+    "meanings": [
+      "Umarmung"
+    ],
+    "label": "maskulin",
+    "level": 3,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Treba mi {zagrljaj}.",
+        "de": "Ich brauche eine Umarmung."
+      },
+      {
+        "sr": "Nedostaje mi tvoj {zagrljaj}.",
+        "de": "Deine Umarmung fehlt mir."
+      }
+    ]
+  },
+  {
+    "word": "poljubiti",
+    "meanings": [
+      "küssen"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Mogu li da te {poljubim}?",
+        "de": "Darf ich dich küssen?"
+      },
+      {
+        "sr": "{Poljubi} me.",
+        "de": "Küss mich."
+      }
+    ]
+  },
+  {
+    "word": "zagrliti",
+    "meanings": [
+      "umarmen"
+    ],
+    "label": "vollendet",
+    "level": 3,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Zagrli} me.",
+        "de": "Umarme mich."
+      },
+      {
+        "sr": "Želim da te {zagrlim}.",
+        "de": "Ich möchte dich umarmen."
+      }
+    ]
+  },
+  {
+    "word": "devojka",
+    "meanings": [
+      "Freundin",
+      "Mädchen"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Ovo je moja {devojka}.",
+        "de": "Das ist meine Freundin."
+      },
+      {
+        "sr": "Imam divnu {devojku}.",
+        "de": "Ich habe eine wunderbare Freundin."
+      }
+    ]
+  },
+  {
+    "word": "dečko",
+    "meanings": [
+      "Freund",
+      "Junge"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Ja sam njen {dečko}.",
+        "de": "Ich bin ihr Freund."
+      },
+      {
+        "sr": "Ima li ona {dečka}?",
+        "de": "Hat sie einen Freund?"
+      }
+    ]
+  },
+  {
+    "word": "veza",
+    "meanings": [
+      "Beziehung"
+    ],
+    "label": "feminin",
+    "level": 3,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Mi smo u {vezi}.",
+        "de": "Wir sind in einer Beziehung."
+      },
+      {
+        "sr": "Naša {veza} mi je važna.",
+        "de": "Unsere Beziehung ist mir wichtig."
+      }
+    ]
+  },
+  {
+    "word": "zajedno",
+    "meanings": [
+      "zusammen",
+      "gemeinsam"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Živimo {zajedno}.",
+        "de": "Wir wohnen zusammen."
+      },
+      {
+        "sr": "Hajde da kuvamo {zajedno}.",
+        "de": "Lass uns zusammen kochen."
+      }
+    ]
+  },
+  {
+    "word": "s tobom",
+    "meanings": [
+      "mit dir"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Želim da budem {s tobom}.",
+        "de": "Ich möchte bei dir sein."
+      },
+      {
+        "sr": "Idem {s tobom}.",
+        "de": "Ich gehe mit dir."
+      }
+    ]
+  },
+  {
+    "word": "zauvek",
+    "meanings": [
+      "für immer"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Voleću te {zauvek}.",
+        "de": "Ich werde dich für immer lieben."
+      },
+      {
+        "sr": "Ostani sa mnom {zauvek}.",
+        "de": "Bleib für immer bei mir."
+      }
+    ]
+  },
+  {
+    "word": "zaljubljen",
+    "meanings": [
+      "verliebt"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Zaljubljen} sam u tebe.",
+        "de": "Ich bin in dich verliebt."
+      },
+      {
+        "sr": "Jesi li {zaljubljena}?",
+        "de": "Bist du verliebt?"
+      }
+    ]
+  },
+  {
+    "word": "srećan",
+    "meanings": [
+      "glücklich"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Tako sam {srećan} s tobom.",
+        "de": "Ich bin so glücklich mit dir."
+      },
+      {
+        "sr": "Jesi li {srećna}?",
+        "de": "Bist du glücklich?"
+      }
+    ]
+  },
+  {
+    "word": "prelep",
+    "meanings": [
+      "wunderschön"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Večeras si {prelepa}.",
+        "de": "Du bist heute Abend wunderschön."
+      },
+      {
+        "sr": "Kakav {prelep} dan!",
+        "de": "Was für ein wunderschöner Tag!"
+      }
+    ]
+  },
+  {
+    "word": "osmeh",
+    "meanings": [
+      "Lächeln"
+    ],
+    "label": "maskulin",
+    "level": 3,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Imaš prelep {osmeh}.",
+        "de": "Du hast ein wunderschönes Lächeln."
+      },
+      {
+        "sr": "Volim tvoj {osmeh}.",
+        "de": "Ich liebe dein Lächeln."
+      }
+    ]
+  },
+  {
+    "word": "oči",
+    "meanings": [
+      "Augen"
+    ],
+    "label": "Plural",
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Imaš lepe {oči}.",
+        "de": "Du hast schöne Augen."
+      },
+      {
+        "sr": "Pogledaj me u {oči}.",
+        "de": "Schau mir in die Augen."
+      }
+    ]
+  },
+  {
+    "word": "sviđa mi se",
+    "meanings": [
+      "gefällt mir",
+      "es gefällt mir"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Sviđa mi se} tvoja haljina.",
+        "de": "Dein Kleid gefällt mir."
+      },
+      {
+        "sr": "{Sviđa mi se} ovde.",
+        "de": "Mir gefällt es hier."
+      }
+    ]
+  },
+  {
+    "word": "moj",
+    "meanings": [
+      "mein"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Ovo je {moj} broj telefona.",
+        "de": "Das ist meine Telefonnummer."
+      },
+      {
+        "sr": "{Moja} porodica živi u Nemačkoj.",
+        "de": "Meine Familie lebt in Deutschland."
+      }
+    ]
+  },
+  {
+    "word": "tvoj",
+    "meanings": [
+      "dein"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Gde je {tvoj} telefon?",
+        "de": "Wo ist dein Telefon?"
+      },
+      {
+        "sr": "{Tvoja} mama je divna.",
+        "de": "Deine Mama ist wunderbar."
+      }
+    ]
+  },
+  {
+    "word": "naš",
+    "meanings": [
+      "unser"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Ovo je {naš} stan.",
+        "de": "Das ist unsere Wohnung."
+      },
+      {
+        "sr": "{Naša} pesma je na radiju.",
+        "de": "Unser Lied läuft im Radio."
+      }
+    ]
+  },
+  {
+    "word": "cveće",
+    "meanings": [
+      "Blumen"
+    ],
+    "label": "neutrum",
+    "level": 2,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Kupio sam ti {cveće}.",
+        "de": "Ich habe dir Blumen gekauft."
+      },
+      {
+        "sr": "Voliš li {cveće}?",
+        "de": "Magst du Blumen?"
+      }
+    ]
+  },
+  {
+    "word": "iznenađenje",
+    "meanings": [
+      "Überraschung"
+    ],
+    "label": "neutrum",
+    "level": 3,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Imam {iznenađenje} za tebe.",
+        "de": "Ich habe eine Überraschung für dich."
+      },
+      {
+        "sr": "Kakvo lepo {iznenađenje}!",
+        "de": "Was für eine schöne Überraschung!"
+      }
+    ]
+  },
+  {
+    "word": "hajde",
+    "meanings": [
+      "komm",
+      "los",
+      "lass uns"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Hajde}, idemo!",
+        "de": "Komm, gehen wir!"
+      },
+      {
+        "sr": "{Hajde} da gledamo film.",
+        "de": "Lass uns einen Film schauen."
+      }
+    ]
+  },
+  {
+    "word": "izaći",
+    "meanings": [
+      "ausgehen",
+      "hinausgehen"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Hoćeš li da {izađemo} večeras?",
+        "de": "Wollen wir heute Abend ausgehen?"
+      },
+      {
+        "sr": "Sinoć smo {izašli} na večeru.",
+        "de": "Gestern Abend sind wir essen gegangen."
+      }
+    ]
+  },
+  {
+    "word": "šta radiš",
+    "meanings": [
+      "was machst du"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Ćao, {šta radiš}?",
+        "de": "Hallo, was machst du?"
+      },
+      {
+        "sr": "{Šta radiš} sutra uveče?",
+        "de": "Was machst du morgen Abend?"
+      }
+    ]
+  },
+  {
+    "word": "dogovoreno",
+    "meanings": [
+      "abgemacht",
+      "einverstanden"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Dogovoreno}, vidimo se u sedam.",
+        "de": "Abgemacht, wir sehen uns um sieben."
+      },
+      {
+        "sr": "Sutra kod mene? {Dogovoreno}!",
+        "de": "Morgen bei mir? Abgemacht!"
+      }
+    ]
+  },
+  {
+    "word": "čekam te",
+    "meanings": [
+      "ich warte auf dich"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Čekam te} ispred zgrade.",
+        "de": "Ich warte vor dem Gebäude auf dich."
+      },
+      {
+        "sr": "{Čekam te}, požuri!",
+        "de": "Ich warte auf dich, beeil dich!"
+      }
+    ]
+  },
+  {
+    "word": "stižem",
+    "meanings": [
+      "ich bin gleich da",
+      "ich komme gleich"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Stižem} za pet minuta.",
+        "de": "Ich bin in fünf Minuten da."
+      },
+      {
+        "sr": "Evo, {stižem}!",
+        "de": "Ich komme schon!"
+      }
+    ]
+  },
+  {
+    "word": "javi mi se",
+    "meanings": [
+      "melde dich bei mir",
+      "melde dich"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Javi mi se} kad stigneš.",
+        "de": "Melde dich, wenn du ankommst."
+      },
+      {
+        "sr": "{Javi mi se} sutra.",
+        "de": "Melde dich morgen bei mir."
+      }
+    ]
+  },
+  {
+    "word": "čujemo se",
+    "meanings": [
+      "wir hören uns",
+      "bis später"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Čujemo se} sutra.",
+        "de": "Wir hören uns morgen."
+      },
+      {
+        "sr": "Moram da idem, {čujemo se}.",
+        "de": "Ich muss los, wir hören uns."
+      }
+    ]
+  },
+  {
+    "word": "poruka",
+    "meanings": [
+      "Nachricht"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Poslao sam ti {poruku}.",
+        "de": "Ich habe dir eine Nachricht geschickt."
+      },
+      {
+        "sr": "Nisam video tvoju {poruku}.",
+        "de": "Ich habe deine Nachricht nicht gesehen."
+      }
+    ]
+  },
+  {
+    "word": "lepo spavaj",
+    "meanings": [
+      "schlaf gut"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Lepo spavaj}, ljubavi.",
+        "de": "Schlaf gut, mein Schatz."
+      },
+      {
+        "sr": "Laku noć i {lepo spavaj}.",
+        "de": "Gute Nacht und schlaf gut."
+      }
+    ]
+  },
+  {
+    "word": "žao mi je",
+    "meanings": [
+      "es tut mir leid",
+      "tut mir leid"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Žao mi je}, pogrešio sam.",
+        "de": "Es tut mir leid, ich habe einen Fehler gemacht."
+      },
+      {
+        "sr": "{Žao mi je} što kasnim.",
+        "de": "Es tut mir leid, dass ich zu spät bin."
+      }
+    ]
+  },
+  {
+    "word": "u pravu si",
+    "meanings": [
+      "du hast recht"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{U pravu si}, izvini.",
+        "de": "Du hast recht, entschuldige."
+      },
+      {
+        "sr": "Dobro, {u pravu si}.",
+        "de": "Gut, du hast recht."
+      }
+    ]
+  },
+  {
+    "word": "ljubavi moja",
+    "meanings": [
+      "meine Liebe (Anrede)"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Dobro jutro, {ljubavi moja}.",
+        "de": "Guten Morgen, meine Liebe."
+      },
+      {
+        "sr": "{Ljubavi moja}, nedostaješ mi.",
+        "de": "Meine Liebe, du fehlst mir."
+      }
+    ]
+  },
+  {
+    "word": "mnogo te volim",
+    "meanings": [
+      "ich liebe dich sehr"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Mnogo te volim}, znaš?",
+        "de": "Ich liebe dich sehr, weißt du?"
+      },
+      {
+        "sr": "Laku noć, {mnogo te volim}.",
+        "de": "Gute Nacht, ich liebe dich sehr."
+      }
+    ]
+  },
+  {
+    "word": "i ja tebe",
+    "meanings": [
+      "ich dich auch"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{I ja tebe}, ljubavi.",
+        "de": "Ich dich auch, mein Schatz."
+      },
+      {
+        "sr": "{I ja tebe} volim najviše.",
+        "de": "Ich liebe dich auch am meisten."
+      }
+    ]
+  },
+  {
+    "word": "ti si mi sve",
+    "meanings": [
+      "du bist mein Ein und Alles"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Ti si mi sve} na svetu.",
+        "de": "Du bist mein Ein und Alles auf der Welt."
+      },
+      {
+        "sr": "Nikad ne zaboravi: {ti si mi sve}.",
+        "de": "Vergiss nie: Du bist mein Ein und Alles."
+      }
+    ]
+  },
+  {
+    "word": "lepo izgledaš",
+    "meanings": [
+      "du siehst schön aus"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Večeras baš {lepo izgledaš}.",
+        "de": "Du siehst heute Abend richtig schön aus."
+      },
+      {
+        "sr": "{Lepo izgledaš} u toj haljini.",
+        "de": "Du siehst schön aus in dem Kleid."
+      }
+    ]
+  },
+  {
+    "word": "divan",
+    "meanings": [
+      "wunderbar"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Bio je to {divan} dan.",
+        "de": "Das war ein wunderbarer Tag."
+      },
+      {
+        "sr": "Hvala ti za {divno} veče.",
+        "de": "Danke dir für den wunderbaren Abend."
+      }
+    ]
+  },
+  {
+    "word": "savršen",
+    "meanings": [
+      "perfekt"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Ti si {savršena} za mene.",
+        "de": "Du bist perfekt für mich."
+      },
+      {
+        "sr": "Niko nije {savršen}.",
+        "de": "Niemand ist perfekt."
+      }
+    ]
+  },
+  {
+    "word": "poseban",
+    "meanings": [
+      "besonders"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Ti si mi {posebna}.",
+        "de": "Du bist für mich etwas Besonderes."
+      },
+      {
+        "sr": "Večeras je {poseban} dan.",
+        "de": "Heute Abend ist ein besonderer Tag."
+      }
+    ]
+  },
+  {
+    "word": "najbolji",
+    "meanings": [
+      "bester"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Ti si mi {najbolja} na svetu.",
+        "de": "Du bist für mich die Beste auf der Welt."
+      },
+      {
+        "sr": "To je {najbolji} poklon ikad.",
+        "de": "Das ist das beste Geschenk aller Zeiten."
+      }
+    ]
+  },
+  {
+    "word": "jedva čekam",
+    "meanings": [
+      "ich kann es kaum erwarten"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Jedva čekam} da te vidim.",
+        "de": "Ich kann es kaum erwarten, dich zu sehen."
+      },
+      {
+        "sr": "{Jedva čekam} vikend.",
+        "de": "Ich kann das Wochenende kaum erwarten."
+      }
+    ]
+  },
+  {
+    "word": "radujem se",
+    "meanings": [
+      "ich freue mich"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Radujem se} našem putu.",
+        "de": "Ich freue mich auf unsere Reise."
+      },
+      {
+        "sr": "{Radujem se} što dolaziš.",
+        "de": "Ich freue mich, dass du kommst."
+      }
+    ]
+  },
+  {
+    "word": "kad se vidimo",
+    "meanings": [
+      "wann sehen wir uns"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Kad se vidimo} sledeći put?",
+        "de": "Wann sehen wir uns das nächste Mal?"
+      },
+      {
+        "sr": "Nedostaješ mi, {kad se vidimo}?",
+        "de": "Du fehlst mir, wann sehen wir uns?"
+      }
+    ]
+  },
+  {
+    "word": "gde si",
+    "meanings": [
+      "wo bist du"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Gde si}? Čekam te već pola sata.",
+        "de": "Wo bist du? Ich warte schon eine halbe Stunde auf dich."
+      },
+      {
+        "sr": "Hej, {gde si} ti?",
+        "de": "Hey, wo bist du denn?"
+      }
+    ]
+  },
+  {
+    "word": "jesi li stigla",
+    "meanings": [
+      "bist du angekommen"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Jesi li stigla} kući?",
+        "de": "Bist du zu Hause angekommen?"
+      },
+      {
+        "sr": "Javi mi se, {jesi li stigla}?",
+        "de": "Melde dich, bist du angekommen?"
+      }
+    ]
+  },
+  {
+    "word": "čuvaj se",
+    "meanings": [
+      "pass auf dich auf"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Čuvaj se} i javi se kad stigneš.",
+        "de": "Pass auf dich auf und melde dich, wenn du ankommst."
+      },
+      {
+        "sr": "Volim te, {čuvaj se}.",
+        "de": "Ich liebe dich, pass auf dich auf."
+      }
+    ]
+  },
+  {
+    "word": "dođi",
+    "meanings": [
+      "komm her"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Dođi} da te zagrlim.",
+        "de": "Komm her, lass dich umarmen."
+      },
+      {
+        "sr": "{Dođi} kod mene večeras.",
+        "de": "Komm heute Abend zu mir."
+      }
+    ]
+  },
+  {
+    "word": "ostani",
+    "meanings": [
+      "bleib"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Ostani} još malo.",
+        "de": "Bleib noch ein bisschen."
+      },
+      {
+        "sr": "Molim te, {ostani}.",
+        "de": "Bitte bleib."
+      }
+    ]
+  },
+  {
+    "word": "hoćeš li da",
+    "meanings": [
+      "wollen wir",
+      "willst du"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Hoćeš li da} gledamo film?",
+        "de": "Wollen wir einen Film schauen?"
+      },
+      {
+        "sr": "{Hoćeš li da} idemo u šetnju?",
+        "de": "Wollen wir spazieren gehen?"
+      }
+    ]
+  },
+  {
+    "word": "šta ćemo",
+    "meanings": [
+      "was machen wir"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Šta ćemo} večeras?",
+        "de": "Was machen wir heute Abend?"
+      },
+      {
+        "sr": "{Šta ćemo} za vikend?",
+        "de": "Was machen wir am Wochenende?"
+      }
+    ]
+  },
+  {
+    "word": "kako hoćeš",
+    "meanings": [
+      "wie du willst"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Kako hoćeš}, meni je svejedno.",
+        "de": "Wie du willst, mir ist es egal."
+      },
+      {
+        "sr": "Može i tako, {kako hoćeš}.",
+        "de": "So geht es auch, wie du willst."
+      }
+    ]
+  },
+  {
+    "word": "plan",
+    "meanings": [
+      "Plan"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Imaš li {plan} za vikend?",
+        "de": "Hast du einen Plan fürs Wochenende?"
+      },
+      {
+        "sr": "Pravimo {planove} za leto.",
+        "de": "Wir machen Pläne für den Sommer."
+      }
+    ]
+  },
+  {
+    "word": "bioskop",
+    "meanings": [
+      "Kino"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Idemo li večeras u {bioskop}?",
+        "de": "Gehen wir heute Abend ins Kino?"
+      },
+      {
+        "sr": "U {bioskopu} igra novi film.",
+        "de": "Im Kino läuft ein neuer Film."
+      }
+    ]
+  },
+  {
+    "word": "ruža",
+    "meanings": [
+      "Rose"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Kupio sam ti {ruže}.",
+        "de": "Ich habe dir Rosen gekauft."
+      },
+      {
+        "sr": "Ova {ruža} lepo miriše.",
+        "de": "Diese Rose duftet schön."
+      }
+    ]
+  },
+  {
+    "word": "slika",
+    "meanings": [
+      "Foto",
+      "Bild"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Pošalji mi svoju {sliku}.",
+        "de": "Schick mir ein Foto von dir."
+      },
+      {
+        "sr": "Na ovoj {slici} si prelepa.",
+        "de": "Auf diesem Foto bist du wunderschön."
+      }
+    ]
+  },
+  {
+    "word": "ruka",
+    "meanings": [
+      "Hand",
+      "Arm"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Daj mi {ruku}.",
+        "de": "Gib mir deine Hand."
+      },
+      {
+        "sr": "Držimo se za {ruke}.",
+        "de": "Wir halten Händchen."
+      }
+    ]
+  },
+  {
+    "word": "držati",
+    "meanings": [
+      "halten"
+    ],
+    "label": "unvollendet",
+    "level": 3,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Drži} me za ruku.",
+        "de": "Halt meine Hand."
+      },
+      {
+        "sr": "{Držao} sam je u zagrljaju.",
+        "de": "Ich habe sie im Arm gehalten."
+      }
+    ]
+  },
+  {
+    "word": "par",
+    "meanings": [
+      "Paar"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Mi smo srećan {par}.",
+        "de": "Wir sind ein glückliches Paar."
+      },
+      {
+        "sr": "Lep ste {par}!",
+        "de": "Ihr seid ein schönes Paar!"
+      }
+    ]
+  },
+  {
+    "word": "život",
+    "meanings": [
+      "das Leben"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Ti si ljubav mog {života}.",
+        "de": "Du bist die Liebe meines Lebens."
+      },
+      {
+        "sr": "{Život} s tobom je lep.",
+        "de": "Das Leben mit dir ist schön."
+      }
+    ]
+  },
+  {
+    "word": "dom",
+    "meanings": [
+      "Zuhause",
+      "Heim"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Ovo je naš {dom}.",
+        "de": "Das ist unser Zuhause."
+      },
+      {
+        "sr": "Gde si ti, tu je moj {dom}.",
+        "de": "Wo du bist, da ist mein Zuhause."
+      }
+    ]
+  },
+  {
+    "word": "budućnost",
+    "meanings": [
+      "Zukunft"
+    ],
+    "label": "feminin",
+    "level": 3,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Mislim na našu {budućnost}.",
+        "de": "Ich denke an unsere Zukunft."
+      },
+      {
+        "sr": "Šta želiš u {budućnosti}?",
+        "de": "Was wünschst du dir für die Zukunft?"
+      }
+    ]
+  },
+  {
+    "word": "san",
+    "meanings": [
+      "Traum",
+      "Schlaf"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Ti si moj {san}.",
+        "de": "Du bist mein Traum."
+      },
+      {
+        "sr": "Bila si u mom {snu}.",
+        "de": "Du warst in meinem Traum."
+      }
+    ]
+  },
+  {
+    "word": "sanjati",
+    "meanings": [
+      "träumen"
+    ],
+    "label": "unvollendet",
+    "level": 3,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Sanjao} sam te noćas.",
+        "de": "Ich habe heute Nacht von dir geträumt."
+      },
+      {
+        "sr": "O čemu {sanjaš}?",
+        "de": "Wovon träumst du?"
+      }
+    ]
+  },
+  {
+    "word": "razgovarati",
+    "meanings": [
+      "sich unterhalten"
+    ],
+    "label": "unvollendet",
+    "level": 2,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Moramo da {razgovaramo}.",
+        "de": "Wir müssen reden."
+      },
+      {
+        "sr": "{Razgovarali} smo celu noć.",
+        "de": "Wir haben uns die ganze Nacht unterhalten."
+      }
+    ]
+  },
+  {
+    "word": "poverenje",
+    "meanings": [
+      "Vertrauen"
+    ],
+    "label": "neutrum",
+    "level": 3,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Imam {poverenje} u tebe.",
+        "de": "Ich habe Vertrauen in dich."
+      },
+      {
+        "sr": "Bez {poverenja} nema ljubavi.",
+        "de": "Ohne Vertrauen gibt es keine Liebe."
+      }
+    ]
+  },
+  {
+    "word": "tajna",
+    "meanings": [
+      "Geheimnis"
+    ],
+    "label": "feminin",
+    "level": 3,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Imam jednu {tajnu}.",
+        "de": "Ich habe ein Geheimnis."
+      },
+      {
+        "sr": "Između nas nema {tajni}.",
+        "de": "Zwischen uns gibt es keine Geheimnisse."
+      }
+    ]
+  },
+  {
+    "word": "obećanje",
+    "meanings": [
+      "das Versprechen"
+    ],
+    "label": "neutrum",
+    "level": 3,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "To je {obećanje}.",
+        "de": "Das ist ein Versprechen."
+      },
+      {
+        "sr": "Uvek držim svoja {obećanja}.",
+        "de": "Ich halte immer meine Versprechen."
+      }
+    ]
+  },
+  {
+    "word": "obećati",
+    "meanings": [
+      "versprechen"
+    ],
+    "label": "vollendet",
+    "level": 3,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Moraš da mi {obećaš}.",
+        "de": "Das musst du mir versprechen."
+      },
+      {
+        "sr": "{Obećao} sam da ću doći.",
+        "de": "Ich habe versprochen, dass ich komme."
+      }
+    ]
+  },
+  {
+    "word": "svađa",
+    "meanings": [
+      "Streit"
+    ],
+    "label": "feminin",
+    "level": 3,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Ne volim {svađe}.",
+        "de": "Ich mag keinen Streit."
+      },
+      {
+        "sr": "Bila je to glupa {svađa}.",
+        "de": "Das war ein dummer Streit."
+      }
+    ]
+  },
+  {
+    "word": "svađati se",
+    "meanings": [
+      "sich streiten"
+    ],
+    "label": "unvollendet",
+    "level": 3,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Ne želim da se {svađamo}.",
+        "de": "Ich will nicht, dass wir uns streiten."
+      },
+      {
+        "sr": "Retko se {svađamo}.",
+        "de": "Wir streiten uns selten."
+      }
+    ]
+  },
+  {
+    "word": "ne ljuti se",
+    "meanings": [
+      "sei nicht böse"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Ne ljuti se}, nisam tako mislio.",
+        "de": "Sei nicht böse, so habe ich es nicht gemeint."
+      },
+      {
+        "sr": "Molim te, {ne ljuti se} na mene.",
+        "de": "Bitte sei mir nicht böse."
+      }
+    ]
+  },
+  {
+    "word": "oprostiti",
+    "meanings": [
+      "verzeihen"
+    ],
+    "label": "vollendet",
+    "level": 3,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Oprosti} mi, molim te.",
+        "de": "Verzeih mir, bitte."
+      },
+      {
+        "sr": "Već sam ti {oprostio}.",
+        "de": "Ich habe dir schon verziehen."
+      }
+    ]
+  }
+]

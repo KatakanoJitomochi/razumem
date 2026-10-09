@@ -1,0 +1,1570 @@
+[
+  {
+    "word": "pijaca",
+    "meanings": [
+      "Markt"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Subotom idemo na {pijacu}.",
+        "de": "Samstags gehen wir auf den Markt."
+      },
+      {
+        "sr": "Na {pijaci} je sve sveže.",
+        "de": "Auf dem Markt ist alles frisch."
+      }
+    ]
+  },
+  {
+    "word": "prodavnica",
+    "meanings": [
+      "Laden",
+      "Geschäft"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Ova {prodavnica} ima sve.",
+        "de": "Dieser Laden hat alles."
+      },
+      {
+        "sr": "Idem do {prodavnice} po hleb.",
+        "de": "Ich gehe zum Laden Brot holen."
+      }
+    ]
+  },
+  {
+    "word": "mesara",
+    "meanings": [
+      "Metzgerei"
+    ],
+    "label": "feminin",
+    "level": 3,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Meso kupujemo u {mesari}.",
+        "de": "Fleisch kaufen wir in der Metzgerei."
+      },
+      {
+        "sr": "{Mesara} je pored pekare.",
+        "de": "Die Metzgerei ist neben der Bäckerei."
+      }
+    ]
+  },
+  {
+    "word": "tezga",
+    "meanings": [
+      "Marktstand"
+    ],
+    "label": "feminin",
+    "level": 3,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Na ovoj {tezgi} kupujem paradajz.",
+        "de": "An diesem Marktstand kaufe ich Tomaten."
+      },
+      {
+        "sr": "Ta {tezga} ima najbolje voće.",
+        "de": "Der Stand dort hat das beste Obst."
+      }
+    ]
+  },
+  {
+    "word": "prodavac",
+    "meanings": [
+      "Verkäufer"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "{Prodavac} mi je dao popust.",
+        "de": "Der Verkäufer hat mir Rabatt gegeben."
+      },
+      {
+        "sr": "Pitaj {prodavca} koliko košta.",
+        "de": "Frag den Verkäufer, wie viel es kostet."
+      }
+    ]
+  },
+  {
+    "word": "ići u kupovinu",
+    "meanings": [
+      "einkaufen gehen"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Sutra {idemo u kupovinu}.",
+        "de": "Morgen gehen wir einkaufen."
+      },
+      {
+        "sr": "Ne volim da {idem u kupovinu} subotom.",
+        "de": "Ich gehe samstags nicht gern einkaufen."
+      }
+    ]
+  },
+  {
+    "word": "radno vreme",
+    "meanings": [
+      "Öffnungszeiten"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Koje je {radno vreme} pijace?",
+        "de": "Wie sind die Öffnungszeiten des Marktes?"
+      },
+      {
+        "sr": "{Radno vreme} je od osam do osam.",
+        "de": "Die Öffnungszeiten sind von acht bis acht."
+      }
+    ]
+  },
+  {
+    "word": "otvoreno",
+    "meanings": [
+      "geöffnet"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Da li je {otvoreno} nedeljom?",
+        "de": "Ist sonntags geöffnet?"
+      },
+      {
+        "sr": "{Otvoreno} je do deset uveče.",
+        "de": "Es ist bis zehn Uhr abends geöffnet."
+      }
+    ]
+  },
+  {
+    "word": "zatvoreno",
+    "meanings": [
+      "geschlossen"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Danas je {zatvoreno}.",
+        "de": "Heute ist geschlossen."
+      },
+      {
+        "sr": "Sve je {zatvoreno} zbog praznika.",
+        "de": "Wegen des Feiertags ist alles geschlossen."
+      }
+    ]
+  },
+  {
+    "word": "kupiti",
+    "meanings": [
+      "kaufen"
+    ],
+    "label": "vollendet",
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Šta treba da {kupim}?",
+        "de": "Was soll ich kaufen?"
+      },
+      {
+        "sr": "{Kupio} sam hleb i mleko.",
+        "de": "Ich habe Brot und Milch gekauft."
+      }
+    ]
+  },
+  {
+    "word": "prodavati",
+    "meanings": [
+      "verkaufen"
+    ],
+    "label": "unvollendet",
+    "level": 3,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Da li {prodajete} karte za autobus?",
+        "de": "Verkaufen Sie Busfahrkarten?"
+      },
+      {
+        "sr": "Njen deda {prodaje} med na pijaci.",
+        "de": "Ihr Opa verkauft Honig auf dem Markt."
+      }
+    ]
+  },
+  {
+    "word": "tražiti",
+    "meanings": [
+      "suchen"
+    ],
+    "label": "unvollendet",
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "{Tražim} poklon za njenu mamu.",
+        "de": "Ich suche ein Geschenk für ihre Mama."
+      },
+      {
+        "sr": "Šta {tražite}?",
+        "de": "Was suchen Sie?"
+      }
+    ]
+  },
+  {
+    "word": "samo gledam",
+    "meanings": [
+      "ich schaue nur"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Hvala, {samo gledam}.",
+        "de": "Danke, ich schaue nur."
+      },
+      {
+        "sr": "Ne treba mi pomoć, {samo gledam}.",
+        "de": "Ich brauche keine Hilfe, ich schaue nur."
+      }
+    ]
+  },
+  {
+    "word": "treba mi",
+    "meanings": [
+      "ich brauche"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "{Treba mi} kilo krompira.",
+        "de": "Ich brauche ein Kilo Kartoffeln."
+      },
+      {
+        "sr": "{Treba mi} veća kesa.",
+        "de": "Ich brauche eine größere Tüte."
+      }
+    ]
+  },
+  {
+    "word": "dajte mi",
+    "meanings": [
+      "geben Sie mir"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "{Dajte mi} kilo jabuka.",
+        "de": "Geben Sie mir ein Kilo Äpfel."
+      },
+      {
+        "sr": "{Dajte mi} još dva limuna.",
+        "de": "Geben Sie mir noch zwei Zitronen."
+      }
+    ]
+  },
+  {
+    "word": "uzeti",
+    "meanings": [
+      "nehmen"
+    ],
+    "label": "vollendet",
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Mogu li da {uzmem} ovo?",
+        "de": "Kann ich das nehmen?"
+      },
+      {
+        "sr": "{Uzeo} sam dva kila jabuka.",
+        "de": "Ich habe zwei Kilo Äpfel genommen."
+      }
+    ]
+  },
+  {
+    "word": "uzeću ovo",
+    "meanings": [
+      "das nehme ich"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Dobro, {uzeću ovo}.",
+        "de": "Gut, das nehme ich."
+      },
+      {
+        "sr": "{Uzeću ovo} u plavoj boji.",
+        "de": "Das nehme ich in Blau."
+      }
+    ]
+  },
+  {
+    "word": "još nešto",
+    "meanings": [
+      "sonst noch etwas"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Izvolite, {još nešto}?",
+        "de": "Bitte sehr, sonst noch etwas?"
+      },
+      {
+        "sr": "Treba li vam {još nešto}?",
+        "de": "Brauchen Sie sonst noch etwas?"
+      }
+    ]
+  },
+  {
+    "word": "to je sve",
+    "meanings": [
+      "das ist alles"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "{To je sve}, hvala.",
+        "de": "Das ist alles, danke."
+      },
+      {
+        "sr": "Ne, {to je sve}.",
+        "de": "Nein, das ist alles."
+      }
+    ]
+  },
+  {
+    "word": "koliko košta",
+    "meanings": [
+      "wie viel kostet"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "{Koliko košta} ovo?",
+        "de": "Wie viel kostet das?"
+      },
+      {
+        "sr": "Izvinite, {koliko košta} kilo jagoda?",
+        "de": "Entschuldigen Sie, wie viel kostet ein Kilo Erdbeeren?"
+      }
+    ]
+  },
+  {
+    "word": "koštati",
+    "meanings": [
+      "kosten"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Ovo {košta} previše.",
+        "de": "Das kostet zu viel."
+      },
+      {
+        "sr": "Karte su {koštale} dvadeset evra.",
+        "de": "Die Karten haben zwanzig Euro gekostet."
+      }
+    ]
+  },
+  {
+    "word": "koliko je to",
+    "meanings": [
+      "wie viel macht das"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "{Koliko je to} ukupno?",
+        "de": "Wie viel macht das insgesamt?"
+      },
+      {
+        "sr": "{Koliko je to} u evrima?",
+        "de": "Wie viel macht das in Euro?"
+      }
+    ]
+  },
+  {
+    "word": "cena",
+    "meanings": [
+      "Preis"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Koja je {cena}?",
+        "de": "Was ist der Preis?"
+      },
+      {
+        "sr": "{Cene} su ovde niže nego u Nemačkoj.",
+        "de": "Die Preise sind hier niedriger als in Deutschland."
+      }
+    ]
+  },
+  {
+    "word": "skup",
+    "meanings": [
+      "teuer"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Ovaj sir je {skup}.",
+        "de": "Dieser Käse ist teuer."
+      },
+      {
+        "sr": "Jagode su zimi {skupe}.",
+        "de": "Erdbeeren sind im Winter teuer."
+      }
+    ]
+  },
+  {
+    "word": "preskupo",
+    "meanings": [
+      "zu teuer"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "To je {preskupo}.",
+        "de": "Das ist zu teuer."
+      },
+      {
+        "sr": "{Preskupo} je za mene.",
+        "de": "Das ist mir zu teuer."
+      }
+    ]
+  },
+  {
+    "word": "jeftin",
+    "meanings": [
+      "billig",
+      "günstig"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Paradajz je danas {jeftin}.",
+        "de": "Tomaten sind heute günstig."
+      },
+      {
+        "sr": "Ovde je voće {jeftino}.",
+        "de": "Hier ist Obst günstig."
+      }
+    ]
+  },
+  {
+    "word": "može li jeftinije",
+    "meanings": [
+      "geht es günstiger"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Uzeću tri kila, {može li jeftinije}?",
+        "de": "Ich nehme drei Kilo, geht es günstiger?"
+      },
+      {
+        "sr": "Malo je skupo, {može li jeftinije}?",
+        "de": "Das ist etwas teuer, geht es günstiger?"
+      }
+    ]
+  },
+  {
+    "word": "popust",
+    "meanings": [
+      "Rabatt"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Ima li {popusta}?",
+        "de": "Gibt es Rabatt?"
+      },
+      {
+        "sr": "Dobili smo {popust} od deset posto.",
+        "de": "Wir haben zehn Prozent Rabatt bekommen."
+      }
+    ]
+  },
+  {
+    "word": "na akciji",
+    "meanings": [
+      "im Angebot"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Sir je danas {na akciji}.",
+        "de": "Käse ist heute im Angebot."
+      },
+      {
+        "sr": "Šta je ove nedelje {na akciji}?",
+        "de": "Was ist diese Woche im Angebot?"
+      }
+    ]
+  },
+  {
+    "word": "novac",
+    "meanings": [
+      "Geld"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Nemam dovoljno {novca}.",
+        "de": "Ich habe nicht genug Geld."
+      },
+      {
+        "sr": "Gde mogu da promenim {novac}?",
+        "de": "Wo kann ich Geld wechseln?"
+      }
+    ]
+  },
+  {
+    "word": "pare",
+    "meanings": [
+      "Geld (umgangssprachlich)"
+    ],
+    "label": "Plural",
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Nemam {para} kod sebe.",
+        "de": "Ich habe kein Geld dabei."
+      },
+      {
+        "sr": "{Pare} nisu problem.",
+        "de": "Geld ist kein Problem."
+      }
+    ]
+  },
+  {
+    "word": "dinar",
+    "meanings": [
+      "Dinar"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Srpski novac je {dinar}.",
+        "de": "Das serbische Geld ist der Dinar."
+      },
+      {
+        "sr": "Ovo košta dvesta {dinara}.",
+        "de": "Das kostet zweihundert Dinar."
+      }
+    ]
+  },
+  {
+    "word": "evro",
+    "meanings": [
+      "Euro"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Mogu li da platim u {evrima}?",
+        "de": "Kann ich in Euro bezahlen?"
+      },
+      {
+        "sr": "To je oko pet {evra}.",
+        "de": "Das sind etwa fünf Euro."
+      }
+    ]
+  },
+  {
+    "word": "kusur",
+    "meanings": [
+      "Wechselgeld",
+      "Rückgeld"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Izvolite vaš {kusur}.",
+        "de": "Bitte sehr, Ihr Wechselgeld."
+      },
+      {
+        "sr": "Nemam {kusura}, imate li sitno?",
+        "de": "Ich habe kein Wechselgeld, haben Sie es klein?"
+      }
+    ]
+  },
+  {
+    "word": "novčanik",
+    "meanings": [
+      "Geldbeutel",
+      "Portemonnaie"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Zaboravio sam {novčanik}.",
+        "de": "Ich habe meinen Geldbeutel vergessen."
+      },
+      {
+        "sr": "Kartica je u {novčaniku}.",
+        "de": "Die Karte ist im Geldbeutel."
+      }
+    ]
+  },
+  {
+    "word": "kasa",
+    "meanings": [
+      "Kasse"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Plaća se na {kasi}.",
+        "de": "Bezahlt wird an der Kasse."
+      },
+      {
+        "sr": "Na {kasi} je dugačak red.",
+        "de": "An der Kasse ist eine lange Schlange."
+      }
+    ]
+  },
+  {
+    "word": "kesa",
+    "meanings": [
+      "Tüte"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Treba li vam {kesa}?",
+        "de": "Brauchen Sie eine Tüte?"
+      },
+      {
+        "sr": "Stavi voće u {kesu}.",
+        "de": "Leg das Obst in die Tüte."
+      }
+    ]
+  },
+  {
+    "word": "kilo",
+    "meanings": [
+      "Kilo"
+    ],
+    "label": "neutrum",
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "{Kilo} paradajza, molim.",
+        "de": "Ein Kilo Tomaten, bitte."
+      },
+      {
+        "sr": "Pola {kila} sira, molim.",
+        "de": "Ein halbes Kilo Käse, bitte."
+      }
+    ]
+  },
+  {
+    "word": "litar",
+    "meanings": [
+      "Liter"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "{Litar} mleka, molim.",
+        "de": "Einen Liter Milch, bitte."
+      },
+      {
+        "sr": "Kupio sam dva {litra} soka.",
+        "de": "Ich habe zwei Liter Saft gekauft."
+      }
+    ]
+  },
+  {
+    "word": "komad",
+    "meanings": [
+      "Stück"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Koliko košta {komad}?",
+        "de": "Wie viel kostet ein Stück?"
+      },
+      {
+        "sr": "Daj mi tri {komada}.",
+        "de": "Gib mir drei Stück."
+      }
+    ]
+  },
+  {
+    "word": "parče",
+    "meanings": [
+      "Stück (abgeschnitten)",
+      "Scheibe"
+    ],
+    "label": "neutrum",
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Jedno {parče} torte, molim.",
+        "de": "Ein Stück Torte, bitte."
+      },
+      {
+        "sr": "Hoćeš li {parče} lubenice?",
+        "de": "Möchtest du ein Stück Wassermelone?"
+      }
+    ]
+  },
+  {
+    "word": "malo",
+    "meanings": [
+      "ein bisschen",
+      "wenig"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Samo {malo}, hvala.",
+        "de": "Nur ein bisschen, danke."
+      },
+      {
+        "sr": "Imam {malo} vremena.",
+        "de": "Ich habe wenig Zeit."
+      }
+    ]
+  },
+  {
+    "word": "mnogo",
+    "meanings": [
+      "viel",
+      "sehr"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "To je {mnogo} novca.",
+        "de": "Das ist viel Geld."
+      },
+      {
+        "sr": "Hvala ti {mnogo}.",
+        "de": "Ich danke dir sehr."
+      }
+    ]
+  },
+  {
+    "word": "više",
+    "meanings": [
+      "mehr"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Treba mi {više} vremena.",
+        "de": "Ich brauche mehr Zeit."
+      },
+      {
+        "sr": "Stavi {više} sira.",
+        "de": "Gib mehr Käse drauf."
+      }
+    ]
+  },
+  {
+    "word": "manje",
+    "meanings": [
+      "weniger"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Može malo {manje}?",
+        "de": "Geht etwas weniger?"
+      },
+      {
+        "sr": "Ovde ima {manje} gužve.",
+        "de": "Hier ist weniger los."
+      }
+    ]
+  },
+  {
+    "word": "dosta",
+    "meanings": [
+      "genug",
+      "ziemlich viel"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "{Dosta} je, hvala.",
+        "de": "Das ist genug, danke."
+      },
+      {
+        "sr": "Kupili smo {dosta} voća.",
+        "de": "Wir haben ziemlich viel Obst gekauft."
+      }
+    ]
+  },
+  {
+    "word": "nekoliko",
+    "meanings": [
+      "einige",
+      "ein paar"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Uzeću {nekoliko} jabuka.",
+        "de": "Ich nehme ein paar Äpfel."
+      },
+      {
+        "sr": "Ostajemo {nekoliko} dana.",
+        "de": "Wir bleiben einige Tage."
+      }
+    ]
+  },
+  {
+    "word": "sve",
+    "meanings": [
+      "alles"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "{Sve} je sveže.",
+        "de": "Alles ist frisch."
+      },
+      {
+        "sr": "Kupio sam {sve} sa spiska.",
+        "de": "Ich habe alles von der Liste gekauft."
+      }
+    ]
+  },
+  {
+    "word": "ništa",
+    "meanings": [
+      "nichts"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Ne treba mi {ništa}.",
+        "de": "Ich brauche nichts."
+      },
+      {
+        "sr": "{Ništa} nisam kupio.",
+        "de": "Ich habe nichts gekauft."
+      }
+    ]
+  },
+  {
+    "word": "nešto",
+    "meanings": [
+      "etwas"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Tražim {nešto} za njenu mamu.",
+        "de": "Ich suche etwas für ihre Mama."
+      },
+      {
+        "sr": "Hoćeš li {nešto} slatko?",
+        "de": "Möchtest du etwas Süßes?"
+      }
+    ]
+  },
+  {
+    "word": "svež",
+    "meanings": [
+      "frisch"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Da li je hleb {svež}?",
+        "de": "Ist das Brot frisch?"
+      },
+      {
+        "sr": "Na pijaci kupujem {sveže} povrće.",
+        "de": "Auf dem Markt kaufe ich frisches Gemüse."
+      }
+    ]
+  },
+  {
+    "word": "zreo",
+    "meanings": [
+      "reif"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Da li je ovaj paradajz {zreo}?",
+        "de": "Ist diese Tomate reif?"
+      },
+      {
+        "sr": "Uzmi {zrele} breskve.",
+        "de": "Nimm reife Pfirsiche."
+      }
+    ]
+  },
+  {
+    "word": "domaći",
+    "meanings": [
+      "hausgemacht",
+      "heimisch"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Ovo je {domaći} sir.",
+        "de": "Das ist hausgemachter Käse."
+      },
+      {
+        "sr": "{Domaća} rakija je najbolji poklon.",
+        "de": "Hausgemachter Rakija ist das beste Geschenk."
+      }
+    ]
+  },
+  {
+    "word": "voće",
+    "meanings": [
+      "Obst"
+    ],
+    "label": "neutrum",
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Kupujem {voće} na pijaci.",
+        "de": "Ich kaufe Obst auf dem Markt."
+      },
+      {
+        "sr": "Hoćeš li malo {voća}?",
+        "de": "Möchtest du etwas Obst?"
+      }
+    ]
+  },
+  {
+    "word": "jabuka",
+    "meanings": [
+      "Apfel"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Ove {jabuke} su slatke.",
+        "de": "Diese Äpfel sind süß."
+      },
+      {
+        "sr": "Baka pravi pitu od {jabuka}.",
+        "de": "Oma macht Apfelstrudel."
+      }
+    ]
+  },
+  {
+    "word": "kruška",
+    "meanings": [
+      "Birne"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Ova {kruška} je baš sočna.",
+        "de": "Diese Birne ist richtig saftig."
+      },
+      {
+        "sr": "Od {krušaka} se pravi rakija.",
+        "de": "Aus Birnen macht man Rakija."
+      }
+    ]
+  },
+  {
+    "word": "šljiva",
+    "meanings": [
+      "Pflaume"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Ova {šljiva} je zrela.",
+        "de": "Diese Pflaume ist reif."
+      },
+      {
+        "sr": "Srbija je poznata po {šljivama}.",
+        "de": "Serbien ist für seine Pflaumen bekannt."
+      }
+    ]
+  },
+  {
+    "word": "jagoda",
+    "meanings": [
+      "Erdbeere"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "{Jagode} su najbolje u maju.",
+        "de": "Erdbeeren sind im Mai am besten."
+      },
+      {
+        "sr": "Kupio sam ti kilo {jagoda}.",
+        "de": "Ich habe dir ein Kilo Erdbeeren gekauft."
+      }
+    ]
+  },
+  {
+    "word": "malina",
+    "meanings": [
+      "Himbeere"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Srpske {maline} su poznate u svetu.",
+        "de": "Serbische Himbeeren sind weltbekannt."
+      },
+      {
+        "sr": "Sok od {malina} je odličan.",
+        "de": "Himbeersaft ist ausgezeichnet."
+      }
+    ]
+  },
+  {
+    "word": "trešnja",
+    "meanings": [
+      "Kirsche"
+    ],
+    "label": "feminin",
+    "level": 3,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "{Trešnje} stižu u junu.",
+        "de": "Kirschen gibt es ab Juni."
+      },
+      {
+        "sr": "Deca beru {trešnje} u dvorištu.",
+        "de": "Die Kinder pflücken im Hof Kirschen."
+      }
+    ]
+  },
+  {
+    "word": "grožđe",
+    "meanings": [
+      "Weintrauben"
+    ],
+    "label": "neutrum",
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Ovo {grožđe} je slatko.",
+        "de": "Diese Trauben sind süß."
+      },
+      {
+        "sr": "Kilo {grožđa}, molim.",
+        "de": "Ein Kilo Trauben, bitte."
+      }
+    ]
+  },
+  {
+    "word": "lubenica",
+    "meanings": [
+      "Wassermelone"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Leti jedemo hladnu {lubenicu}.",
+        "de": "Im Sommer essen wir kalte Wassermelone."
+      },
+      {
+        "sr": "Ova {lubenica} ima deset kila.",
+        "de": "Diese Wassermelone wiegt zehn Kilo."
+      }
+    ]
+  },
+  {
+    "word": "limun",
+    "meanings": [
+      "Zitrone"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Čaj sa {limunom}, molim.",
+        "de": "Einen Tee mit Zitrone, bitte."
+      },
+      {
+        "sr": "Treba mi jedan {limun}.",
+        "de": "Ich brauche eine Zitrone."
+      }
+    ]
+  },
+  {
+    "word": "pomorandža",
+    "meanings": [
+      "Orange"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Sok od {pomorandže}, molim.",
+        "de": "Einen Orangensaft, bitte."
+      },
+      {
+        "sr": "{Pomorandže} su iz Grčke.",
+        "de": "Die Orangen kommen aus Griechenland."
+      }
+    ]
+  },
+  {
+    "word": "banana",
+    "meanings": [
+      "Banane"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Deca vole {banane}.",
+        "de": "Kinder mögen Bananen."
+      },
+      {
+        "sr": "Uzmi jednu {bananu} za put.",
+        "de": "Nimm eine Banane für unterwegs mit."
+      }
+    ]
+  },
+  {
+    "word": "povrće",
+    "meanings": [
+      "Gemüse"
+    ],
+    "label": "neutrum",
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Jedem mnogo {povrća}.",
+        "de": "Ich esse viel Gemüse."
+      },
+      {
+        "sr": "Ovo {povrće} je iz bašte.",
+        "de": "Dieses Gemüse ist aus dem Garten."
+      }
+    ]
+  },
+  {
+    "word": "paprika",
+    "meanings": [
+      "Paprika"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Kilo crvenih {paprika}, molim.",
+        "de": "Ein Kilo rote Paprika, bitte."
+      },
+      {
+        "sr": "Od {paprike} se pravi ajvar.",
+        "de": "Aus Paprika macht man Ajvar."
+      }
+    ]
+  },
+  {
+    "word": "šargarepa",
+    "meanings": [
+      "Karotte"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Treba mi {šargarepa} za supu.",
+        "de": "Ich brauche Karotten für die Suppe."
+      },
+      {
+        "sr": "Kupi kilo {šargarepe}.",
+        "de": "Kauf ein Kilo Karotten."
+      }
+    ]
+  },
+  {
+    "word": "kupus",
+    "meanings": [
+      "Kohl"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Za sarmu treba kiseli {kupus}.",
+        "de": "Für Sarma braucht man Sauerkraut."
+      },
+      {
+        "sr": "Salata od {kupusa} ide uz roštilj.",
+        "de": "Krautsalat passt zum Grillfleisch."
+      }
+    ]
+  },
+  {
+    "word": "beli luk",
+    "meanings": [
+      "Knoblauch"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Stavi malo {belog luka}.",
+        "de": "Gib etwas Knoblauch dazu."
+      },
+      {
+        "sr": "{Beli luk} je zdrav.",
+        "de": "Knoblauch ist gesund."
+      }
+    ]
+  },
+  {
+    "word": "pečurke",
+    "meanings": [
+      "Pilze"
+    ],
+    "label": "Plural",
+    "level": 3,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Volim {pečurke} sa roštilja.",
+        "de": "Ich mag Pilze vom Grill."
+      },
+      {
+        "sr": "Pica sa {pečurkama}, molim.",
+        "de": "Eine Pizza mit Pilzen, bitte."
+      }
+    ]
+  },
+  {
+    "word": "orah",
+    "meanings": [
+      "Walnuss"
+    ],
+    "label": "maskulin",
+    "level": 3,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Kolač sa {orasima} je odličan.",
+        "de": "Der Kuchen mit Walnüssen ist ausgezeichnet."
+      },
+      {
+        "sr": "Kilo {oraha}, molim.",
+        "de": "Ein Kilo Walnüsse, bitte."
+      }
+    ]
+  },
+  {
+    "word": "med",
+    "meanings": [
+      "Honig"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Čaj sa {medom} je dobar za grlo.",
+        "de": "Tee mit Honig ist gut für den Hals."
+      },
+      {
+        "sr": "Kupio sam domaći {med} na pijaci.",
+        "de": "Ich habe auf dem Markt heimischen Honig gekauft."
+      }
+    ]
+  },
+  {
+    "word": "odeća",
+    "meanings": [
+      "Kleidung"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Treba mi topla {odeća}.",
+        "de": "Ich brauche warme Kleidung."
+      },
+      {
+        "sr": "U ovoj prodavnici ima lepe {odeće}.",
+        "de": "In diesem Laden gibt es schöne Kleidung."
+      }
+    ]
+  },
+  {
+    "word": "majica",
+    "meanings": [
+      "T-Shirt"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Ova {majica} mi je mala.",
+        "de": "Dieses T-Shirt ist mir zu klein."
+      },
+      {
+        "sr": "Tražim belu {majicu}.",
+        "de": "Ich suche ein weißes T-Shirt."
+      }
+    ]
+  },
+  {
+    "word": "košulja",
+    "meanings": [
+      "Hemd"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Za svadbu mi treba {košulja}.",
+        "de": "Für die Hochzeit brauche ich ein Hemd."
+      },
+      {
+        "sr": "Obukao sam belu {košulju}.",
+        "de": "Ich habe ein weißes Hemd angezogen."
+      }
+    ]
+  },
+  {
+    "word": "pantalone",
+    "meanings": [
+      "Hose"
+    ],
+    "label": "Plural",
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Ove {pantalone} su mi dugačke.",
+        "de": "Diese Hose ist mir zu lang."
+      },
+      {
+        "sr": "Imate li crne {pantalone}?",
+        "de": "Haben Sie eine schwarze Hose?"
+      }
+    ]
+  },
+  {
+    "word": "haljina",
+    "meanings": [
+      "Kleid"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Ta {haljina} ti lepo stoji.",
+        "de": "Das Kleid steht dir gut."
+      },
+      {
+        "sr": "Kupila je novu {haljinu}.",
+        "de": "Sie hat ein neues Kleid gekauft."
+      }
+    ]
+  },
+  {
+    "word": "jakna",
+    "meanings": [
+      "Jacke"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Ponesi {jaknu}, hladno je.",
+        "de": "Nimm eine Jacke mit, es ist kalt."
+      },
+      {
+        "sr": "Ova {jakna} je na akciji.",
+        "de": "Diese Jacke ist im Angebot."
+      }
+    ]
+  },
+  {
+    "word": "cipele",
+    "meanings": [
+      "Schuhe"
+    ],
+    "label": "Plural",
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Trebaju mi nove {cipele}.",
+        "de": "Ich brauche neue Schuhe."
+      },
+      {
+        "sr": "Ostavi {cipele} ispred vrata.",
+        "de": "Lass die Schuhe vor der Tür stehen."
+      }
+    ]
+  },
+  {
+    "word": "veličina",
+    "meanings": [
+      "Größe"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Koja {veličina} vam treba?",
+        "de": "Welche Größe brauchen Sie?"
+      },
+      {
+        "sr": "Imate li ovo u većoj {veličini}?",
+        "de": "Haben Sie das in einer größeren Größe?"
+      }
+    ]
+  },
+  {
+    "word": "boja",
+    "meanings": [
+      "Farbe"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Koja je tvoja omiljena {boja}?",
+        "de": "Was ist deine Lieblingsfarbe?"
+      },
+      {
+        "sr": "Imate li ovo u drugoj {boji}?",
+        "de": "Haben Sie das in einer anderen Farbe?"
+      }
+    ]
+  }
+]

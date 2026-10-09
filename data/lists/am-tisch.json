@@ -1,0 +1,1551 @@
+[
+  {
+    "word": "voda",
+    "meanings": [
+      "Wasser"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Mogu li da dobijem čašu {vode}?",
+        "de": "Kann ich ein Glas Wasser bekommen?"
+      },
+      {
+        "sr": "Ova {voda} je baš hladna.",
+        "de": "Dieses Wasser ist richtig kalt."
+      }
+    ]
+  },
+  {
+    "word": "kafa",
+    "meanings": [
+      "Kaffee"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Ujutru prvo pijem {kafu}.",
+        "de": "Morgens trinke ich zuerst Kaffee."
+      },
+      {
+        "sr": "Hoćeš li jednu {kafu} posle ručka?",
+        "de": "Möchtest du nach dem Mittagessen einen Kaffee?"
+      }
+    ]
+  },
+  {
+    "word": "hleb",
+    "meanings": [
+      "Brot"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Možeš li da mi dodaš {hleb}?",
+        "de": "Kannst du mir das Brot reichen?"
+      },
+      {
+        "sr": "Kupio sam svež {hleb} za večeru.",
+        "de": "Ich habe frisches Brot fürs Abendessen gekauft."
+      }
+    ]
+  },
+  {
+    "word": "mleko",
+    "meanings": [
+      "Milch"
+    ],
+    "label": "neutrum",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "U kafu stavljam malo {mleka}.",
+        "de": "Ich gebe etwas Milch in den Kaffee."
+      },
+      {
+        "sr": "Da li imate hladno {mleko}?",
+        "de": "Haben Sie kalte Milch?"
+      }
+    ]
+  },
+  {
+    "word": "čaj",
+    "meanings": [
+      "Tee"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Uveče volim da pijem {čaj}.",
+        "de": "Abends trinke ich gern Tee."
+      },
+      {
+        "sr": "Skuvao sam ti {čaj} sa limunom.",
+        "de": "Ich habe dir Tee mit Zitrone gekocht."
+      }
+    ]
+  },
+  {
+    "word": "sok",
+    "meanings": [
+      "Saft"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Za mene je dovoljan jedan {sok}.",
+        "de": "Ein Saft reicht mir."
+      },
+      {
+        "sr": "Deca piju {sok} od jabuke.",
+        "de": "Die Kinder trinken Apfelsaft."
+      }
+    ]
+  },
+  {
+    "word": "vino",
+    "meanings": [
+      "Wein"
+    ],
+    "label": "neutrum",
+    "level": 2,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Uz ovu večeru lepo ide crno {vino}.",
+        "de": "Zu diesem Abendessen passt Rotwein gut."
+      },
+      {
+        "sr": "Da li tvoji roditelji piju {vino}?",
+        "de": "Trinken deine Eltern Wein?"
+      }
+    ]
+  },
+  {
+    "word": "supa",
+    "meanings": [
+      "Suppe"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Ova {supa} me podseća na detinjstvo.",
+        "de": "Diese Suppe erinnert mich an meine Kindheit."
+      },
+      {
+        "sr": "Sipao sam ti još malo {supe}.",
+        "de": "Ich habe dir noch etwas Suppe aufgetan."
+      }
+    ]
+  },
+  {
+    "word": "čorba",
+    "meanings": [
+      "Suppe (dick, mit Einlage)",
+      "Eintopf"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Baka danas pravi domaću {čorbu}.",
+        "de": "Oma macht heute eine hausgemachte Suppe."
+      },
+      {
+        "sr": "U ovoj {čorbi} ima dosta povrća.",
+        "de": "In dieser Suppe ist viel Gemüse."
+      }
+    ]
+  },
+  {
+    "word": "meso",
+    "meanings": [
+      "Fleisch"
+    ],
+    "label": "neutrum",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Ne jedem mnogo {mesa}.",
+        "de": "Ich esse nicht viel Fleisch."
+      },
+      {
+        "sr": "Da li je ovo {meso} dobro pečeno?",
+        "de": "Ist dieses Fleisch gut durchgebraten?"
+      }
+    ]
+  },
+  {
+    "word": "piletina",
+    "meanings": [
+      "Hähnchenfleisch"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Za ručak imamo {piletinu} i krompir.",
+        "de": "Zum Mittagessen gibt es Hähnchen und Kartoffeln."
+      },
+      {
+        "sr": "{Piletina} je mekana i sočna.",
+        "de": "Das Hähnchenfleisch ist zart und saftig."
+      }
+    ]
+  },
+  {
+    "word": "svinjetina",
+    "meanings": [
+      "Schweinefleisch"
+    ],
+    "label": "feminin",
+    "level": 3,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Da li je ovo {svinjetina}?",
+        "de": "Ist das Schweinefleisch?"
+      },
+      {
+        "sr": "Moja devojka ne jede {svinjetinu}.",
+        "de": "Meine Freundin isst kein Schweinefleisch."
+      }
+    ]
+  },
+  {
+    "word": "riba",
+    "meanings": [
+      "Fisch"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Danas bih radije jeo {ribu}.",
+        "de": "Heute würde ich lieber Fisch essen."
+      },
+      {
+        "sr": "Ova {riba} je baš ukusna.",
+        "de": "Dieser Fisch schmeckt wirklich gut."
+      }
+    ]
+  },
+  {
+    "word": "krompir",
+    "meanings": [
+      "Kartoffel",
+      "Kartoffeln"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Uz meso najviše volim pečeni {krompir}.",
+        "de": "Zu Fleisch mag ich Ofenkartoffeln am liebsten."
+      },
+      {
+        "sr": "Dodaj još malo {krompira} na moj tanjir.",
+        "de": "Gib mir noch ein paar Kartoffeln auf meinen Teller."
+      }
+    ]
+  },
+  {
+    "word": "pirinač",
+    "meanings": [
+      "Reis"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Uz piletinu obično jedem {pirinač}.",
+        "de": "Zu Hähnchen esse ich normalerweise Reis."
+      },
+      {
+        "sr": "Ostalo je još malo {pirinča}.",
+        "de": "Es ist noch etwas Reis übrig."
+      }
+    ]
+  },
+  {
+    "word": "testenina",
+    "meanings": [
+      "Nudeln",
+      "Pasta"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Večeras pravim {testeninu} sa sirom.",
+        "de": "Heute Abend mache ich Nudeln mit Käse."
+      },
+      {
+        "sr": "Ova {testenina} je gotova za deset minuta.",
+        "de": "Diese Nudeln sind in zehn Minuten fertig."
+      }
+    ]
+  },
+  {
+    "word": "pasulj",
+    "meanings": [
+      "Bohnen",
+      "Bohneneintopf"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Kod njenih roditelja često jedemo {pasulj}.",
+        "de": "Bei ihren Eltern essen wir oft Bohneneintopf."
+      },
+      {
+        "sr": "Ovaj {pasulj} je još bolji sutradan.",
+        "de": "Dieser Bohneneintopf schmeckt am nächsten Tag noch besser."
+      }
+    ]
+  },
+  {
+    "word": "sir",
+    "meanings": [
+      "Käse"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Hoćeš li malo {sira} uz hleb?",
+        "de": "Möchtest du etwas Käse zum Brot?"
+      },
+      {
+        "sr": "Ovaj {sir} je domaći.",
+        "de": "Dieser Käse ist hausgemacht."
+      }
+    ]
+  },
+  {
+    "word": "kajmak",
+    "meanings": [
+      "Kajmak (Rahmaufstrich)"
+    ],
+    "label": "maskulin",
+    "level": 3,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Prvi put probam pravi {kajmak}.",
+        "de": "Ich probiere zum ersten Mal echten Kajmak."
+      },
+      {
+        "sr": "Možeš li da mi dodaš {kajmak}?",
+        "de": "Kannst du mir den Kajmak reichen?"
+      }
+    ]
+  },
+  {
+    "word": "jogurt",
+    "meanings": [
+      "Joghurt"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Uz burek obično pijem {jogurt}.",
+        "de": "Zum Burek trinke ich normalerweise Joghurt."
+      },
+      {
+        "sr": "U frižideru ima još {jogurta}.",
+        "de": "Im Kühlschrank ist noch Joghurt."
+      }
+    ]
+  },
+  {
+    "word": "jaje",
+    "meanings": [
+      "Ei"
+    ],
+    "label": "neutrum",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Za doručak sam pojeo jedno {jaje}.",
+        "de": "Zum Frühstück habe ich ein Ei gegessen."
+      },
+      {
+        "sr": "Dodaj još dva {jajeta} u smesu.",
+        "de": "Gib noch zwei Eier in die Mischung."
+      }
+    ]
+  },
+  {
+    "word": "salata",
+    "meanings": [
+      "Salat"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Uz ručak uvek jedem {salatu}.",
+        "de": "Zum Mittagessen esse ich immer Salat."
+      },
+      {
+        "sr": "Ko je napravio ovu {salatu}?",
+        "de": "Wer hat diesen Salat gemacht?"
+      }
+    ]
+  },
+  {
+    "word": "paradajz",
+    "meanings": [
+      "Tomate"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Isekao sam {paradajz} za salatu.",
+        "de": "Ich habe eine Tomate für den Salat geschnitten."
+      },
+      {
+        "sr": "Možeš li da mi dodaš taj {paradajz}?",
+        "de": "Kannst du mir die Tomate reichen?"
+      }
+    ]
+  },
+  {
+    "word": "krastavac",
+    "meanings": [
+      "Gurke"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "U salatu stavi i jedan {krastavac}.",
+        "de": "Gib auch eine Gurke in den Salat."
+      },
+      {
+        "sr": "Ima li još {krastavaca} u frižideru?",
+        "de": "Sind noch Gurken im Kühlschrank?"
+      }
+    ]
+  },
+  {
+    "word": "luk",
+    "meanings": [
+      "Zwiebel"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Ovaj sos ima previše {luka}.",
+        "de": "Diese Soße enthält zu viele Zwiebeln."
+      },
+      {
+        "sr": "Treba li ti jedan {luk} za ručak?",
+        "de": "Brauchst du eine Zwiebel fürs Mittagessen?"
+      }
+    ]
+  },
+  {
+    "word": "so",
+    "meanings": [
+      "Salz"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Dodaj malo {soli}, molim te.",
+        "de": "Gib bitte etwas Salz dazu."
+      },
+      {
+        "sr": "Ova supa nema dovoljno {soli}.",
+        "de": "Diese Suppe hat nicht genug Salz."
+      }
+    ]
+  },
+  {
+    "word": "biber",
+    "meanings": [
+      "Pfeffer"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Ja volim malo {bibera} u supi.",
+        "de": "Ich mag etwas Pfeffer in der Suppe."
+      },
+      {
+        "sr": "Gde držite {biber}?",
+        "de": "Wo bewahren Sie den Pfeffer auf?"
+      }
+    ]
+  },
+  {
+    "word": "šećer",
+    "meanings": [
+      "Zucker"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "U kafu ne stavljam {šećer}.",
+        "de": "Ich gebe keinen Zucker in den Kaffee."
+      },
+      {
+        "sr": "Možeš li da mi dodaš malo {šećera}?",
+        "de": "Kannst du mir etwas Zucker reichen?"
+      }
+    ]
+  },
+  {
+    "word": "ulje",
+    "meanings": [
+      "Öl"
+    ],
+    "label": "neutrum",
+    "level": 2,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Za ovu salatu treba malo {ulja}.",
+        "de": "Für diesen Salat braucht man etwas Öl."
+      },
+      {
+        "sr": "Koje {ulje} koristiš za kuvanje?",
+        "de": "Welches Öl benutzt du zum Kochen?"
+      }
+    ]
+  },
+  {
+    "word": "puter",
+    "meanings": [
+      "Butter"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Namaži malo {putera} na hleb.",
+        "de": "Streich etwas Butter aufs Brot."
+      },
+      {
+        "sr": "Da li je ovaj {puter} slan?",
+        "de": "Ist diese Butter gesalzen?"
+      }
+    ]
+  },
+  {
+    "word": "brašno",
+    "meanings": [
+      "Mehl"
+    ],
+    "label": "neutrum",
+    "level": 2,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Za palačinke nam treba još {brašna}.",
+        "de": "Für Pfannkuchen brauchen wir noch Mehl."
+      },
+      {
+        "sr": "Gde stoji {brašno}?",
+        "de": "Wo steht das Mehl?"
+      }
+    ]
+  },
+  {
+    "word": "tanjir",
+    "meanings": [
+      "Teller"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Mogu li da dobijem čist {tanjir}?",
+        "de": "Kann ich einen sauberen Teller bekommen?"
+      },
+      {
+        "sr": "Stavio sam meso na tvoj {tanjir}.",
+        "de": "Ich habe das Fleisch auf deinen Teller gelegt."
+      }
+    ]
+  },
+  {
+    "word": "činija",
+    "meanings": [
+      "Schüssel"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Stavi salatu u veliku {činiju}.",
+        "de": "Gib den Salat in eine große Schüssel."
+      },
+      {
+        "sr": "Ova {činija} je puna voća.",
+        "de": "Diese Schüssel ist voller Obst."
+      }
+    ]
+  },
+  {
+    "word": "čaša",
+    "meanings": [
+      "Glas"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Molim te, donesi mi jednu {čašu}.",
+        "de": "Bring mir bitte ein Glas."
+      },
+      {
+        "sr": "U mojoj {čaši} ima još vode.",
+        "de": "In meinem Glas ist noch Wasser."
+      }
+    ]
+  },
+  {
+    "word": "šolja",
+    "meanings": [
+      "Tasse"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Ova {šolja} je baš lepa.",
+        "de": "Diese Tasse ist wirklich schön."
+      },
+      {
+        "sr": "Sipaj mi kafu u veliku {šolju}.",
+        "de": "Gieß mir den Kaffee in eine große Tasse."
+      }
+    ]
+  },
+  {
+    "word": "viljuška",
+    "meanings": [
+      "Gabel"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Nedostaje mi jedna {viljuška}.",
+        "de": "Mir fehlt eine Gabel."
+      },
+      {
+        "sr": "Jeo sam salatu {viljuškom}.",
+        "de": "Ich habe den Salat mit einer Gabel gegessen."
+      }
+    ]
+  },
+  {
+    "word": "nož",
+    "meanings": [
+      "Messer"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Treba mi oštar {nož} za hleb.",
+        "de": "Ich brauche ein scharfes Messer fürs Brot."
+      },
+      {
+        "sr": "Ostavi {nož} pored tanjira.",
+        "de": "Leg das Messer neben den Teller."
+      }
+    ]
+  },
+  {
+    "word": "kašika",
+    "meanings": [
+      "Löffel"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Mogu li da dobijem još jednu {kašiku}?",
+        "de": "Kann ich noch einen Löffel bekommen?"
+      },
+      {
+        "sr": "Jedi supu {kašikom}, ne viljuškom.",
+        "de": "Iss die Suppe mit einem Löffel, nicht mit einer Gabel."
+      }
+    ]
+  },
+  {
+    "word": "kašičica",
+    "meanings": [
+      "Teelöffel"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Dodaj jednu {kašičicu} šećera.",
+        "de": "Gib einen Teelöffel Zucker dazu."
+      },
+      {
+        "sr": "Ostavi {kašičicu} pored šolje.",
+        "de": "Lass den Teelöffel neben der Tasse liegen."
+      }
+    ]
+  },
+  {
+    "word": "salveta",
+    "meanings": [
+      "Serviette"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Možeš li da mi dodaš {salvetu}?",
+        "de": "Kannst du mir die Serviette reichen?"
+      },
+      {
+        "sr": "Stavi {salvetu} pored tanjira.",
+        "de": "Leg die Serviette neben den Teller."
+      }
+    ]
+  },
+  {
+    "word": "doručak",
+    "meanings": [
+      "Frühstück"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Za {doručak} obično jedem jaja.",
+        "de": "Zum Frühstück esse ich normalerweise Eier."
+      },
+      {
+        "sr": "Njen otac već sprema {doručak}.",
+        "de": "Ihr Vater bereitet schon das Frühstück vor."
+      }
+    ]
+  },
+  {
+    "word": "ručak",
+    "meanings": [
+      "Mittagessen"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "U koliko sati je danas {ručak}?",
+        "de": "Um wie viel Uhr gibt es heute Mittagessen?"
+      },
+      {
+        "sr": "Hvala vam na {ručku}.",
+        "de": "Vielen Dank für das Mittagessen."
+      }
+    ]
+  },
+  {
+    "word": "večera",
+    "meanings": [
+      "Abendessen"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Za {večeru} ćemo jesti ribu.",
+        "de": "Zum Abendessen werden wir Fisch essen."
+      },
+      {
+        "sr": "Posle {večere} možemo da popijemo kafu.",
+        "de": "Nach dem Abendessen können wir Kaffee trinken."
+      }
+    ]
+  },
+  {
+    "word": "obrok",
+    "meanings": [
+      "Mahlzeit"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Ovo je moj omiljeni {obrok} u danu.",
+        "de": "Das ist meine Lieblingsmahlzeit des Tages."
+      },
+      {
+        "sr": "Preskočio sam jedan {obrok} zbog posla.",
+        "de": "Wegen der Arbeit habe ich eine Mahlzeit ausgelassen."
+      }
+    ]
+  },
+  {
+    "word": "zalogaj",
+    "meanings": [
+      "Bissen"
+    ],
+    "label": "maskulin",
+    "level": 3,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Uzeo sam samo jedan {zalogaj}.",
+        "de": "Ich habe nur einen Bissen genommen."
+      },
+      {
+        "sr": "Ovaj poslednji {zalogaj} je za tebe.",
+        "de": "Der letzte Bissen ist für dich."
+      }
+    ]
+  },
+  {
+    "word": "ukus",
+    "meanings": [
+      "Geschmack"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Ovo jelo ima poseban {ukus}.",
+        "de": "Dieses Gericht hat einen besonderen Geschmack."
+      },
+      {
+        "sr": "Sviđa mi se {ukus} domaće hrane.",
+        "de": "Mir gefällt der Geschmack hausgemachten Essens."
+      }
+    ]
+  },
+  {
+    "word": "miris",
+    "meanings": [
+      "Geruch",
+      "Duft"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Kakav lep {miris} dolazi iz kuhinje!",
+        "de": "Was für ein herrlicher Duft kommt aus der Küche!"
+      },
+      {
+        "sr": "Ovaj {miris} me podseća na bakinu kuću.",
+        "de": "Dieser Geruch erinnert mich an Omas Haus."
+      }
+    ]
+  },
+  {
+    "word": "glad",
+    "meanings": [
+      "Hunger"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Posle dugog puta osećam {glad}.",
+        "de": "Nach der langen Reise habe ich Hunger."
+      },
+      {
+        "sr": "Od {gladi} ne mogu da mislim.",
+        "de": "Vor Hunger kann ich nicht denken."
+      }
+    ]
+  },
+  {
+    "word": "žeđ",
+    "meanings": [
+      "Durst"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Umirem od {žeđi}, daj mi vode.",
+        "de": "Ich sterbe vor Durst, gib mir Wasser."
+      },
+      {
+        "sr": "Voda mi je odmah ugasila {žeđ}.",
+        "de": "Das Wasser hat meinen Durst sofort gelöscht."
+      }
+    ]
+  },
+  {
+    "word": "prijatno",
+    "meanings": [
+      "guten Appetit"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Prijatno} svima, počnite dok je toplo!",
+        "de": "Guten Appetit zusammen, fangt an, solange es warm ist!"
+      },
+      {
+        "sr": "Ručak je na stolu, {prijatno}!",
+        "de": "Das Mittagessen steht auf dem Tisch, guten Appetit!"
+      }
+    ]
+  },
+  {
+    "word": "živeli",
+    "meanings": [
+      "prost",
+      "zum Wohl"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Podigli smo čaše i rekli {živeli}.",
+        "de": "Wir hoben die Gläser und sagten Prost."
+      },
+      {
+        "sr": "{Živeli}, za mladence!",
+        "de": "Prost, auf das Brautpaar!"
+      }
+    ]
+  },
+  {
+    "word": "hoćeš li još",
+    "meanings": [
+      "möchtest du noch etwas"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Hoćeš li još} krompira?",
+        "de": "Möchtest du noch Kartoffeln?"
+      },
+      {
+        "sr": "{Hoćeš li još} malo supe?",
+        "de": "Möchtest du noch etwas Suppe?"
+      }
+    ]
+  },
+  {
+    "word": "želite li još",
+    "meanings": [
+      "möchten Sie noch etwas"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Želite li još} vode, gospodine?",
+        "de": "Möchten Sie noch Wasser, mein Herr?"
+      },
+      {
+        "sr": "{Želite li još} malo hleba?",
+        "de": "Möchten Sie noch etwas Brot?"
+      }
+    ]
+  },
+  {
+    "word": "još malo",
+    "meanings": [
+      "noch etwas",
+      "noch ein bisschen"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Još malo} hleba, molim.",
+        "de": "Noch etwas Brot, bitte."
+      },
+      {
+        "sr": "Sipaj mi {još malo}.",
+        "de": "Schenk mir noch ein bisschen ein."
+      }
+    ]
+  },
+  {
+    "word": "mogu još malo",
+    "meanings": [
+      "darf ich noch etwas haben"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Mogu još malo} krompira?",
+        "de": "Darf ich noch ein paar Kartoffeln haben?"
+      },
+      {
+        "sr": "Ako je ostalo, {mogu još malo} supe?",
+        "de": "Falls noch etwas übrig ist, darf ich noch etwas Suppe haben?"
+      }
+    ]
+  },
+  {
+    "word": "uzmi još",
+    "meanings": [
+      "nimm noch etwas"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Uzmi još} piletine, ima je dovoljno.",
+        "de": "Nimm noch etwas Hähnchen, es ist genug da."
+      },
+      {
+        "sr": "{Uzmi još} jednu krišku hleba.",
+        "de": "Nimm noch eine Scheibe Brot."
+      }
+    ]
+  },
+  {
+    "word": "posluži se",
+    "meanings": [
+      "bedien dich"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Posluži se}, sve je na stolu.",
+        "de": "Bedien dich, alles steht auf dem Tisch."
+      },
+      {
+        "sr": "Ako si gladan, {posluži se}.",
+        "de": "Wenn du hungrig bist, bedien dich."
+      }
+    ]
+  },
+  {
+    "word": "dodaj mi",
+    "meanings": [
+      "reich mir",
+      "gib mir"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Dodaj mi} so, molim te.",
+        "de": "Reich mir bitte das Salz."
+      },
+      {
+        "sr": "{Dodaj mi} hleb, molim te.",
+        "de": "Reich mir bitte das Brot."
+      }
+    ]
+  },
+  {
+    "word": "dovoljno mi je",
+    "meanings": [
+      "das reicht mir"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Dovoljno mi je}, hvala.",
+        "de": "Das reicht mir, danke."
+      },
+      {
+        "sr": "Hvala, {dovoljno mi je} za danas.",
+        "de": "Danke, das reicht mir für heute."
+      }
+    ]
+  },
+  {
+    "word": "sit sam",
+    "meanings": [
+      "ich bin satt"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Sit sam}, ali sve je bilo odlično.",
+        "de": "Ich bin satt, aber alles war ausgezeichnet."
+      },
+      {
+        "sr": "Hvala, {sit sam} i ne mogu više.",
+        "de": "Danke, ich bin satt und kann nicht mehr."
+      }
+    ]
+  },
+  {
+    "word": "ne mogu više",
+    "meanings": [
+      "ich kann nicht mehr"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Ne mogu više}, stvarno sam sit.",
+        "de": "Ich kann nicht mehr, ich bin wirklich satt."
+      },
+      {
+        "sr": "Hvala na svemu, ali {ne mogu više}.",
+        "de": "Vielen Dank für alles, aber ich kann nicht mehr."
+      }
+    ]
+  },
+  {
+    "word": "ovo je previše za mene",
+    "meanings": [
+      "das ist zu viel für mich"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Ovo je previše za mene}; mogu da podelim s tobom.",
+        "de": "Das ist zu viel für mich; ich kann es mit dir teilen."
+      },
+      {
+        "sr": "Hvala, {ovo je previše za mene}.",
+        "de": "Danke, das ist zu viel für mich."
+      }
+    ]
+  },
+  {
+    "word": "gladan sam",
+    "meanings": [
+      "ich habe Hunger",
+      "ich bin hungrig"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Gladan sam}, šta ćemo danas jesti?",
+        "de": "Ich habe Hunger, was essen wir heute?"
+      },
+      {
+        "sr": "{Gladan sam} kao vuk.",
+        "de": "Ich habe einen Bärenhunger."
+      }
+    ]
+  },
+  {
+    "word": "žedan sam",
+    "meanings": [
+      "ich habe Durst",
+      "ich bin durstig"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Žedan sam}, mogu li da dobijem vodu?",
+        "de": "Ich habe Durst, kann ich Wasser bekommen?"
+      },
+      {
+        "sr": "{Žedan sam} posle šetnje po gradu.",
+        "de": "Nach dem Spaziergang durch die Stadt habe ich Durst."
+      }
+    ]
+  },
+  {
+    "word": "baš je ukusno",
+    "meanings": [
+      "es schmeckt wirklich gut"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Baš je ukusno} ovo što ste spremili.",
+        "de": "Das, was Sie zubereitet haben, schmeckt wirklich gut."
+      },
+      {
+        "sr": "Probaj, {baš je ukusno}.",
+        "de": "Probier mal, es schmeckt wirklich gut."
+      }
+    ]
+  },
+  {
+    "word": "bilo je odlično",
+    "meanings": [
+      "es war ausgezeichnet"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Bilo je odlično}, hvala vam na večeri.",
+        "de": "Es war ausgezeichnet, vielen Dank für das Abendessen."
+      },
+      {
+        "sr": "{Bilo je odlično}, kao i uvek.",
+        "de": "Es war ausgezeichnet, wie immer."
+      }
+    ]
+  },
+  {
+    "word": "odlično miriše",
+    "meanings": [
+      "es riecht ausgezeichnet"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Odlično miriše} ono što kuvate.",
+        "de": "Das, was Sie kochen, riecht ausgezeichnet."
+      },
+      {
+        "sr": "Večera {odlično miriše}; jedva čekam da probam.",
+        "de": "Das Abendessen riecht ausgezeichnet; ich kann es kaum erwarten, es zu probieren."
+      }
+    ]
+  },
+  {
+    "word": "prvi put ovo probam",
+    "meanings": [
+      "ich probiere das zum ersten Mal"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Prvi put ovo probam}, kako se zove?",
+        "de": "Ich probiere das zum ersten Mal, wie heißt es?"
+      },
+      {
+        "sr": "{Prvi put ovo probam} i veoma mi se sviđa.",
+        "de": "Ich probiere das zum ersten Mal und es gefällt mir sehr."
+      }
+    ]
+  },
+  {
+    "word": "mogu li da probam",
+    "meanings": [
+      "darf ich probieren"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Mogu li da probam} ovaj sir?",
+        "de": "Darf ich diesen Käse probieren?"
+      },
+      {
+        "sr": "Izgleda odlično; {mogu li da probam} malo?",
+        "de": "Es sieht ausgezeichnet aus; darf ich etwas probieren?"
+      }
+    ]
+  },
+  {
+    "word": "šta je ovo",
+    "meanings": [
+      "was ist das"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Šta je ovo} na sredini stola?",
+        "de": "Was ist das in der Mitte des Tisches?"
+      },
+      {
+        "sr": "{Šta je ovo} što ste nam poslužili?",
+        "de": "Was ist das, das Sie uns serviert haben?"
+      }
+    ]
+  },
+  {
+    "word": "šta ima u ovome",
+    "meanings": [
+      "was ist da drin"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Šta ima u ovome} osim mesa?",
+        "de": "Was ist außer Fleisch noch da drin?"
+      },
+      {
+        "sr": "{Šta ima u ovome} što je tako ukusno?",
+        "de": "Was ist da drin, dass es so gut schmeckt?"
+      }
+    ]
+  },
+  {
+    "word": "da li je ovo ljuto",
+    "meanings": [
+      "ist das scharf"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Da li je ovo ljuto} ili je blago?",
+        "de": "Ist das scharf oder mild?"
+      },
+      {
+        "sr": "Pre nego što probam, {da li je ovo ljuto}?",
+        "de": "Bevor ich es probiere: Ist das scharf?"
+      }
+    ]
+  },
+  {
+    "word": "da li je domaće",
+    "meanings": [
+      "ist das hausgemacht"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Ovo vino je odlično, {da li je domaće}?",
+        "de": "Dieser Wein ist ausgezeichnet, ist er hausgemacht?"
+      },
+      {
+        "sr": "{Da li je domaće} ili ste kupili u prodavnici?",
+        "de": "Ist das hausgemacht oder haben Sie es im Laden gekauft?"
+      }
+    ]
+  },
+  {
+    "word": "ne jedem meso",
+    "meanings": [
+      "ich esse kein Fleisch"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Ne jedem meso}, ali jedem ribu.",
+        "de": "Ich esse kein Fleisch, aber ich esse Fisch."
+      },
+      {
+        "sr": "{Ne jedem meso} svakog dana.",
+        "de": "Ich esse nicht jeden Tag Fleisch."
+      }
+    ]
+  },
+  {
+    "word": "jedem sve",
+    "meanings": [
+      "ich esse alles"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Jedem sve}, tako da slobodno izaberite.",
+        "de": "Ich esse alles, also wählen Sie ruhig etwas aus."
+      },
+      {
+        "sr": "{Jedem sve} osim veoma ljute hrane.",
+        "de": "Ich esse alles außer sehr scharfem Essen."
+      }
+    ]
+  },
+  {
+    "word": "bez šećera",
+    "meanings": [
+      "ohne Zucker"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Kafu pijem {bez šećera}.",
+        "de": "Ich trinke den Kaffee ohne Zucker."
+      },
+      {
+        "sr": "Jedan čaj {bez šećera}, molim.",
+        "de": "Einen Tee ohne Zucker, bitte."
+      }
+    ]
+  },
+  {
+    "word": "sa mlekom",
+    "meanings": [
+      "mit Milch"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Jednu kafu {sa mlekom}, molim.",
+        "de": "Einen Kaffee mit Milch, bitte."
+      },
+      {
+        "sr": "Čaj pijem {sa mlekom}.",
+        "de": "Ich trinke den Tee mit Milch."
+      }
+    ]
+  },
+  {
+    "word": "ko želi kafu",
+    "meanings": [
+      "wer möchte Kaffee"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Ko želi kafu} posle ručka?",
+        "de": "Wer möchte nach dem Mittagessen Kaffee?"
+      },
+      {
+        "sr": "Skuvao sam svežu kafu; {ko želi kafu}?",
+        "de": "Ich habe frischen Kaffee gekocht; wer möchte Kaffee?"
+      }
+    ]
+  },
+  {
+    "word": "da li mogu da pomognem",
+    "meanings": [
+      "kann ich helfen"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Da li mogu da pomognem} oko postavljanja stola?",
+        "de": "Kann ich beim Tischdecken helfen?"
+      },
+      {
+        "sr": "Vidim da ima dosta posla; {da li mogu da pomognem}?",
+        "de": "Ich sehe, dass viel zu tun ist; kann ich helfen?"
+      }
+    ]
+  },
+  {
+    "word": "da sklonim tanjire",
+    "meanings": [
+      "soll ich die Teller abräumen"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Da sklonim tanjire} sa stola?",
+        "de": "Soll ich die Teller vom Tisch abräumen?"
+      },
+      {
+        "sr": "Svi smo završili; {da sklonim tanjire}?",
+        "de": "Wir sind alle fertig; soll ich die Teller abräumen?"
+      }
+    ]
+  },
+  {
+    "word": "hvala na ručku",
+    "meanings": [
+      "danke für das Mittagessen"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Hvala na ručku}, sve je bilo odlično.",
+        "de": "Danke für das Mittagessen, alles war ausgezeichnet."
+      },
+      {
+        "sr": "Pre nego što krenemo, {hvala na ručku}.",
+        "de": "Bevor wir gehen, danke für das Mittagessen."
+      }
+    ]
+  }
+]

@@ -1,0 +1,7223 @@
+[
+  {
+    "word": "zdravo",
+    "meanings": [
+      "hallo"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Zdravo}, kako si?",
+        "de": "Hallo, wie geht es dir?"
+      },
+      {
+        "sr": "{Zdravo} svima!",
+        "de": "Hallo zusammen!"
+      }
+    ]
+  },
+  {
+    "word": "ćao",
+    "meanings": [
+      "tschüss",
+      "hallo"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Ćao}, čujemo se!",
+        "de": "Tschüss, wir hören uns!"
+      },
+      {
+        "sr": "{Ćao}, jesi li kod kuće?",
+        "de": "Hallo, bist du zu Hause?"
+      }
+    ]
+  },
+  {
+    "word": "dobar dan",
+    "meanings": [
+      "guten Tag"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Dobar dan}, drago mi je.",
+        "de": "Guten Tag, freut mich."
+      },
+      {
+        "sr": "{Dobar dan}, izvolite.",
+        "de": "Guten Tag, bitte sehr."
+      }
+    ]
+  },
+  {
+    "word": "dobro jutro",
+    "meanings": [
+      "guten Morgen"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Dobro jutro}, jesi li se naspavala?",
+        "de": "Guten Morgen, hast du ausgeschlafen?"
+      },
+      {
+        "sr": "{Dobro jutro} svima.",
+        "de": "Guten Morgen allerseits."
+      }
+    ]
+  },
+  {
+    "word": "dobro veče",
+    "meanings": [
+      "guten Abend"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Dobro veče}, dobrodošli.",
+        "de": "Guten Abend, willkommen."
+      },
+      {
+        "sr": "{Dobro veče}, imate li slobodan sto?",
+        "de": "Guten Abend, haben Sie einen freien Tisch?"
+      }
+    ]
+  },
+  {
+    "word": "laku noć",
+    "meanings": [
+      "gute Nacht"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Laku noć}, lepo spavaj.",
+        "de": "Gute Nacht, schlaf gut."
+      },
+      {
+        "sr": "Idem da spavam, {laku noć}.",
+        "de": "Ich gehe schlafen, gute Nacht."
+      }
+    ]
+  },
+  {
+    "word": "doviđenja",
+    "meanings": [
+      "auf Wiedersehen"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Doviđenja}, vidimo se sutra.",
+        "de": "Auf Wiedersehen, wir sehen uns morgen."
+      },
+      {
+        "sr": "Hvala i {doviđenja}.",
+        "de": "Danke und auf Wiedersehen."
+      }
+    ]
+  },
+  {
+    "word": "vidimo se",
+    "meanings": [
+      "bis bald",
+      "wir sehen uns"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Vidimo se} večeras.",
+        "de": "Wir sehen uns heute Abend."
+      },
+      {
+        "sr": "Ćao, {vidimo se}!",
+        "de": "Tschüss, bis bald!"
+      }
+    ]
+  },
+  {
+    "word": "kako si",
+    "meanings": [
+      "wie geht's",
+      "wie geht es dir"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "Zdravo, {kako si}?",
+        "de": "Hallo, wie geht's?"
+      },
+      {
+        "sr": "{Kako si} danas?",
+        "de": "Wie geht es dir heute?"
+      }
+    ]
+  },
+  {
+    "word": "kako ste",
+    "meanings": [
+      "wie geht es Ihnen",
+      "wie geht es euch"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "Dobar dan, {kako ste}?",
+        "de": "Guten Tag, wie geht es Ihnen?"
+      },
+      {
+        "sr": "{Kako ste}, gospodine Jovanoviću?",
+        "de": "Wie geht es Ihnen, Herr Jovanović?"
+      }
+    ]
+  },
+  {
+    "word": "dobro",
+    "meanings": [
+      "gut"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Dobro} sam, hvala.",
+        "de": "Mir geht es gut, danke."
+      },
+      {
+        "sr": "{Dobro}, idemo.",
+        "de": "Gut, gehen wir."
+      }
+    ]
+  },
+  {
+    "word": "hvala",
+    "meanings": [
+      "danke"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Hvala} na pomoći.",
+        "de": "Danke für die Hilfe."
+      },
+      {
+        "sr": "{Hvala} lepo!",
+        "de": "Danke schön!"
+      }
+    ]
+  },
+  {
+    "word": "molim",
+    "meanings": [
+      "bitte"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Molim} vas, sedite.",
+        "de": "Bitte setzen Sie sich."
+      },
+      {
+        "sr": "Jednu kafu, {molim}.",
+        "de": "Einen Kaffee, bitte."
+      }
+    ]
+  },
+  {
+    "word": "izvini",
+    "meanings": [
+      "entschuldige",
+      "Entschuldigung"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Izvini}, kasnim.",
+        "de": "Entschuldige, ich bin spät dran."
+      },
+      {
+        "sr": "{Izvini}, nisam te čuo.",
+        "de": "Entschuldige, ich habe dich nicht gehört."
+      }
+    ]
+  },
+  {
+    "word": "izvinite",
+    "meanings": [
+      "entschuldigen Sie",
+      "Entschuldigung"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Izvinite}, gde je toalet?",
+        "de": "Entschuldigen Sie, wo ist die Toilette?"
+      },
+      {
+        "sr": "{Izvinite}, ne govorim dobro srpski.",
+        "de": "Entschuldigen Sie, ich spreche nicht gut Serbisch."
+      }
+    ]
+  },
+  {
+    "word": "da",
+    "meanings": [
+      "ja"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Da}, razumem.",
+        "de": "Ja, ich verstehe."
+      },
+      {
+        "sr": "{Da}, to je tačno.",
+        "de": "Ja, das stimmt."
+      }
+    ]
+  },
+  {
+    "word": "ne",
+    "meanings": [
+      "nein"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Ne}, hvala.",
+        "de": "Nein, danke."
+      },
+      {
+        "sr": "{Ne}, nisam umoran.",
+        "de": "Nein, ich bin nicht müde."
+      }
+    ]
+  },
+  {
+    "word": "možda",
+    "meanings": [
+      "vielleicht"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Možda} sutra.",
+        "de": "Vielleicht morgen."
+      },
+      {
+        "sr": "{Možda} si u pravu.",
+        "de": "Vielleicht hast du recht."
+      }
+    ]
+  },
+  {
+    "word": "naravno",
+    "meanings": [
+      "natürlich",
+      "selbstverständlich"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Naravno}, nema problema.",
+        "de": "Natürlich, kein Problem."
+      },
+      {
+        "sr": "{Naravno} da hoću.",
+        "de": "Natürlich will ich."
+      }
+    ]
+  },
+  {
+    "word": "u redu",
+    "meanings": [
+      "in Ordnung",
+      "okay"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "Sve je {u redu}.",
+        "de": "Alles ist in Ordnung."
+      },
+      {
+        "sr": "{U redu}, vidimo se u osam.",
+        "de": "In Ordnung, wir sehen uns um acht."
+      }
+    ]
+  },
+  {
+    "word": "razumem",
+    "meanings": [
+      "ich verstehe"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Razumem} malo srpski.",
+        "de": "Ich verstehe ein bisschen Serbisch."
+      },
+      {
+        "sr": "Sada {razumem}.",
+        "de": "Jetzt verstehe ich."
+      }
+    ]
+  },
+  {
+    "word": "ne razumem",
+    "meanings": [
+      "ich verstehe nicht"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "Izvini, {ne razumem}.",
+        "de": "Entschuldige, ich verstehe nicht."
+      },
+      {
+        "sr": "{Ne razumem} ovu reč.",
+        "de": "Ich verstehe dieses Wort nicht."
+      }
+    ]
+  },
+  {
+    "word": "ne znam",
+    "meanings": [
+      "ich weiß nicht",
+      "ich weiß es nicht"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Ne znam}, pitaću.",
+        "de": "Ich weiß es nicht, ich frage nach."
+      },
+      {
+        "sr": "Još {ne znam}.",
+        "de": "Ich weiß es noch nicht."
+      }
+    ]
+  },
+  {
+    "word": "još jednom",
+    "meanings": [
+      "noch einmal"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Još jednom}, molim vas.",
+        "de": "Noch einmal, bitte."
+      },
+      {
+        "sr": "Možeš li da ponoviš {još jednom}?",
+        "de": "Kannst du das noch einmal wiederholen?"
+      }
+    ]
+  },
+  {
+    "word": "zovem se",
+    "meanings": [
+      "ich heiße"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Zovem se} Marko.",
+        "de": "Ich heiße Marko."
+      },
+      {
+        "sr": "{Zovem se} Ana, a ti?",
+        "de": "Ich heiße Ana, und du?"
+      }
+    ]
+  },
+  {
+    "word": "drago mi je",
+    "meanings": [
+      "freut mich",
+      "angenehm"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Drago mi je} što smo se upoznali.",
+        "de": "Es freut mich, dass wir uns kennengelernt haben."
+      },
+      {
+        "sr": "Ja sam Ana, {drago mi je}.",
+        "de": "Ich bin Ana, freut mich."
+      }
+    ]
+  },
+  {
+    "word": "ja",
+    "meanings": [
+      "ich"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Ja} sam iz Nemačke.",
+        "de": "Ich bin aus Deutschland."
+      },
+      {
+        "sr": "I {ja} te volim.",
+        "de": "Ich liebe dich auch."
+      }
+    ]
+  },
+  {
+    "word": "ti",
+    "meanings": [
+      "du"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "A kako si {ti}?",
+        "de": "Und wie geht es dir?"
+      },
+      {
+        "sr": "{Ti} si divna.",
+        "de": "Du bist wunderbar."
+      }
+    ]
+  },
+  {
+    "word": "on",
+    "meanings": [
+      "er"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{On} je moj brat.",
+        "de": "Er ist mein Bruder."
+      },
+      {
+        "sr": "{On} ne govori nemački.",
+        "de": "Er spricht kein Deutsch."
+      }
+    ]
+  },
+  {
+    "word": "ona",
+    "meanings": [
+      "sie (Einzahl)"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Ona} je moja devojka.",
+        "de": "Sie ist meine Freundin."
+      },
+      {
+        "sr": "{Ona} je iz Srbije.",
+        "de": "Sie ist aus Serbien."
+      }
+    ]
+  },
+  {
+    "word": "mi",
+    "meanings": [
+      "wir"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Mi} smo zajedno.",
+        "de": "Wir sind zusammen."
+      },
+      {
+        "sr": "{Mi} živimo u Nemačkoj.",
+        "de": "Wir leben in Deutschland."
+      }
+    ]
+  },
+  {
+    "word": "vi",
+    "meanings": [
+      "Sie",
+      "ihr"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "Odakle ste {vi}?",
+        "de": "Woher kommen Sie?"
+      },
+      {
+        "sr": "Jeste li {vi} gladni?",
+        "de": "Seid ihr hungrig?"
+      }
+    ]
+  },
+  {
+    "word": "oni",
+    "meanings": [
+      "sie (Mehrzahl)"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Oni} su njeni roditelji.",
+        "de": "Sie sind ihre Eltern."
+      },
+      {
+        "sr": "{Oni} žive u Beogradu.",
+        "de": "Sie leben in Belgrad."
+      }
+    ]
+  },
+  {
+    "word": "šta",
+    "meanings": [
+      "was"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Šta} je ovo?",
+        "de": "Was ist das?"
+      },
+      {
+        "sr": "{Šta} želiš za doručak?",
+        "de": "Was möchtest du zum Frühstück?"
+      }
+    ]
+  },
+  {
+    "word": "ko",
+    "meanings": [
+      "wer"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Ko} je to?",
+        "de": "Wer ist das?"
+      },
+      {
+        "sr": "{Ko} dolazi na večeru?",
+        "de": "Wer kommt zum Abendessen?"
+      }
+    ]
+  },
+  {
+    "word": "gde",
+    "meanings": [
+      "wo"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Gde} si?",
+        "de": "Wo bist du?"
+      },
+      {
+        "sr": "{Gde} je stanica?",
+        "de": "Wo ist die Haltestelle?"
+      }
+    ]
+  },
+  {
+    "word": "kada",
+    "meanings": [
+      "wann"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Kada} dolaziš?",
+        "de": "Wann kommst du?"
+      },
+      {
+        "sr": "{Kada} polazi voz?",
+        "de": "Wann fährt der Zug ab?"
+      }
+    ]
+  },
+  {
+    "word": "zašto",
+    "meanings": [
+      "warum"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Zašto} se smeješ?",
+        "de": "Warum lachst du?"
+      },
+      {
+        "sr": "{Zašto} ne?",
+        "de": "Warum nicht?"
+      }
+    ]
+  },
+  {
+    "word": "kako",
+    "meanings": [
+      "wie"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Kako} se zoveš?",
+        "de": "Wie heißt du?"
+      },
+      {
+        "sr": "{Kako} da stignem do centra?",
+        "de": "Wie komme ich ins Zentrum?"
+      }
+    ]
+  },
+  {
+    "word": "molim te",
+    "meanings": [
+      "bitte (zu dir)"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "Dodaj mi vodu, {molim te}.",
+        "de": "Reich mir bitte das Wasser."
+      },
+      {
+        "sr": "{Molim te}, govori sporije.",
+        "de": "Bitte sprich langsamer."
+      }
+    ]
+  },
+  {
+    "word": "molim vas",
+    "meanings": [
+      "bitte (zu Ihnen)"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "Račun, {molim vas}.",
+        "de": "Die Rechnung, bitte."
+      },
+      {
+        "sr": "{Molim vas}, gde je stanica?",
+        "de": "Bitte, wo ist die Haltestelle?"
+      }
+    ]
+  },
+  {
+    "word": "hvala puno",
+    "meanings": [
+      "vielen Dank"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Hvala puno} na pomoći!",
+        "de": "Vielen Dank für die Hilfe!"
+      },
+      {
+        "sr": "{Hvala puno}, baš ste ljubazni.",
+        "de": "Vielen Dank, Sie sind wirklich freundlich."
+      }
+    ]
+  },
+  {
+    "word": "evo",
+    "meanings": [
+      "da ist",
+      "hier bitte"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Evo} ga autobus!",
+        "de": "Da ist der Bus!"
+      },
+      {
+        "sr": "{Evo}, izvoli.",
+        "de": "Hier, bitte sehr."
+      }
+    ]
+  },
+  {
+    "word": "pazi",
+    "meanings": [
+      "pass auf"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Pazi}, auto!",
+        "de": "Pass auf, ein Auto!"
+      },
+      {
+        "sr": "{Pazi} na sebe.",
+        "de": "Pass auf dich auf."
+      }
+    ]
+  },
+  {
+    "word": "ima",
+    "meanings": [
+      "es gibt"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Ima} li hleba?",
+        "de": "Gibt es Brot?"
+      },
+      {
+        "sr": "Ovde {ima} mnogo kafića.",
+        "de": "Hier gibt es viele Cafés."
+      }
+    ]
+  },
+  {
+    "word": "nema",
+    "meanings": [
+      "es gibt nicht",
+      "ist nicht da"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Nema} više mleka.",
+        "de": "Es gibt keine Milch mehr."
+      },
+      {
+        "sr": "Ane još {nema}.",
+        "de": "Ana ist noch nicht da."
+      }
+    ]
+  },
+  {
+    "word": "nisam",
+    "meanings": [
+      "ich bin nicht"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Nisam} odavde.",
+        "de": "Ich bin nicht von hier."
+      },
+      {
+        "sr": "{Nisam} siguran.",
+        "de": "Ich bin nicht sicher."
+      }
+    ]
+  },
+  {
+    "word": "i",
+    "meanings": [
+      "und"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "Kafu {i} vodu, molim.",
+        "de": "Einen Kaffee und ein Wasser, bitte."
+      },
+      {
+        "sr": "Ana {i} Marko dolaze večeras.",
+        "de": "Ana und Marko kommen heute Abend."
+      }
+    ]
+  },
+  {
+    "word": "ali",
+    "meanings": [
+      "aber"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "Razumem, {ali} ne govorim dobro.",
+        "de": "Ich verstehe, aber ich spreche nicht gut."
+      },
+      {
+        "sr": "Lepo je, {ali} skupo.",
+        "de": "Es ist schön, aber teuer."
+      }
+    ]
+  },
+  {
+    "word": "ili",
+    "meanings": [
+      "oder"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "Kafa {ili} čaj?",
+        "de": "Kaffee oder Tee?"
+      },
+      {
+        "sr": "Danas {ili} sutra?",
+        "de": "Heute oder morgen?"
+      }
+    ]
+  },
+  {
+    "word": "u",
+    "meanings": [
+      "in"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "Živim {u} Nemačkoj.",
+        "de": "Ich lebe in Deutschland."
+      },
+      {
+        "sr": "Idemo {u} grad.",
+        "de": "Wir gehen in die Stadt."
+      }
+    ]
+  },
+  {
+    "word": "na",
+    "meanings": [
+      "auf",
+      "an"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "Ključ je {na} stolu.",
+        "de": "Der Schlüssel liegt auf dem Tisch."
+      },
+      {
+        "sr": "Idemo {na} more.",
+        "de": "Wir fahren ans Meer."
+      }
+    ]
+  },
+  {
+    "word": "sa",
+    "meanings": [
+      "mit"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "Idem {sa} njom.",
+        "de": "Ich gehe mit ihr."
+      },
+      {
+        "sr": "Pričao sam {sa} tvojim bratom.",
+        "de": "Ich habe mit deinem Bruder geredet."
+      }
+    ]
+  },
+  {
+    "word": "bez",
+    "meanings": [
+      "ohne"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "Ne idem {bez} tebe.",
+        "de": "Ich gehe nicht ohne dich."
+      },
+      {
+        "sr": "Kafu pijem {bez} mleka.",
+        "de": "Ich trinke den Kaffee ohne Milch."
+      }
+    ]
+  },
+  {
+    "word": "za",
+    "meanings": [
+      "für"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "Ovo je {za} tebe.",
+        "de": "Das ist für dich."
+      },
+      {
+        "sr": "Šta ima {za} večeru?",
+        "de": "Was gibt es zum Abendessen?"
+      }
+    ]
+  },
+  {
+    "word": "od",
+    "meanings": [
+      "von"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "Ovo je poklon {od} mene.",
+        "de": "Das ist ein Geschenk von mir."
+      },
+      {
+        "sr": "Daleko je {od} centra.",
+        "de": "Es ist weit vom Zentrum."
+      }
+    ]
+  },
+  {
+    "word": "do",
+    "meanings": [
+      "bis"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "Radim {do} pet.",
+        "de": "Ich arbeite bis fünf."
+      },
+      {
+        "sr": "Idemo {do} prodavnice.",
+        "de": "Wir gehen bis zum Laden."
+      }
+    ]
+  },
+  {
+    "word": "iz",
+    "meanings": [
+      "aus"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "Ona je {iz} Beograda.",
+        "de": "Sie ist aus Belgrad."
+      },
+      {
+        "sr": "Izlazim {iz} kuće.",
+        "de": "Ich gehe aus dem Haus."
+      }
+    ]
+  },
+  {
+    "word": "kod",
+    "meanings": [
+      "bei"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "Večeras smo {kod} njenih roditelja.",
+        "de": "Heute Abend sind wir bei ihren Eltern."
+      },
+      {
+        "sr": "Vidimo se {kod} mene.",
+        "de": "Wir sehen uns bei mir."
+      }
+    ]
+  },
+  {
+    "word": "ovaj",
+    "meanings": [
+      "dieser"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Ovaj} grad mi se sviđa.",
+        "de": "Diese Stadt gefällt mir."
+      },
+      {
+        "sr": "Ko je {ova} žena?",
+        "de": "Wer ist diese Frau?"
+      }
+    ]
+  },
+  {
+    "word": "taj",
+    "meanings": [
+      "der (da)",
+      "jener"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Taj} film sam već gledao.",
+        "de": "Den Film habe ich schon gesehen."
+      },
+      {
+        "sr": "Daj mi {tu} čašu.",
+        "de": "Gib mir das Glas da."
+      }
+    ]
+  },
+  {
+    "word": "to",
+    "meanings": [
+      "das"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{To} je dobra ideja.",
+        "de": "Das ist eine gute Idee."
+      },
+      {
+        "sr": "Šta je {to}?",
+        "de": "Was ist das?"
+      }
+    ]
+  },
+  {
+    "word": "svi",
+    "meanings": [
+      "alle"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Svi} su već stigli.",
+        "de": "Alle sind schon angekommen."
+      },
+      {
+        "sr": "Hvala {svima} na svemu.",
+        "de": "Danke euch allen für alles."
+      }
+    ]
+  },
+  {
+    "word": "tako",
+    "meanings": [
+      "so"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "Nije {tako} teško.",
+        "de": "Es ist nicht so schwer."
+      },
+      {
+        "sr": "{Tako} se to radi.",
+        "de": "So macht man das."
+      }
+    ]
+  },
+  {
+    "word": "samo",
+    "meanings": [
+      "nur"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "Imam {samo} deset minuta.",
+        "de": "Ich habe nur zehn Minuten."
+      },
+      {
+        "sr": "{Samo} malo, molim.",
+        "de": "Nur ein bisschen, bitte."
+      }
+    ]
+  },
+  {
+    "word": "još",
+    "meanings": [
+      "noch"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Još} nisam gotov.",
+        "de": "Ich bin noch nicht fertig."
+      },
+      {
+        "sr": "Da li si {još} tu?",
+        "de": "Bist du noch da?"
+      }
+    ]
+  },
+  {
+    "word": "čovek",
+    "meanings": [
+      "Mensch",
+      "Mann"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "Ko je taj {čovek}?",
+        "de": "Wer ist der Mann da?"
+      },
+      {
+        "sr": "Pitao sam jednog {čoveka} na ulici.",
+        "de": "Ich habe einen Mann auf der Straße gefragt."
+      }
+    ]
+  },
+  {
+    "word": "žena",
+    "meanings": [
+      "Frau",
+      "Ehefrau"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "Ta {žena} je njena tetka.",
+        "de": "Die Frau da ist ihre Tante."
+      },
+      {
+        "sr": "Upoznao sam njegovu {ženu}.",
+        "de": "Ich habe seine Frau kennengelernt."
+      }
+    ]
+  },
+  {
+    "word": "dete",
+    "meanings": [
+      "Kind"
+    ],
+    "label": "neutrum",
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "Njihovo {dete} ima tri godine.",
+        "de": "Ihr Kind ist drei Jahre alt."
+      },
+      {
+        "sr": "Kao {dete} sam živeo na selu.",
+        "de": "Als Kind habe ich auf dem Dorf gelebt."
+      }
+    ]
+  },
+  {
+    "word": "ljudi",
+    "meanings": [
+      "Leute",
+      "Menschen"
+    ],
+    "label": "Plural",
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "{Ljudi} su ovde ljubazni.",
+        "de": "Die Leute hier sind freundlich."
+      },
+      {
+        "sr": "Na trgu je mnogo {ljudi}.",
+        "de": "Auf dem Platz sind viele Leute."
+      }
+    ]
+  },
+  {
+    "word": "prijatelj",
+    "meanings": [
+      "Freund (Kumpel)"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "erste-worte",
+    "sentences": [
+      {
+        "sr": "Ovo je moj {prijatelj} iz Nemačke.",
+        "de": "Das ist mein Freund aus Deutschland."
+      },
+      {
+        "sr": "Idem na pivo sa {prijateljima}.",
+        "de": "Ich gehe mit Freunden ein Bier trinken."
+      }
+    ]
+  },
+  {
+    "word": "ljubav",
+    "meanings": [
+      "Liebe"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Ti si moja {ljubav}.",
+        "de": "Du bist meine Liebe."
+      },
+      {
+        "sr": "To je prava {ljubav}.",
+        "de": "Das ist wahre Liebe."
+      }
+    ]
+  },
+  {
+    "word": "volim te",
+    "meanings": [
+      "ich liebe dich"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Volim te} najviše na svetu.",
+        "de": "Ich liebe dich mehr als alles auf der Welt."
+      },
+      {
+        "sr": "{Volim te}, laku noć.",
+        "de": "Ich liebe dich, gute Nacht."
+      }
+    ]
+  },
+  {
+    "word": "devojka",
+    "meanings": [
+      "Freundin",
+      "Mädchen"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Ovo je moja {devojka}.",
+        "de": "Das ist meine Freundin."
+      },
+      {
+        "sr": "Imam divnu {devojku}.",
+        "de": "Ich habe eine wunderbare Freundin."
+      }
+    ]
+  },
+  {
+    "word": "dečko",
+    "meanings": [
+      "Freund",
+      "Junge"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Ja sam njen {dečko}.",
+        "de": "Ich bin ihr Freund."
+      },
+      {
+        "sr": "Ima li ona {dečka}?",
+        "de": "Hat sie einen Freund?"
+      }
+    ]
+  },
+  {
+    "word": "zajedno",
+    "meanings": [
+      "zusammen",
+      "gemeinsam"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Živimo {zajedno}.",
+        "de": "Wir wohnen zusammen."
+      },
+      {
+        "sr": "Hajde da kuvamo {zajedno}.",
+        "de": "Lass uns zusammen kochen."
+      }
+    ]
+  },
+  {
+    "word": "s tobom",
+    "meanings": [
+      "mit dir"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Želim da budem {s tobom}.",
+        "de": "Ich möchte bei dir sein."
+      },
+      {
+        "sr": "Idem {s tobom}.",
+        "de": "Ich gehe mit dir."
+      }
+    ]
+  },
+  {
+    "word": "srećan",
+    "meanings": [
+      "glücklich"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Tako sam {srećan} s tobom.",
+        "de": "Ich bin so glücklich mit dir."
+      },
+      {
+        "sr": "Jesi li {srećna}?",
+        "de": "Bist du glücklich?"
+      }
+    ]
+  },
+  {
+    "word": "oči",
+    "meanings": [
+      "Augen"
+    ],
+    "label": "Plural",
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Imaš lepe {oči}.",
+        "de": "Du hast schöne Augen."
+      },
+      {
+        "sr": "Pogledaj me u {oči}.",
+        "de": "Schau mir in die Augen."
+      }
+    ]
+  },
+  {
+    "word": "sviđa mi se",
+    "meanings": [
+      "gefällt mir",
+      "es gefällt mir"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Sviđa mi se} tvoja haljina.",
+        "de": "Dein Kleid gefällt mir."
+      },
+      {
+        "sr": "{Sviđa mi se} ovde.",
+        "de": "Mir gefällt es hier."
+      }
+    ]
+  },
+  {
+    "word": "moj",
+    "meanings": [
+      "mein"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Ovo je {moj} broj telefona.",
+        "de": "Das ist meine Telefonnummer."
+      },
+      {
+        "sr": "{Moja} porodica živi u Nemačkoj.",
+        "de": "Meine Familie lebt in Deutschland."
+      }
+    ]
+  },
+  {
+    "word": "tvoj",
+    "meanings": [
+      "dein"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Gde je {tvoj} telefon?",
+        "de": "Wo ist dein Telefon?"
+      },
+      {
+        "sr": "{Tvoja} mama je divna.",
+        "de": "Deine Mama ist wunderbar."
+      }
+    ]
+  },
+  {
+    "word": "naš",
+    "meanings": [
+      "unser"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Ovo je {naš} stan.",
+        "de": "Das ist unsere Wohnung."
+      },
+      {
+        "sr": "{Naša} pesma je na radiju.",
+        "de": "Unser Lied läuft im Radio."
+      }
+    ]
+  },
+  {
+    "word": "hajde",
+    "meanings": [
+      "komm",
+      "los",
+      "lass uns"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Hajde}, idemo!",
+        "de": "Komm, gehen wir!"
+      },
+      {
+        "sr": "{Hajde} da gledamo film.",
+        "de": "Lass uns einen Film schauen."
+      }
+    ]
+  },
+  {
+    "word": "šta radiš",
+    "meanings": [
+      "was machst du"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Ćao, {šta radiš}?",
+        "de": "Hallo, was machst du?"
+      },
+      {
+        "sr": "{Šta radiš} sutra uveče?",
+        "de": "Was machst du morgen Abend?"
+      }
+    ]
+  },
+  {
+    "word": "žao mi je",
+    "meanings": [
+      "es tut mir leid",
+      "tut mir leid"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Žao mi je}, pogrešio sam.",
+        "de": "Es tut mir leid, ich habe einen Fehler gemacht."
+      },
+      {
+        "sr": "{Žao mi je} što kasnim.",
+        "de": "Es tut mir leid, dass ich zu spät bin."
+      }
+    ]
+  },
+  {
+    "word": "mnogo te volim",
+    "meanings": [
+      "ich liebe dich sehr"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Mnogo te volim}, znaš?",
+        "de": "Ich liebe dich sehr, weißt du?"
+      },
+      {
+        "sr": "Laku noć, {mnogo te volim}.",
+        "de": "Gute Nacht, ich liebe dich sehr."
+      }
+    ]
+  },
+  {
+    "word": "i ja tebe",
+    "meanings": [
+      "ich dich auch"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{I ja tebe}, ljubavi.",
+        "de": "Ich dich auch, mein Schatz."
+      },
+      {
+        "sr": "{I ja tebe} volim najviše.",
+        "de": "Ich liebe dich auch am meisten."
+      }
+    ]
+  },
+  {
+    "word": "lepo izgledaš",
+    "meanings": [
+      "du siehst schön aus"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Večeras baš {lepo izgledaš}.",
+        "de": "Du siehst heute Abend richtig schön aus."
+      },
+      {
+        "sr": "{Lepo izgledaš} u toj haljini.",
+        "de": "Du siehst schön aus in dem Kleid."
+      }
+    ]
+  },
+  {
+    "word": "radujem se",
+    "meanings": [
+      "ich freue mich"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Radujem se} našem putu.",
+        "de": "Ich freue mich auf unsere Reise."
+      },
+      {
+        "sr": "{Radujem se} što dolaziš.",
+        "de": "Ich freue mich, dass du kommst."
+      }
+    ]
+  },
+  {
+    "word": "kad se vidimo",
+    "meanings": [
+      "wann sehen wir uns"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Kad se vidimo} sledeći put?",
+        "de": "Wann sehen wir uns das nächste Mal?"
+      },
+      {
+        "sr": "Nedostaješ mi, {kad se vidimo}?",
+        "de": "Du fehlst mir, wann sehen wir uns?"
+      }
+    ]
+  },
+  {
+    "word": "gde si",
+    "meanings": [
+      "wo bist du"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Gde si}? Čekam te već pola sata.",
+        "de": "Wo bist du? Ich warte schon eine halbe Stunde auf dich."
+      },
+      {
+        "sr": "Hej, {gde si} ti?",
+        "de": "Hey, wo bist du denn?"
+      }
+    ]
+  },
+  {
+    "word": "dođi",
+    "meanings": [
+      "komm her"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Dođi} da te zagrlim.",
+        "de": "Komm her, lass dich umarmen."
+      },
+      {
+        "sr": "{Dođi} kod mene večeras.",
+        "de": "Komm heute Abend zu mir."
+      }
+    ]
+  },
+  {
+    "word": "hoćeš li da",
+    "meanings": [
+      "wollen wir",
+      "willst du"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "{Hoćeš li da} gledamo film?",
+        "de": "Wollen wir einen Film schauen?"
+      },
+      {
+        "sr": "{Hoćeš li da} idemo u šetnju?",
+        "de": "Wollen wir spazieren gehen?"
+      }
+    ]
+  },
+  {
+    "word": "ruka",
+    "meanings": [
+      "Hand",
+      "Arm"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Daj mi {ruku}.",
+        "de": "Gib mir deine Hand."
+      },
+      {
+        "sr": "Držimo se za {ruke}.",
+        "de": "Wir halten Händchen."
+      }
+    ]
+  },
+  {
+    "word": "život",
+    "meanings": [
+      "das Leben"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "zu-zweit",
+    "sentences": [
+      {
+        "sr": "Ti si ljubav mog {života}.",
+        "de": "Du bist die Liebe meines Lebens."
+      },
+      {
+        "sr": "{Život} s tobom je lep.",
+        "de": "Das Leben mit dir ist schön."
+      }
+    ]
+  },
+  {
+    "word": "majka",
+    "meanings": [
+      "Mutter"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Moja {majka} živi u Nišu.",
+        "de": "Meine Mutter lebt in Niš."
+      },
+      {
+        "sr": "Sutra idem kod {majke}.",
+        "de": "Morgen gehe ich zu meiner Mutter."
+      }
+    ]
+  },
+  {
+    "word": "otac",
+    "meanings": [
+      "Vater"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Njen {otac} radi u Beogradu.",
+        "de": "Ihr Vater arbeitet in Belgrad."
+      },
+      {
+        "sr": "Razgovarao sam sa njenim {ocem}.",
+        "de": "Ich habe mit ihrem Vater gesprochen."
+      }
+    ]
+  },
+  {
+    "word": "roditelji",
+    "meanings": [
+      "Eltern"
+    ],
+    "label": "Plural",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Njeni {roditelji} dolaze u subotu.",
+        "de": "Ihre Eltern kommen am Samstag."
+      },
+      {
+        "sr": "Večerao sam sa njenim {roditeljima}.",
+        "de": "Ich habe mit ihren Eltern zu Abend gegessen."
+      }
+    ]
+  },
+  {
+    "word": "sin",
+    "meanings": [
+      "Sohn"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Njihov {sin} ide u školu.",
+        "de": "Ihr Sohn geht zur Schule."
+      },
+      {
+        "sr": "Ponosni su na svog {sina}.",
+        "de": "Sie sind stolz auf ihren Sohn."
+      }
+    ]
+  },
+  {
+    "word": "ćerka",
+    "meanings": [
+      "Tochter"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Njihova {ćerka} voli da crta.",
+        "de": "Ihre Tochter zeichnet gern."
+      },
+      {
+        "sr": "Juče sam upoznao njihovu {ćerku}.",
+        "de": "Gestern habe ich ihre Tochter kennengelernt."
+      }
+    ]
+  },
+  {
+    "word": "brat",
+    "meanings": [
+      "Bruder"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Moj {brat} dolazi večeras.",
+        "de": "Mein Bruder kommt heute Abend."
+      },
+      {
+        "sr": "Često pričam o svom {bratu}.",
+        "de": "Ich spreche oft über meinen Bruder."
+      }
+    ]
+  },
+  {
+    "word": "sestra",
+    "meanings": [
+      "Schwester"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Tvoja {sestra} je veoma ljubazna.",
+        "de": "Deine Schwester ist sehr freundlich."
+      },
+      {
+        "sr": "Kupio sam poklon za tvoju {sestru}.",
+        "de": "Ich habe ein Geschenk für deine Schwester gekauft."
+      }
+    ]
+  },
+  {
+    "word": "baka",
+    "meanings": [
+      "Oma",
+      "Großmutter"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Moja {baka} pravi odlične palačinke.",
+        "de": "Meine Oma macht ausgezeichnete Pfannkuchen."
+      },
+      {
+        "sr": "U nedelju idemo kod {bake}.",
+        "de": "Am Sonntag gehen wir zu Oma."
+      }
+    ]
+  },
+  {
+    "word": "deda",
+    "meanings": [
+      "Opa",
+      "Großvater"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Njen {deda} voli da gleda fudbal.",
+        "de": "Ihr Opa schaut gern Fußball."
+      },
+      {
+        "sr": "Sedeli smo pored njenog {dede}.",
+        "de": "Wir saßen neben ihrem Opa."
+      }
+    ]
+  },
+  {
+    "word": "porodica",
+    "meanings": [
+      "Familie"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Njena {porodica} živi blizu centra.",
+        "de": "Ihre Familie lebt nahe dem Zentrum."
+      },
+      {
+        "sr": "Radujem se susretu sa tvojom {porodicom}.",
+        "de": "Ich freue mich auf das Treffen mit deiner Familie."
+      }
+    ]
+  },
+  {
+    "word": "gost",
+    "meanings": [
+      "Gast"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Večeras imamo jednog {gosta} iz Nemačke.",
+        "de": "Heute Abend haben wir einen Gast aus Deutschland."
+      },
+      {
+        "sr": "Naš {gost} voli srpsku hranu.",
+        "de": "Unser Gast mag serbisches Essen."
+      }
+    ]
+  },
+  {
+    "word": "kuća",
+    "meanings": [
+      "Haus"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Njena {kuća} je blizu centra.",
+        "de": "Ihr Haus liegt nahe am Zentrum."
+      },
+      {
+        "sr": "Živimo u velikoj {kući}.",
+        "de": "Wir wohnen in einem großen Haus."
+      }
+    ]
+  },
+  {
+    "word": "stan",
+    "meanings": [
+      "Wohnung"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Oni žive u malom {stanu}.",
+        "de": "Sie wohnen in einer kleinen Wohnung."
+      },
+      {
+        "sr": "Njihov {stan} ima veliki balkon.",
+        "de": "Ihre Wohnung hat einen großen Balkon."
+      }
+    ]
+  },
+  {
+    "word": "soba",
+    "meanings": [
+      "Zimmer"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Gostinska {soba} je spremna.",
+        "de": "Das Gästezimmer ist fertig."
+      },
+      {
+        "sr": "U {sobi} ima dovoljno mesta za sve.",
+        "de": "Im Zimmer ist genug Platz für alle."
+      }
+    ]
+  },
+  {
+    "word": "kuhinja",
+    "meanings": [
+      "Küche"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Miris kafe dolazi iz {kuhinje}.",
+        "de": "Der Kaffeeduft kommt aus der Küche."
+      },
+      {
+        "sr": "Njena {kuhinja} je mala, ali praktična.",
+        "de": "Ihre Küche ist klein, aber praktisch."
+      }
+    ]
+  },
+  {
+    "word": "ključ",
+    "meanings": [
+      "Schlüssel"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Ne mogu da nađem {ključ}.",
+        "de": "Ich kann den Schlüssel nicht finden."
+      },
+      {
+        "sr": "Vrata su zaključana, a ja sam bez {ključa}.",
+        "de": "Die Tür ist abgeschlossen, und ich habe keinen Schlüssel."
+      }
+    ]
+  },
+  {
+    "word": "vrata",
+    "meanings": [
+      "Tür"
+    ],
+    "label": "Plural",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Molim te, zatvori {vrata}.",
+        "de": "Bitte mach die Tür zu."
+      },
+      {
+        "sr": "Ispred {vrata} čekaju naši prijatelji.",
+        "de": "Vor der Tür warten unsere Freunde."
+      }
+    ]
+  },
+  {
+    "word": "prozor",
+    "meanings": [
+      "Fenster"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Možeš li da otvoriš {prozor}?",
+        "de": "Kannst du das Fenster öffnen?"
+      },
+      {
+        "sr": "Pored {prozora} stoji biljka.",
+        "de": "Neben dem Fenster steht eine Pflanze."
+      }
+    ]
+  },
+  {
+    "word": "krevet",
+    "meanings": [
+      "Bett"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Mačka spava na {krevetu}.",
+        "de": "Die Katze schläft auf dem Bett."
+      },
+      {
+        "sr": "Kupili smo novi {krevet}.",
+        "de": "Wir haben ein neues Bett gekauft."
+      }
+    ]
+  },
+  {
+    "word": "adresa",
+    "meanings": [
+      "Adresse"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Pošalji mi svoju {adresu}.",
+        "de": "Schick mir deine Adresse."
+      },
+      {
+        "sr": "Na ovoj {adresi} živi njena baka.",
+        "de": "An dieser Adresse wohnt ihre Oma."
+      }
+    ]
+  },
+  {
+    "word": "telefon",
+    "meanings": [
+      "Telefon"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Moj {telefon} je ostao u kuhinji.",
+        "de": "Mein Telefon ist in der Küche liegen geblieben."
+      },
+      {
+        "sr": "Pozvao sam je sa kućnog {telefona}.",
+        "de": "Ich habe sie vom Haustelefon aus angerufen."
+      }
+    ]
+  },
+  {
+    "word": "rođendan",
+    "meanings": [
+      "Geburtstag"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Danas je njen {rođendan}.",
+        "de": "Heute ist ihr Geburtstag."
+      },
+      {
+        "sr": "Kupio sam joj knjigu za {rođendan}.",
+        "de": "Ich habe ihr zum Geburtstag ein Buch gekauft."
+      }
+    ]
+  },
+  {
+    "word": "ručati",
+    "meanings": [
+      "zu Mittag essen"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Danas {ručam} sa njenim roditeljima.",
+        "de": "Heute esse ich mit ihren Eltern zu Mittag."
+      },
+      {
+        "sr": "Juče smo {ručali} kod bake.",
+        "de": "Gestern haben wir bei Oma zu Mittag gegessen."
+      }
+    ]
+  },
+  {
+    "word": "doći",
+    "meanings": [
+      "kommen"
+    ],
+    "label": "vollendet",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Njena porodica će {doći} oko šest.",
+        "de": "Ihre Familie wird gegen sechs kommen."
+      },
+      {
+        "sr": "Svi su {došli} na vreme.",
+        "de": "Alle sind pünktlich gekommen."
+      }
+    ]
+  },
+  {
+    "word": "živeti",
+    "meanings": [
+      "leben",
+      "wohnen"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Njeni roditelji {žive} u Zemunu.",
+        "de": "Ihre Eltern wohnen in Zemun."
+      },
+      {
+        "sr": "Kada sam bio mali, {živeo} sam sa bakom.",
+        "de": "Als ich klein war, habe ich bei meiner Oma gelebt."
+      }
+    ]
+  },
+  {
+    "word": "voleti",
+    "meanings": [
+      "lieben",
+      "mögen"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Mnogo {volim} njenu porodicu.",
+        "de": "Ich mag ihre Familie sehr."
+      },
+      {
+        "sr": "Ona {voli} da provodi vreme sa bakom.",
+        "de": "Sie verbringt gern Zeit mit ihrer Oma."
+      }
+    ]
+  },
+  {
+    "word": "pomoći",
+    "meanings": [
+      "helfen"
+    ],
+    "label": "vollendet",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "{Pomogao} sam baki da spremi ručak.",
+        "de": "Ich habe Oma geholfen, das Mittagessen vorzubereiten."
+      },
+      {
+        "sr": "Možeš li da {pomogneš} mojoj sestri?",
+        "de": "Kannst du meiner Schwester helfen?"
+      }
+    ]
+  },
+  {
+    "word": "dečak",
+    "meanings": [
+      "Junge"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Onaj {dečak} je njen mlađi brat.",
+        "de": "Der Junge dort ist ihr jüngerer Bruder."
+      },
+      {
+        "sr": "Pomogao sam {dečaku} da pronađe roditelje.",
+        "de": "Ich habe dem Jungen geholfen, seine Eltern zu finden."
+      }
+    ]
+  },
+  {
+    "word": "devojčica",
+    "meanings": [
+      "Mädchen"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Mala {devojčica} se igra u dvorištu.",
+        "de": "Das kleine Mädchen spielt im Hof."
+      },
+      {
+        "sr": "Poklonio sam knjigu {devojčici}.",
+        "de": "Ich habe dem Mädchen ein Buch geschenkt."
+      }
+    ]
+  },
+  {
+    "word": "srećan rođendan",
+    "meanings": [
+      "alles Gute zum Geburtstag"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "{Srećan rođendan}, bako!",
+        "de": "Alles Gute zum Geburtstag, Oma!"
+      },
+      {
+        "sr": "{Srećan rođendan}, ljubavi!",
+        "de": "Alles Gute zum Geburtstag, mein Schatz!"
+      }
+    ]
+  },
+  {
+    "word": "dobro došao",
+    "meanings": [
+      "willkommen (zu einem Mann)"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "{Dobro došao} u našu kuću!",
+        "de": "Willkommen in unserem Haus!"
+      },
+      {
+        "sr": "{Dobro došao}, uđi i raskomoti se.",
+        "de": "Willkommen, komm rein und mach es dir bequem."
+      }
+    ]
+  },
+  {
+    "word": "izvoli",
+    "meanings": [
+      "bitte sehr",
+      "hier, bitte"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "{Izvoli}, ovo je za tebe.",
+        "de": "Bitte sehr, das ist für dich."
+      },
+      {
+        "sr": "{Izvoli}, sedi.",
+        "de": "Bitte, setz dich."
+      }
+    ]
+  },
+  {
+    "word": "da li mogu da uđem",
+    "meanings": [
+      "darf ich hereinkommen"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Dobar dan, {da li mogu da uđem}?",
+        "de": "Guten Tag, darf ich hereinkommen?"
+      },
+      {
+        "sr": "{Da li mogu da uđem} ili da sačekam ovde?",
+        "de": "Darf ich hereinkommen, oder soll ich hier warten?"
+      }
+    ]
+  },
+  {
+    "word": "pozdraviti",
+    "meanings": [
+      "begrüßen",
+      "grüßen"
+    ],
+    "label": "vollendet",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Uvek {pozdravim} njenu baku poljupcem.",
+        "de": "Ich begrüße ihre Oma immer mit einem Kuss."
+      },
+      {
+        "sr": "Na vratima sam {pozdravio} sve goste.",
+        "de": "An der Tür habe ich alle Gäste begrüßt."
+      }
+    ]
+  },
+  {
+    "word": "ostati",
+    "meanings": [
+      "bleiben"
+    ],
+    "label": "vollendet",
+    "level": 1,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Možemo da {ostanemo} do nedelje.",
+        "de": "Wir können bis Sonntag bleiben."
+      },
+      {
+        "sr": "Posle večere sam {ostao} još sat vremena.",
+        "de": "Nach dem Abendessen bin ich noch eine Stunde geblieben."
+      }
+    ]
+  },
+  {
+    "word": "voda",
+    "meanings": [
+      "Wasser"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Mogu li da dobijem čašu {vode}?",
+        "de": "Kann ich ein Glas Wasser bekommen?"
+      },
+      {
+        "sr": "Ova {voda} je baš hladna.",
+        "de": "Dieses Wasser ist richtig kalt."
+      }
+    ]
+  },
+  {
+    "word": "kafa",
+    "meanings": [
+      "Kaffee"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Ujutru prvo pijem {kafu}.",
+        "de": "Morgens trinke ich zuerst Kaffee."
+      },
+      {
+        "sr": "Hoćeš li jednu {kafu} posle ručka?",
+        "de": "Möchtest du nach dem Mittagessen einen Kaffee?"
+      }
+    ]
+  },
+  {
+    "word": "hleb",
+    "meanings": [
+      "Brot"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Možeš li da mi dodaš {hleb}?",
+        "de": "Kannst du mir das Brot reichen?"
+      },
+      {
+        "sr": "Kupio sam svež {hleb} za večeru.",
+        "de": "Ich habe frisches Brot fürs Abendessen gekauft."
+      }
+    ]
+  },
+  {
+    "word": "mleko",
+    "meanings": [
+      "Milch"
+    ],
+    "label": "neutrum",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "U kafu stavljam malo {mleka}.",
+        "de": "Ich gebe etwas Milch in den Kaffee."
+      },
+      {
+        "sr": "Da li imate hladno {mleko}?",
+        "de": "Haben Sie kalte Milch?"
+      }
+    ]
+  },
+  {
+    "word": "čaj",
+    "meanings": [
+      "Tee"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Uveče volim da pijem {čaj}.",
+        "de": "Abends trinke ich gern Tee."
+      },
+      {
+        "sr": "Skuvao sam ti {čaj} sa limunom.",
+        "de": "Ich habe dir Tee mit Zitrone gekocht."
+      }
+    ]
+  },
+  {
+    "word": "sok",
+    "meanings": [
+      "Saft"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Za mene je dovoljan jedan {sok}.",
+        "de": "Ein Saft reicht mir."
+      },
+      {
+        "sr": "Deca piju {sok} od jabuke.",
+        "de": "Die Kinder trinken Apfelsaft."
+      }
+    ]
+  },
+  {
+    "word": "supa",
+    "meanings": [
+      "Suppe"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Ova {supa} me podseća na detinjstvo.",
+        "de": "Diese Suppe erinnert mich an meine Kindheit."
+      },
+      {
+        "sr": "Sipao sam ti još malo {supe}.",
+        "de": "Ich habe dir noch etwas Suppe aufgetan."
+      }
+    ]
+  },
+  {
+    "word": "meso",
+    "meanings": [
+      "Fleisch"
+    ],
+    "label": "neutrum",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Ne jedem mnogo {mesa}.",
+        "de": "Ich esse nicht viel Fleisch."
+      },
+      {
+        "sr": "Da li je ovo {meso} dobro pečeno?",
+        "de": "Ist dieses Fleisch gut durchgebraten?"
+      }
+    ]
+  },
+  {
+    "word": "piletina",
+    "meanings": [
+      "Hähnchenfleisch"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Za ručak imamo {piletinu} i krompir.",
+        "de": "Zum Mittagessen gibt es Hähnchen und Kartoffeln."
+      },
+      {
+        "sr": "{Piletina} je mekana i sočna.",
+        "de": "Das Hähnchenfleisch ist zart und saftig."
+      }
+    ]
+  },
+  {
+    "word": "riba",
+    "meanings": [
+      "Fisch"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Danas bih radije jeo {ribu}.",
+        "de": "Heute würde ich lieber Fisch essen."
+      },
+      {
+        "sr": "Ova {riba} je baš ukusna.",
+        "de": "Dieser Fisch schmeckt wirklich gut."
+      }
+    ]
+  },
+  {
+    "word": "krompir",
+    "meanings": [
+      "Kartoffel",
+      "Kartoffeln"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Uz meso najviše volim pečeni {krompir}.",
+        "de": "Zu Fleisch mag ich Ofenkartoffeln am liebsten."
+      },
+      {
+        "sr": "Dodaj još malo {krompira} na moj tanjir.",
+        "de": "Gib mir noch ein paar Kartoffeln auf meinen Teller."
+      }
+    ]
+  },
+  {
+    "word": "testenina",
+    "meanings": [
+      "Nudeln",
+      "Pasta"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Večeras pravim {testeninu} sa sirom.",
+        "de": "Heute Abend mache ich Nudeln mit Käse."
+      },
+      {
+        "sr": "Ova {testenina} je gotova za deset minuta.",
+        "de": "Diese Nudeln sind in zehn Minuten fertig."
+      }
+    ]
+  },
+  {
+    "word": "sir",
+    "meanings": [
+      "Käse"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Hoćeš li malo {sira} uz hleb?",
+        "de": "Möchtest du etwas Käse zum Brot?"
+      },
+      {
+        "sr": "Ovaj {sir} je domaći.",
+        "de": "Dieser Käse ist hausgemacht."
+      }
+    ]
+  },
+  {
+    "word": "jogurt",
+    "meanings": [
+      "Joghurt"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Uz burek obično pijem {jogurt}.",
+        "de": "Zum Burek trinke ich normalerweise Joghurt."
+      },
+      {
+        "sr": "U frižideru ima još {jogurta}.",
+        "de": "Im Kühlschrank ist noch Joghurt."
+      }
+    ]
+  },
+  {
+    "word": "jaje",
+    "meanings": [
+      "Ei"
+    ],
+    "label": "neutrum",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Za doručak sam pojeo jedno {jaje}.",
+        "de": "Zum Frühstück habe ich ein Ei gegessen."
+      },
+      {
+        "sr": "Dodaj još dva {jajeta} u smesu.",
+        "de": "Gib noch zwei Eier in die Mischung."
+      }
+    ]
+  },
+  {
+    "word": "salata",
+    "meanings": [
+      "Salat"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Uz ručak uvek jedem {salatu}.",
+        "de": "Zum Mittagessen esse ich immer Salat."
+      },
+      {
+        "sr": "Ko je napravio ovu {salatu}?",
+        "de": "Wer hat diesen Salat gemacht?"
+      }
+    ]
+  },
+  {
+    "word": "paradajz",
+    "meanings": [
+      "Tomate"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Isekao sam {paradajz} za salatu.",
+        "de": "Ich habe eine Tomate für den Salat geschnitten."
+      },
+      {
+        "sr": "Možeš li da mi dodaš taj {paradajz}?",
+        "de": "Kannst du mir die Tomate reichen?"
+      }
+    ]
+  },
+  {
+    "word": "krastavac",
+    "meanings": [
+      "Gurke"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "U salatu stavi i jedan {krastavac}.",
+        "de": "Gib auch eine Gurke in den Salat."
+      },
+      {
+        "sr": "Ima li još {krastavaca} u frižideru?",
+        "de": "Sind noch Gurken im Kühlschrank?"
+      }
+    ]
+  },
+  {
+    "word": "so",
+    "meanings": [
+      "Salz"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Dodaj malo {soli}, molim te.",
+        "de": "Gib bitte etwas Salz dazu."
+      },
+      {
+        "sr": "Ova supa nema dovoljno {soli}.",
+        "de": "Diese Suppe hat nicht genug Salz."
+      }
+    ]
+  },
+  {
+    "word": "šećer",
+    "meanings": [
+      "Zucker"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "U kafu ne stavljam {šećer}.",
+        "de": "Ich gebe keinen Zucker in den Kaffee."
+      },
+      {
+        "sr": "Možeš li da mi dodaš malo {šećera}?",
+        "de": "Kannst du mir etwas Zucker reichen?"
+      }
+    ]
+  },
+  {
+    "word": "puter",
+    "meanings": [
+      "Butter"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Namaži malo {putera} na hleb.",
+        "de": "Streich etwas Butter aufs Brot."
+      },
+      {
+        "sr": "Da li je ovaj {puter} slan?",
+        "de": "Ist diese Butter gesalzen?"
+      }
+    ]
+  },
+  {
+    "word": "tanjir",
+    "meanings": [
+      "Teller"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Mogu li da dobijem čist {tanjir}?",
+        "de": "Kann ich einen sauberen Teller bekommen?"
+      },
+      {
+        "sr": "Stavio sam meso na tvoj {tanjir}.",
+        "de": "Ich habe das Fleisch auf deinen Teller gelegt."
+      }
+    ]
+  },
+  {
+    "word": "čaša",
+    "meanings": [
+      "Glas"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Molim te, donesi mi jednu {čašu}.",
+        "de": "Bring mir bitte ein Glas."
+      },
+      {
+        "sr": "U mojoj {čaši} ima još vode.",
+        "de": "In meinem Glas ist noch Wasser."
+      }
+    ]
+  },
+  {
+    "word": "šolja",
+    "meanings": [
+      "Tasse"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Ova {šolja} je baš lepa.",
+        "de": "Diese Tasse ist wirklich schön."
+      },
+      {
+        "sr": "Sipaj mi kafu u veliku {šolju}.",
+        "de": "Gieß mir den Kaffee in eine große Tasse."
+      }
+    ]
+  },
+  {
+    "word": "viljuška",
+    "meanings": [
+      "Gabel"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Nedostaje mi jedna {viljuška}.",
+        "de": "Mir fehlt eine Gabel."
+      },
+      {
+        "sr": "Jeo sam salatu {viljuškom}.",
+        "de": "Ich habe den Salat mit einer Gabel gegessen."
+      }
+    ]
+  },
+  {
+    "word": "nož",
+    "meanings": [
+      "Messer"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Treba mi oštar {nož} za hleb.",
+        "de": "Ich brauche ein scharfes Messer fürs Brot."
+      },
+      {
+        "sr": "Ostavi {nož} pored tanjira.",
+        "de": "Leg das Messer neben den Teller."
+      }
+    ]
+  },
+  {
+    "word": "kašika",
+    "meanings": [
+      "Löffel"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Mogu li da dobijem još jednu {kašiku}?",
+        "de": "Kann ich noch einen Löffel bekommen?"
+      },
+      {
+        "sr": "Jedi supu {kašikom}, ne viljuškom.",
+        "de": "Iss die Suppe mit einem Löffel, nicht mit einer Gabel."
+      }
+    ]
+  },
+  {
+    "word": "doručak",
+    "meanings": [
+      "Frühstück"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Za {doručak} obično jedem jaja.",
+        "de": "Zum Frühstück esse ich normalerweise Eier."
+      },
+      {
+        "sr": "Njen otac već sprema {doručak}.",
+        "de": "Ihr Vater bereitet schon das Frühstück vor."
+      }
+    ]
+  },
+  {
+    "word": "ručak",
+    "meanings": [
+      "Mittagessen"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "U koliko sati je danas {ručak}?",
+        "de": "Um wie viel Uhr gibt es heute Mittagessen?"
+      },
+      {
+        "sr": "Hvala vam na {ručku}.",
+        "de": "Vielen Dank für das Mittagessen."
+      }
+    ]
+  },
+  {
+    "word": "večera",
+    "meanings": [
+      "Abendessen"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Za {večeru} ćemo jesti ribu.",
+        "de": "Zum Abendessen werden wir Fisch essen."
+      },
+      {
+        "sr": "Posle {večere} možemo da popijemo kafu.",
+        "de": "Nach dem Abendessen können wir Kaffee trinken."
+      }
+    ]
+  },
+  {
+    "word": "prijatno",
+    "meanings": [
+      "guten Appetit"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Prijatno} svima, počnite dok je toplo!",
+        "de": "Guten Appetit zusammen, fangt an, solange es warm ist!"
+      },
+      {
+        "sr": "Ručak je na stolu, {prijatno}!",
+        "de": "Das Mittagessen steht auf dem Tisch, guten Appetit!"
+      }
+    ]
+  },
+  {
+    "word": "hoćeš li još",
+    "meanings": [
+      "möchtest du noch etwas"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Hoćeš li još} krompira?",
+        "de": "Möchtest du noch Kartoffeln?"
+      },
+      {
+        "sr": "{Hoćeš li još} malo supe?",
+        "de": "Möchtest du noch etwas Suppe?"
+      }
+    ]
+  },
+  {
+    "word": "još malo",
+    "meanings": [
+      "noch etwas",
+      "noch ein bisschen"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Još malo} hleba, molim.",
+        "de": "Noch etwas Brot, bitte."
+      },
+      {
+        "sr": "Sipaj mi {još malo}.",
+        "de": "Schenk mir noch ein bisschen ein."
+      }
+    ]
+  },
+  {
+    "word": "dodaj mi",
+    "meanings": [
+      "reich mir",
+      "gib mir"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Dodaj mi} so, molim te.",
+        "de": "Reich mir bitte das Salz."
+      },
+      {
+        "sr": "{Dodaj mi} hleb, molim te.",
+        "de": "Reich mir bitte das Brot."
+      }
+    ]
+  },
+  {
+    "word": "sit sam",
+    "meanings": [
+      "ich bin satt"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Sit sam}, ali sve je bilo odlično.",
+        "de": "Ich bin satt, aber alles war ausgezeichnet."
+      },
+      {
+        "sr": "Hvala, {sit sam} i ne mogu više.",
+        "de": "Danke, ich bin satt und kann nicht mehr."
+      }
+    ]
+  },
+  {
+    "word": "ne mogu više",
+    "meanings": [
+      "ich kann nicht mehr"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Ne mogu više}, stvarno sam sit.",
+        "de": "Ich kann nicht mehr, ich bin wirklich satt."
+      },
+      {
+        "sr": "Hvala na svemu, ali {ne mogu više}.",
+        "de": "Vielen Dank für alles, aber ich kann nicht mehr."
+      }
+    ]
+  },
+  {
+    "word": "gladan sam",
+    "meanings": [
+      "ich habe Hunger",
+      "ich bin hungrig"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Gladan sam}, šta ćemo danas jesti?",
+        "de": "Ich habe Hunger, was essen wir heute?"
+      },
+      {
+        "sr": "{Gladan sam} kao vuk.",
+        "de": "Ich habe einen Bärenhunger."
+      }
+    ]
+  },
+  {
+    "word": "žedan sam",
+    "meanings": [
+      "ich habe Durst",
+      "ich bin durstig"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Žedan sam}, mogu li da dobijem vodu?",
+        "de": "Ich habe Durst, kann ich Wasser bekommen?"
+      },
+      {
+        "sr": "{Žedan sam} posle šetnje po gradu.",
+        "de": "Nach dem Spaziergang durch die Stadt habe ich Durst."
+      }
+    ]
+  },
+  {
+    "word": "baš je ukusno",
+    "meanings": [
+      "es schmeckt wirklich gut"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Baš je ukusno} ovo što ste spremili.",
+        "de": "Das, was Sie zubereitet haben, schmeckt wirklich gut."
+      },
+      {
+        "sr": "Probaj, {baš je ukusno}.",
+        "de": "Probier mal, es schmeckt wirklich gut."
+      }
+    ]
+  },
+  {
+    "word": "mogu li da probam",
+    "meanings": [
+      "darf ich probieren"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Mogu li da probam} ovaj sir?",
+        "de": "Darf ich diesen Käse probieren?"
+      },
+      {
+        "sr": "Izgleda odlično; {mogu li da probam} malo?",
+        "de": "Es sieht ausgezeichnet aus; darf ich etwas probieren?"
+      }
+    ]
+  },
+  {
+    "word": "šta je ovo",
+    "meanings": [
+      "was ist das"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Šta je ovo} na sredini stola?",
+        "de": "Was ist das in der Mitte des Tisches?"
+      },
+      {
+        "sr": "{Šta je ovo} što ste nam poslužili?",
+        "de": "Was ist das, das Sie uns serviert haben?"
+      }
+    ]
+  },
+  {
+    "word": "da li je ovo ljuto",
+    "meanings": [
+      "ist das scharf"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Da li je ovo ljuto} ili je blago?",
+        "de": "Ist das scharf oder mild?"
+      },
+      {
+        "sr": "Pre nego što probam, {da li je ovo ljuto}?",
+        "de": "Bevor ich es probiere: Ist das scharf?"
+      }
+    ]
+  },
+  {
+    "word": "bez šećera",
+    "meanings": [
+      "ohne Zucker"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Kafu pijem {bez šećera}.",
+        "de": "Ich trinke den Kaffee ohne Zucker."
+      },
+      {
+        "sr": "Jedan čaj {bez šećera}, molim.",
+        "de": "Einen Tee ohne Zucker, bitte."
+      }
+    ]
+  },
+  {
+    "word": "sa mlekom",
+    "meanings": [
+      "mit Milch"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "Jednu kafu {sa mlekom}, molim.",
+        "de": "Einen Kaffee mit Milch, bitte."
+      },
+      {
+        "sr": "Čaj pijem {sa mlekom}.",
+        "de": "Ich trinke den Tee mit Milch."
+      }
+    ]
+  },
+  {
+    "word": "ko želi kafu",
+    "meanings": [
+      "wer möchte Kaffee"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Ko želi kafu} posle ručka?",
+        "de": "Wer möchte nach dem Mittagessen Kaffee?"
+      },
+      {
+        "sr": "Skuvao sam svežu kafu; {ko želi kafu}?",
+        "de": "Ich habe frischen Kaffee gekocht; wer möchte Kaffee?"
+      }
+    ]
+  },
+  {
+    "word": "da li mogu da pomognem",
+    "meanings": [
+      "kann ich helfen"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Da li mogu da pomognem} oko postavljanja stola?",
+        "de": "Kann ich beim Tischdecken helfen?"
+      },
+      {
+        "sr": "Vidim da ima dosta posla; {da li mogu da pomognem}?",
+        "de": "Ich sehe, dass viel zu tun ist; kann ich helfen?"
+      }
+    ]
+  },
+  {
+    "word": "hvala na ručku",
+    "meanings": [
+      "danke für das Mittagessen"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "am-tisch",
+    "sentences": [
+      {
+        "sr": "{Hvala na ručku}, sve je bilo odlično.",
+        "de": "Danke für das Mittagessen, alles war ausgezeichnet."
+      },
+      {
+        "sr": "Pre nego što krenemo, {hvala na ručku}.",
+        "de": "Bevor wir gehen, danke für das Mittagessen."
+      }
+    ]
+  },
+  {
+    "word": "praznik",
+    "meanings": [
+      "Feiertag"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Sutra je {praznik}, niko ne radi.",
+        "de": "Morgen ist Feiertag, niemand arbeitet."
+      },
+      {
+        "sr": "Za {praznike} idemo kod njenih roditelja.",
+        "de": "An den Feiertagen fahren wir zu ihren Eltern."
+      }
+    ]
+  },
+  {
+    "word": "srećna Nova godina",
+    "meanings": [
+      "frohes neues Jahr"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "{Srećna Nova godina}, ljubavi!",
+        "de": "Frohes neues Jahr, mein Schatz!"
+      },
+      {
+        "sr": "U ponoć svi viču: {srećna Nova godina}!",
+        "de": "Um Mitternacht rufen alle: Frohes neues Jahr!"
+      }
+    ]
+  },
+  {
+    "word": "čestitam",
+    "meanings": [
+      "herzlichen Glückwunsch",
+      "ich gratuliere"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "{Čestitam}, baš mi je drago!",
+        "de": "Herzlichen Glückwunsch, das freut mich sehr!"
+      },
+      {
+        "sr": "{Čestitam} na veridbi!",
+        "de": "Herzlichen Glückwunsch zur Verlobung!"
+      }
+    ]
+  },
+  {
+    "word": "sve najbolje",
+    "meanings": [
+      "alles Gute"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "{Sve najbolje} za rođendan!",
+        "de": "Alles Gute zum Geburtstag!"
+      },
+      {
+        "sr": "Želim ti {sve najbolje}.",
+        "de": "Ich wünsche dir alles Gute."
+      }
+    ]
+  },
+  {
+    "word": "srećno",
+    "meanings": [
+      "viel Glück"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "{Srećno} na ispitu!",
+        "de": "Viel Glück bei der Prüfung!"
+      },
+      {
+        "sr": "{Srećno}, javi kako je bilo.",
+        "de": "Viel Glück, sag Bescheid, wie es war."
+      }
+    ]
+  },
+  {
+    "word": "poklon",
+    "meanings": [
+      "Geschenk"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Imam mali {poklon} za tvoju mamu.",
+        "de": "Ich habe ein kleines Geschenk für deine Mama."
+      },
+      {
+        "sr": "Hvala na {poklonu}, baš je lep.",
+        "de": "Danke für das Geschenk, es ist wirklich schön."
+      }
+    ]
+  },
+  {
+    "word": "dobro došli",
+    "meanings": [
+      "willkommen (zu mehreren oder förmlich)"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "{Dobro došli}, uđite!",
+        "de": "Willkommen, kommen Sie herein!"
+      },
+      {
+        "sr": "{Dobro došli} u naš dom.",
+        "de": "Willkommen in unserem Zuhause."
+      }
+    ]
+  },
+  {
+    "word": "odakle si",
+    "meanings": [
+      "woher kommst du"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "{Odakle si}, iz Beograda?",
+        "de": "Woher kommst du, aus Belgrad?"
+      },
+      {
+        "sr": "A ti, {odakle si}?",
+        "de": "Und du, woher kommst du?"
+      }
+    ]
+  },
+  {
+    "word": "ja sam iz",
+    "meanings": [
+      "ich komme aus",
+      "ich bin aus"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "{Ja sam iz} Nemačke.",
+        "de": "Ich komme aus Deutschland."
+      },
+      {
+        "sr": "{Ja sam iz} malog grada blizu Minhena.",
+        "de": "Ich komme aus einer kleinen Stadt bei München."
+      }
+    ]
+  },
+  {
+    "word": "zemlja",
+    "meanings": [
+      "Land",
+      "Erde"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Srbija je lepa {zemlja}.",
+        "de": "Serbien ist ein schönes Land."
+      },
+      {
+        "sr": "Iz koje {zemlje} dolaziš?",
+        "de": "Aus welchem Land kommst du?"
+      }
+    ]
+  },
+  {
+    "word": "grad",
+    "meanings": [
+      "Stadt"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Beograd je veliki {grad}.",
+        "de": "Belgrad ist eine große Stadt."
+      },
+      {
+        "sr": "Živim u malom {gradu}.",
+        "de": "Ich wohne in einer kleinen Stadt."
+      }
+    ]
+  },
+  {
+    "word": "Srbija",
+    "meanings": [
+      "Serbien"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "{Srbija} mi se mnogo sviđa.",
+        "de": "Serbien gefällt mir sehr."
+      },
+      {
+        "sr": "Prvi put sam u {Srbiji}.",
+        "de": "Ich bin zum ersten Mal in Serbien."
+      }
+    ]
+  },
+  {
+    "word": "Nemačka",
+    "meanings": [
+      "Deutschland"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "{Nemačka} je daleko odavde.",
+        "de": "Deutschland ist weit weg von hier."
+      },
+      {
+        "sr": "Živim i radim u {Nemačkoj}.",
+        "de": "Ich lebe und arbeite in Deutschland."
+      }
+    ]
+  },
+  {
+    "word": "jezik",
+    "meanings": [
+      "Sprache",
+      "Zunge"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Srpski je težak {jezik}.",
+        "de": "Serbisch ist eine schwere Sprache."
+      },
+      {
+        "sr": "Koje {jezike} govoriš?",
+        "de": "Welche Sprachen sprichst du?"
+      }
+    ]
+  },
+  {
+    "word": "srpski",
+    "meanings": [
+      "Serbisch"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Učim {srpski} već godinu dana.",
+        "de": "Ich lerne seit einem Jahr Serbisch."
+      },
+      {
+        "sr": "Kako se to kaže na {srpskom}?",
+        "de": "Wie sagt man das auf Serbisch?"
+      }
+    ]
+  },
+  {
+    "word": "nemački",
+    "meanings": [
+      "Deutsch"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Da li neko ovde govori {nemački}?",
+        "de": "Spricht hier jemand Deutsch?"
+      },
+      {
+        "sr": "Na {nemačkom} je to lakše.",
+        "de": "Auf Deutsch ist das leichter."
+      }
+    ]
+  },
+  {
+    "word": "engleski",
+    "meanings": [
+      "Englisch"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Sa njenim bratom pričam {engleski}.",
+        "de": "Mit ihrem Bruder spreche ich Englisch."
+      },
+      {
+        "sr": "Možemo li na {engleskom}?",
+        "de": "Können wir auf Englisch?"
+      }
+    ]
+  },
+  {
+    "word": "govorim malo srpski",
+    "meanings": [
+      "ich spreche ein bisschen Serbisch"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "{Govorim malo srpski}, ali razumem dosta.",
+        "de": "Ich spreche ein bisschen Serbisch, aber ich verstehe ziemlich viel."
+      },
+      {
+        "sr": "Izvinite, {govorim malo srpski}.",
+        "de": "Entschuldigen Sie, ich spreche nur ein bisschen Serbisch."
+      }
+    ]
+  },
+  {
+    "word": "učiti",
+    "meanings": [
+      "lernen"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "{Učim} srpski zbog tebe.",
+        "de": "Ich lerne deinetwegen Serbisch."
+      },
+      {
+        "sr": "Gde si {učila} nemački?",
+        "de": "Wo hast du Deutsch gelernt?"
+      }
+    ]
+  },
+  {
+    "word": "ime",
+    "meanings": [
+      "Name",
+      "Vorname"
+    ],
+    "label": "neutrum",
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Kako ti je {ime}?",
+        "de": "Wie ist dein Name?"
+      },
+      {
+        "sr": "Zaboravio sam njegovo {ime}.",
+        "de": "Ich habe seinen Namen vergessen."
+      }
+    ]
+  },
+  {
+    "word": "koliko imaš godina",
+    "meanings": [
+      "wie alt bist du"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "A ti, {koliko imaš godina}?",
+        "de": "Und du, wie alt bist du?"
+      },
+      {
+        "sr": "{Koliko imaš godina}, ako smem da pitam?",
+        "de": "Wie alt bist du, wenn ich fragen darf?"
+      }
+    ]
+  },
+  {
+    "word": "posao",
+    "meanings": [
+      "Arbeit",
+      "Job"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Kakav je tvoj {posao}?",
+        "de": "Wie ist deine Arbeit?"
+      },
+      {
+        "sr": "Imam mnogo {posla}.",
+        "de": "Ich habe viel Arbeit."
+      }
+    ]
+  },
+  {
+    "word": "škola",
+    "meanings": [
+      "Schule"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "{Škola} počinje u osam.",
+        "de": "Die Schule beginnt um acht."
+      },
+      {
+        "sr": "U {školi} sam učio engleski.",
+        "de": "In der Schule habe ich Englisch gelernt."
+      }
+    ]
+  },
+  {
+    "word": "vreme",
+    "meanings": [
+      "Wetter",
+      "Zeit"
+    ],
+    "label": "neutrum",
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Danas je lepo {vreme}.",
+        "de": "Heute ist schönes Wetter."
+      },
+      {
+        "sr": "Nemam {vremena} za hobi.",
+        "de": "Ich habe keine Zeit für ein Hobby."
+      }
+    ]
+  },
+  {
+    "word": "sunce",
+    "meanings": [
+      "Sonne"
+    ],
+    "label": "neutrum",
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Danas sija {sunce}.",
+        "de": "Heute scheint die Sonne."
+      },
+      {
+        "sr": "Sedimo na {suncu} i pijemo kafu.",
+        "de": "Wir sitzen in der Sonne und trinken Kaffee."
+      }
+    ]
+  },
+  {
+    "word": "kiša",
+    "meanings": [
+      "Regen"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Sutra će biti {kiše}.",
+        "de": "Morgen wird es Regen geben."
+      },
+      {
+        "sr": "Ne volim {kišu}.",
+        "de": "Ich mag keinen Regen."
+      }
+    ]
+  },
+  {
+    "word": "pada kiša",
+    "meanings": [
+      "es regnet"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Ponesi kišobran, {pada kiša}.",
+        "de": "Nimm einen Regenschirm mit, es regnet."
+      },
+      {
+        "sr": "{Pada kiša} ceo dan.",
+        "de": "Es regnet den ganzen Tag."
+      }
+    ]
+  },
+  {
+    "word": "hladno je",
+    "meanings": [
+      "es ist kalt"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "{Hladno je}, obuci jaknu.",
+        "de": "Es ist kalt, zieh eine Jacke an."
+      },
+      {
+        "sr": "{Hladno je} za ovo doba godine.",
+        "de": "Es ist kalt für diese Jahreszeit."
+      }
+    ]
+  },
+  {
+    "word": "toplo je",
+    "meanings": [
+      "es ist warm"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "{Toplo je}, možemo da sedimo napolju.",
+        "de": "Es ist warm, wir können draußen sitzen."
+      },
+      {
+        "sr": "{Toplo je} kao u proleće.",
+        "de": "Es ist warm wie im Frühling."
+      }
+    ]
+  },
+  {
+    "word": "muzika",
+    "meanings": [
+      "Musik"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Kakvu {muziku} slušaš?",
+        "de": "Was für Musik hörst du?"
+      },
+      {
+        "sr": "Ova {muzika} mi se sviđa.",
+        "de": "Diese Musik gefällt mir."
+      }
+    ]
+  },
+  {
+    "word": "film",
+    "meanings": [
+      "Film"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Jesi li gledala taj {film}?",
+        "de": "Hast du den Film gesehen?"
+      },
+      {
+        "sr": "Pričamo o novom {filmu}.",
+        "de": "Wir reden über den neuen Film."
+      }
+    ]
+  },
+  {
+    "word": "knjiga",
+    "meanings": [
+      "Buch"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Čitam dobru {knjigu}.",
+        "de": "Ich lese ein gutes Buch."
+      },
+      {
+        "sr": "Ova {knjiga} je o Srbiji.",
+        "de": "Dieses Buch handelt von Serbien."
+      }
+    ]
+  },
+  {
+    "word": "sport",
+    "meanings": [
+      "Sport"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Koji {sport} voliš?",
+        "de": "Welchen Sport magst du?"
+      },
+      {
+        "sr": "Bavim se {sportom} dva puta nedeljno.",
+        "de": "Ich treibe zweimal pro Woche Sport."
+      }
+    ]
+  },
+  {
+    "word": "more",
+    "meanings": [
+      "Meer"
+    ],
+    "label": "neutrum",
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Leti idemo na {more}.",
+        "de": "Im Sommer fahren wir ans Meer."
+      },
+      {
+        "sr": "Volim da plivam u {moru}.",
+        "de": "Ich schwimme gern im Meer."
+      }
+    ]
+  },
+  {
+    "word": "vikend",
+    "meanings": [
+      "Wochenende"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "Šta radiš za {vikend}?",
+        "de": "Was machst du am Wochenende?"
+      },
+      {
+        "sr": "Želim ti lep {vikend}.",
+        "de": "Ich wünsche dir ein schönes Wochenende."
+      }
+    ]
+  },
+  {
+    "word": "pričati",
+    "meanings": [
+      "reden",
+      "erzählen"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "O čemu {pričate}?",
+        "de": "Worüber redet ihr?"
+      },
+      {
+        "sr": "{Pričali} smo do kasno u noć.",
+        "de": "Wir haben bis spät in die Nacht geredet."
+      }
+    ]
+  },
+  {
+    "word": "nema veze",
+    "meanings": [
+      "macht nichts",
+      "egal"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "{Nema veze}, drugi put.",
+        "de": "Macht nichts, ein andermal."
+      },
+      {
+        "sr": "Kasniš? {Nema veze}.",
+        "de": "Du kommst zu spät? Macht nichts."
+      }
+    ]
+  },
+  {
+    "word": "nema problema",
+    "meanings": [
+      "kein Problem"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "{Nema problema}, sačekaću.",
+        "de": "Kein Problem, ich warte."
+      },
+      {
+        "sr": "Mogu da pomognem, {nema problema}.",
+        "de": "Ich kann helfen, kein Problem."
+      }
+    ]
+  },
+  {
+    "word": "čekaj",
+    "meanings": [
+      "warte",
+      "Moment"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "{Čekaj}, nisam razumeo.",
+        "de": "Warte, ich habe es nicht verstanden."
+      },
+      {
+        "sr": "{Čekaj} malo, odmah dolazim.",
+        "de": "Warte kurz, ich komme sofort."
+      }
+    ]
+  },
+  {
+    "word": "odlično",
+    "meanings": [
+      "ausgezeichnet",
+      "super"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "smalltalk",
+    "sentences": [
+      {
+        "sr": "{Odlično}, vidimo se sutra!",
+        "de": "Super, wir sehen uns morgen!"
+      },
+      {
+        "sr": "Srpski ti ide {odlično}.",
+        "de": "Dein Serbisch läuft ausgezeichnet."
+      }
+    ]
+  },
+  {
+    "word": "broj",
+    "meanings": [
+      "Nummer",
+      "Zahl"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Koji je tvoj {broj} telefona?",
+        "de": "Wie ist deine Telefonnummer?"
+      },
+      {
+        "sr": "Zapisao sam pogrešan {broj}.",
+        "de": "Ich habe die falsche Nummer aufgeschrieben."
+      }
+    ]
+  },
+  {
+    "word": "koliko",
+    "meanings": [
+      "wie viel",
+      "wie viele"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Koliko} to košta?",
+        "de": "Wie viel kostet das?"
+      },
+      {
+        "sr": "{Koliko} vas dolazi na večeru?",
+        "de": "Wie viele von euch kommen zum Abendessen?"
+      }
+    ]
+  },
+  {
+    "word": "jedan",
+    "meanings": [
+      "eins",
+      "ein"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Imam samo {jedan} dan odmora.",
+        "de": "Ich habe nur einen Tag Urlaub."
+      },
+      {
+        "sr": "Daj mi {jednu} kafu, molim te.",
+        "de": "Gib mir bitte einen Kaffee."
+      }
+    ]
+  },
+  {
+    "word": "dva",
+    "meanings": [
+      "zwei"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Imam {dva} brata.",
+        "de": "Ich habe zwei Brüder."
+      },
+      {
+        "sr": "Čekamo već {dve} nedelje.",
+        "de": "Wir warten schon zwei Wochen."
+      }
+    ]
+  },
+  {
+    "word": "tri",
+    "meanings": [
+      "drei"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Ona ima {tri} sestre.",
+        "de": "Sie hat drei Schwestern."
+      },
+      {
+        "sr": "Vidimo se u {tri}.",
+        "de": "Wir sehen uns um drei."
+      }
+    ]
+  },
+  {
+    "word": "četiri",
+    "meanings": [
+      "vier"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Sto za {četiri} osobe, molim.",
+        "de": "Einen Tisch für vier Personen, bitte."
+      },
+      {
+        "sr": "Radim do {četiri}.",
+        "de": "Ich arbeite bis vier."
+      }
+    ]
+  },
+  {
+    "word": "pet",
+    "meanings": [
+      "fünf"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Ostajemo {pet} dana.",
+        "de": "Wir bleiben fünf Tage."
+      },
+      {
+        "sr": "Sada je {pet} sati.",
+        "de": "Es ist jetzt fünf Uhr."
+      }
+    ]
+  },
+  {
+    "word": "šest",
+    "meanings": [
+      "sechs"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Ustajem u {šest}.",
+        "de": "Ich stehe um sechs auf."
+      },
+      {
+        "sr": "Njena baka ima {šest} unuka.",
+        "de": "Ihre Oma hat sechs Enkel."
+      }
+    ]
+  },
+  {
+    "word": "sedam",
+    "meanings": [
+      "sieben"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Večera je u {sedam}.",
+        "de": "Das Abendessen ist um sieben."
+      },
+      {
+        "sr": "Nedelja ima {sedam} dana.",
+        "de": "Die Woche hat sieben Tage."
+      }
+    ]
+  },
+  {
+    "word": "osam",
+    "meanings": [
+      "acht"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Voz polazi u {osam}.",
+        "de": "Der Zug fährt um acht ab."
+      },
+      {
+        "sr": "Spavao sam {osam} sati.",
+        "de": "Ich habe acht Stunden geschlafen."
+      }
+    ]
+  },
+  {
+    "word": "devet",
+    "meanings": [
+      "neun"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Prodavnica radi do {devet}.",
+        "de": "Der Laden hat bis neun geöffnet."
+      },
+      {
+        "sr": "Deca idu na spavanje u {devet}.",
+        "de": "Die Kinder gehen um neun schlafen."
+      }
+    ]
+  },
+  {
+    "word": "deset",
+    "meanings": [
+      "zehn"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Vratiću se za {deset} minuta.",
+        "de": "Ich bin in zehn Minuten zurück."
+      },
+      {
+        "sr": "Ovo košta {deset} evra.",
+        "de": "Das kostet zehn Euro."
+      }
+    ]
+  },
+  {
+    "word": "sto",
+    "meanings": [
+      "hundert",
+      "Tisch"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Ovo košta {sto} dinara.",
+        "de": "Das kostet hundert Dinar."
+      },
+      {
+        "sr": "Sedimo za {stolom} pored prozora.",
+        "de": "Wir sitzen am Tisch neben dem Fenster."
+      }
+    ]
+  },
+  {
+    "word": "prvi",
+    "meanings": [
+      "erster"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Ovo je moj {prvi} put u Srbiji.",
+        "de": "Das ist mein erstes Mal in Serbien."
+      },
+      {
+        "sr": "Stan je na {prvom} spratu.",
+        "de": "Die Wohnung ist im ersten Stock."
+      }
+    ]
+  },
+  {
+    "word": "koliko je sati",
+    "meanings": [
+      "wie spät ist es"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Izvinite, {koliko je sati}?",
+        "de": "Entschuldigen Sie, wie spät ist es?"
+      },
+      {
+        "sr": "{Koliko je sati}? Kasnimo!",
+        "de": "Wie spät ist es? Wir sind spät dran!"
+      }
+    ]
+  },
+  {
+    "word": "u koliko sati",
+    "meanings": [
+      "um wie viel Uhr"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{U koliko sati} dolaziš?",
+        "de": "Um wie viel Uhr kommst du?"
+      },
+      {
+        "sr": "{U koliko sati} je večera?",
+        "de": "Um wie viel Uhr ist das Abendessen?"
+      }
+    ]
+  },
+  {
+    "word": "sat",
+    "meanings": [
+      "Stunde",
+      "Uhr"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Vidimo se za jedan {sat}.",
+        "de": "Wir sehen uns in einer Stunde."
+      },
+      {
+        "sr": "Čekam već dva {sata}.",
+        "de": "Ich warte schon zwei Stunden."
+      }
+    ]
+  },
+  {
+    "word": "minut",
+    "meanings": [
+      "Minute"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Sačekaj jedan {minut}.",
+        "de": "Warte eine Minute."
+      },
+      {
+        "sr": "Autobus dolazi za tri {minuta}.",
+        "de": "Der Bus kommt in drei Minuten."
+      }
+    ]
+  },
+  {
+    "word": "dan",
+    "meanings": [
+      "Tag"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Kakav lep {dan}!",
+        "de": "Was für ein schöner Tag!"
+      },
+      {
+        "sr": "Ostajemo još tri {dana}.",
+        "de": "Wir bleiben noch drei Tage."
+      }
+    ]
+  },
+  {
+    "word": "noć",
+    "meanings": [
+      "Nacht"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Noć} je bila topla.",
+        "de": "Die Nacht war warm."
+      },
+      {
+        "sr": "Radio sam celu {noć}.",
+        "de": "Ich habe die ganze Nacht gearbeitet."
+      }
+    ]
+  },
+  {
+    "word": "jutro",
+    "meanings": [
+      "Morgen (Tageszeit)"
+    ],
+    "label": "neutrum",
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Svako {jutro} pijem kafu.",
+        "de": "Jeden Morgen trinke ich Kaffee."
+      },
+      {
+        "sr": "Od {jutra} pada kiša.",
+        "de": "Seit dem Morgen regnet es."
+      }
+    ]
+  },
+  {
+    "word": "veče",
+    "meanings": [
+      "Abend"
+    ],
+    "label": "neutrum",
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Bilo je to lepo {veče}.",
+        "de": "Das war ein schöner Abend."
+      },
+      {
+        "sr": "Svako {veče} šetamo.",
+        "de": "Jeden Abend gehen wir spazieren."
+      }
+    ]
+  },
+  {
+    "word": "danas",
+    "meanings": [
+      "heute"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Danas} je lep dan.",
+        "de": "Heute ist ein schöner Tag."
+      },
+      {
+        "sr": "Šta radiš {danas}?",
+        "de": "Was machst du heute?"
+      }
+    ]
+  },
+  {
+    "word": "sutra",
+    "meanings": [
+      "morgen"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Sutra} imam slobodan dan.",
+        "de": "Morgen habe ich einen freien Tag."
+      },
+      {
+        "sr": "Vidimo se {sutra} ujutru.",
+        "de": "Wir sehen uns morgen früh."
+      }
+    ]
+  },
+  {
+    "word": "juče",
+    "meanings": [
+      "gestern"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Juče} sam bio kod njenih roditelja.",
+        "de": "Gestern war ich bei ihren Eltern."
+      },
+      {
+        "sr": "Stigli smo {juče}.",
+        "de": "Wir sind gestern angekommen."
+      }
+    ]
+  },
+  {
+    "word": "do sutra",
+    "meanings": [
+      "bis morgen"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Laku noć, {do sutra}!",
+        "de": "Gute Nacht, bis morgen!"
+      },
+      {
+        "sr": "Možeš li da sačekaš {do sutra}?",
+        "de": "Kannst du bis morgen warten?"
+      }
+    ]
+  },
+  {
+    "word": "sada",
+    "meanings": [
+      "jetzt"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Sada} idemo na ručak.",
+        "de": "Jetzt gehen wir mittagessen."
+      },
+      {
+        "sr": "Moram {sada} da idem.",
+        "de": "Ich muss jetzt gehen."
+      }
+    ]
+  },
+  {
+    "word": "već",
+    "meanings": [
+      "schon"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Već} sam jeo.",
+        "de": "Ich habe schon gegessen."
+      },
+      {
+        "sr": "Da li ste {već} stigli?",
+        "de": "Seid ihr schon angekommen?"
+      }
+    ]
+  },
+  {
+    "word": "uvek",
+    "meanings": [
+      "immer"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Uvek} kasniš.",
+        "de": "Du kommst immer zu spät."
+      },
+      {
+        "sr": "Ona je {uvek} dobre volje.",
+        "de": "Sie ist immer gut gelaunt."
+      }
+    ]
+  },
+  {
+    "word": "svaki dan",
+    "meanings": [
+      "jeden Tag"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Svaki dan} učim srpski.",
+        "de": "Ich lerne jeden Tag Serbisch."
+      },
+      {
+        "sr": "Čujemo se {svaki dan}.",
+        "de": "Wir hören uns jeden Tag."
+      }
+    ]
+  },
+  {
+    "word": "nemam vremena",
+    "meanings": [
+      "ich habe keine Zeit"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Danas {nemam vremena}.",
+        "de": "Heute habe ich keine Zeit."
+      },
+      {
+        "sr": "Izvini, sada {nemam vremena}.",
+        "de": "Entschuldige, ich habe jetzt keine Zeit."
+      }
+    ]
+  },
+  {
+    "word": "ponedeljak",
+    "meanings": [
+      "Montag"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "U {ponedeljak} radim.",
+        "de": "Am Montag arbeite ich."
+      },
+      {
+        "sr": "Od {ponedeljka} sam na odmoru.",
+        "de": "Ab Montag bin ich im Urlaub."
+      }
+    ]
+  },
+  {
+    "word": "utorak",
+    "meanings": [
+      "Dienstag"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Vidimo se u {utorak}.",
+        "de": "Wir sehen uns am Dienstag."
+      },
+      {
+        "sr": "{Utorkom} idem na plivanje.",
+        "de": "Dienstags gehe ich schwimmen."
+      }
+    ]
+  },
+  {
+    "word": "sreda",
+    "meanings": [
+      "Mittwoch"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Danas je {sreda}.",
+        "de": "Heute ist Mittwoch."
+      },
+      {
+        "sr": "U {sredu} dolazi njena mama.",
+        "de": "Am Mittwoch kommt ihre Mama."
+      }
+    ]
+  },
+  {
+    "word": "četvrtak",
+    "meanings": [
+      "Donnerstag"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "U {četvrtak} putujemo.",
+        "de": "Am Donnerstag reisen wir."
+      },
+      {
+        "sr": "Do {četvrtka} moram da završim posao.",
+        "de": "Bis Donnerstag muss ich die Arbeit fertig haben."
+      }
+    ]
+  },
+  {
+    "word": "petak",
+    "meanings": [
+      "Freitag"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Konačno je {petak}!",
+        "de": "Endlich ist Freitag!"
+      },
+      {
+        "sr": "U {petak} uveče izlazimo.",
+        "de": "Am Freitagabend gehen wir aus."
+      }
+    ]
+  },
+  {
+    "word": "subota",
+    "meanings": [
+      "Samstag"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Subota} je moj omiljeni dan.",
+        "de": "Samstag ist mein Lieblingstag."
+      },
+      {
+        "sr": "U {subotu} idemo na pijacu.",
+        "de": "Am Samstag gehen wir auf den Markt."
+      }
+    ]
+  },
+  {
+    "word": "nedelja",
+    "meanings": [
+      "Sonntag",
+      "Woche"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "U {nedelju} idemo kod bake.",
+        "de": "Am Sonntag gehen wir zu Oma."
+      },
+      {
+        "sr": "Ostajemo dve {nedelje}.",
+        "de": "Wir bleiben zwei Wochen."
+      }
+    ]
+  },
+  {
+    "word": "mesec",
+    "meanings": [
+      "Monat",
+      "Mond"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Sledećeg {meseca} dolazimo u Srbiju.",
+        "de": "Nächsten Monat kommen wir nach Serbien."
+      },
+      {
+        "sr": "Večeras je pun {mesec}.",
+        "de": "Heute Abend ist Vollmond."
+      }
+    ]
+  },
+  {
+    "word": "godina",
+    "meanings": [
+      "Jahr"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Ove {godine} idemo u Srbiju.",
+        "de": "Dieses Jahr fahren wir nach Serbien."
+      },
+      {
+        "sr": "Zajedno smo dve {godine}.",
+        "de": "Wir sind seit zwei Jahren zusammen."
+      }
+    ]
+  },
+  {
+    "word": "gde je",
+    "meanings": [
+      "wo ist"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Izvinite, {gde je} pošta?",
+        "de": "Entschuldigen Sie, wo ist die Post?"
+      },
+      {
+        "sr": "{Gde je} najbliži bankomat?",
+        "de": "Wo ist der nächste Geldautomat?"
+      }
+    ]
+  },
+  {
+    "word": "levo",
+    "meanings": [
+      "links"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Skrenite {levo} kod banke.",
+        "de": "Biegen Sie bei der Bank links ab."
+      },
+      {
+        "sr": "Apoteka je {levo} od hotela.",
+        "de": "Die Apotheke ist links vom Hotel."
+      }
+    ]
+  },
+  {
+    "word": "desno",
+    "meanings": [
+      "rechts"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Na semaforu idite {desno}.",
+        "de": "Gehen Sie an der Ampel nach rechts."
+      },
+      {
+        "sr": "Toalet je prva vrata {desno}.",
+        "de": "Die Toilette ist die erste Tür rechts."
+      }
+    ]
+  },
+  {
+    "word": "pravo",
+    "meanings": [
+      "geradeaus"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Samo {pravo}, pa levo.",
+        "de": "Immer geradeaus, dann links."
+      },
+      {
+        "sr": "Idite {pravo} do trga.",
+        "de": "Gehen Sie geradeaus bis zum Platz."
+      }
+    ]
+  },
+  {
+    "word": "blizu",
+    "meanings": [
+      "nah",
+      "in der Nähe"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Hotel je {blizu}.",
+        "de": "Das Hotel ist in der Nähe."
+      },
+      {
+        "sr": "Živimo {blizu} centra.",
+        "de": "Wir wohnen nah am Zentrum."
+      }
+    ]
+  },
+  {
+    "word": "daleko",
+    "meanings": [
+      "weit"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Da li je {daleko} odavde?",
+        "de": "Ist es weit von hier?"
+      },
+      {
+        "sr": "Stanica nije {daleko}.",
+        "de": "Die Haltestelle ist nicht weit."
+      }
+    ]
+  },
+  {
+    "word": "ovde",
+    "meanings": [
+      "hier"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "{Ovde} smo prvi put.",
+        "de": "Wir sind zum ersten Mal hier."
+      },
+      {
+        "sr": "Sačekajte {ovde}.",
+        "de": "Warten Sie hier."
+      }
+    ]
+  },
+  {
+    "word": "tamo",
+    "meanings": [
+      "dort"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Vidiš li crkvu {tamo}?",
+        "de": "Siehst du die Kirche dort?"
+      },
+      {
+        "sr": "{Tamo} je autobuska stanica.",
+        "de": "Dort ist der Busbahnhof."
+      }
+    ]
+  },
+  {
+    "word": "put",
+    "meanings": [
+      "Weg",
+      "Reise",
+      "Mal"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "{Put} do Niša traje tri sata.",
+        "de": "Die Fahrt nach Niš dauert drei Stunden."
+      },
+      {
+        "sr": "Na {putu} smo, stižemo uskoro.",
+        "de": "Wir sind unterwegs, wir kommen bald an."
+      }
+    ]
+  },
+  {
+    "word": "srećan put",
+    "meanings": [
+      "gute Reise"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "{Srećan put} i javi se kad stigneš!",
+        "de": "Gute Reise, und melde dich, wenn du ankommst!"
+      },
+      {
+        "sr": "Želim vam {srećan put}.",
+        "de": "Ich wünsche Ihnen eine gute Reise."
+      }
+    ]
+  },
+  {
+    "word": "ulica",
+    "meanings": [
+      "Straße"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "U kojoj {ulici} živiš?",
+        "de": "In welcher Straße wohnst du?"
+      },
+      {
+        "sr": "Ova {ulica} vodi do centra.",
+        "de": "Diese Straße führt ins Zentrum."
+      }
+    ]
+  },
+  {
+    "word": "centar",
+    "meanings": [
+      "Zentrum"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Hotel je u {centru} grada.",
+        "de": "Das Hotel ist im Stadtzentrum."
+      },
+      {
+        "sr": "Ovaj autobus ide u {centar}.",
+        "de": "Dieser Bus fährt ins Zentrum."
+      }
+    ]
+  },
+  {
+    "word": "autobus",
+    "meanings": [
+      "Bus"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "{Autobus} za Novi Sad polazi u devet.",
+        "de": "Der Bus nach Novi Sad fährt um neun ab."
+      },
+      {
+        "sr": "Idem na posao {autobusom}.",
+        "de": "Ich fahre mit dem Bus zur Arbeit."
+      }
+    ]
+  },
+  {
+    "word": "voz",
+    "meanings": [
+      "Zug"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "{Voz} kasni dvadeset minuta.",
+        "de": "Der Zug hat zwanzig Minuten Verspätung."
+      },
+      {
+        "sr": "Do Novog Sada idemo {vozom}.",
+        "de": "Nach Novi Sad fahren wir mit dem Zug."
+      }
+    ]
+  },
+  {
+    "word": "taksi",
+    "meanings": [
+      "Taxi"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Možete li da mi pozovete {taksi}?",
+        "de": "Können Sie mir ein Taxi rufen?"
+      },
+      {
+        "sr": "Do hotela smo išli {taksijem}.",
+        "de": "Zum Hotel sind wir mit dem Taxi gefahren."
+      }
+    ]
+  },
+  {
+    "word": "avion",
+    "meanings": [
+      "Flugzeug"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Naš {avion} sleće u podne.",
+        "de": "Unser Flugzeug landet am Mittag."
+      },
+      {
+        "sr": "U Beograd putujemo {avionom}.",
+        "de": "Nach Belgrad reisen wir mit dem Flugzeug."
+      }
+    ]
+  },
+  {
+    "word": "stanica",
+    "meanings": [
+      "Haltestelle",
+      "Station"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Gde je najbliža {stanica}?",
+        "de": "Wo ist die nächste Haltestelle?"
+      },
+      {
+        "sr": "Izlazim na sledećoj {stanici}.",
+        "de": "Ich steige an der nächsten Haltestelle aus."
+      }
+    ]
+  },
+  {
+    "word": "karta",
+    "meanings": [
+      "Fahrkarte",
+      "Karte"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Gde mogu da kupim {kartu}?",
+        "de": "Wo kann ich eine Fahrkarte kaufen?"
+      },
+      {
+        "sr": "Koliko košta {karta} do Niša?",
+        "de": "Wie viel kostet die Fahrkarte nach Niš?"
+      }
+    ]
+  },
+  {
+    "word": "putovati",
+    "meanings": [
+      "reisen"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Volim da {putujem}.",
+        "de": "Ich reise gern."
+      },
+      {
+        "sr": "{Putovali} smo celu noć.",
+        "de": "Wir sind die ganze Nacht gereist."
+      }
+    ]
+  },
+  {
+    "word": "stići",
+    "meanings": [
+      "ankommen"
+    ],
+    "label": "vollendet",
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Javi mi kad {stigneš} u hotel.",
+        "de": "Sag mir Bescheid, wenn du im Hotel ankommst."
+      },
+      {
+        "sr": "{Stigli} smo u Beograd.",
+        "de": "Wir sind in Belgrad angekommen."
+      }
+    ]
+  },
+  {
+    "word": "ući",
+    "meanings": [
+      "hineingehen",
+      "einsteigen"
+    ],
+    "label": "vollendet",
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Možemo li da {uđemo}?",
+        "de": "Können wir hineingehen?"
+      },
+      {
+        "sr": "{Ušli} smo u pogrešan autobus.",
+        "de": "Wir sind in den falschen Bus eingestiegen."
+      }
+    ]
+  },
+  {
+    "word": "auto",
+    "meanings": [
+      "Auto"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Moj {auto} je na parkingu.",
+        "de": "Mein Auto steht auf dem Parkplatz."
+      },
+      {
+        "sr": "U Srbiju idemo {autom}.",
+        "de": "Nach Serbien fahren wir mit dem Auto."
+      }
+    ]
+  },
+  {
+    "word": "voziti",
+    "meanings": [
+      "fahren"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Ko {vozi} danas?",
+        "de": "Wer fährt heute?"
+      },
+      {
+        "sr": "{Vozio} sam šest sati bez pauze.",
+        "de": "Ich bin sechs Stunden ohne Pause gefahren."
+      }
+    ]
+  },
+  {
+    "word": "pasoš",
+    "meanings": [
+      "Reisepass"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Pokažite {pasoš}, molim.",
+        "de": "Zeigen Sie bitte Ihren Reisepass."
+      },
+      {
+        "sr": "Putujem sa nemačkim {pasošem}.",
+        "de": "Ich reise mit einem deutschen Reisepass."
+      }
+    ]
+  },
+  {
+    "word": "torba",
+    "meanings": [
+      "Tasche"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Zaboravio sam {torbu} u autobusu.",
+        "de": "Ich habe die Tasche im Bus vergessen."
+      },
+      {
+        "sr": "Pasoš je u mojoj {torbi}.",
+        "de": "Der Reisepass ist in meiner Tasche."
+      }
+    ]
+  },
+  {
+    "word": "hotel",
+    "meanings": [
+      "Hotel"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Naš {hotel} je blizu reke.",
+        "de": "Unser Hotel ist nah am Fluss."
+      },
+      {
+        "sr": "U {hotelu} imaju doručak.",
+        "de": "Im Hotel gibt es Frühstück."
+      }
+    ]
+  },
+  {
+    "word": "toalet",
+    "meanings": [
+      "Toilette"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Da li ovde ima {toalet}?",
+        "de": "Gibt es hier eine Toilette?"
+      },
+      {
+        "sr": "Moram do {toaleta}.",
+        "de": "Ich muss zur Toilette."
+      }
+    ]
+  },
+  {
+    "word": "park",
+    "meanings": [
+      "Park"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Šetamo po {parku}.",
+        "de": "Wir gehen im Park spazieren."
+      },
+      {
+        "sr": "Ovaj {park} je lep u jesen.",
+        "de": "Dieser Park ist im Herbst schön."
+      }
+    ]
+  },
+  {
+    "word": "restoran",
+    "meanings": [
+      "Restaurant"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Znaš li neki dobar {restoran}?",
+        "de": "Kennst du ein gutes Restaurant?"
+      },
+      {
+        "sr": "Večeras jedemo u {restoranu}.",
+        "de": "Heute Abend essen wir im Restaurant."
+      }
+    ]
+  },
+  {
+    "word": "kafić",
+    "meanings": [
+      "Café"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Vidimo se u {kafiću} na uglu.",
+        "de": "Wir sehen uns im Café an der Ecke."
+      },
+      {
+        "sr": "Ovaj {kafić} ima dobru kafu.",
+        "de": "Dieses Café hat guten Kaffee."
+      }
+    ]
+  },
+  {
+    "word": "mesto",
+    "meanings": [
+      "Ort",
+      "Platz (Sitzplatz)"
+    ],
+    "label": "neutrum",
+    "level": 1,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Ima li slobodnog {mesta}?",
+        "de": "Ist noch ein Platz frei?"
+      },
+      {
+        "sr": "Ovo je lepo {mesto}.",
+        "de": "Das ist ein schöner Ort."
+      }
+    ]
+  },
+  {
+    "word": "konobar",
+    "meanings": [
+      "Kellner"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "{Konobar} donosi jelovnik.",
+        "de": "Der Kellner bringt die Speisekarte."
+      },
+      {
+        "sr": "Pitaj {konobara} za račun.",
+        "de": "Frag den Kellner nach der Rechnung."
+      }
+    ]
+  },
+  {
+    "word": "izvolite",
+    "meanings": [
+      "bitte sehr (förmlich)",
+      "was darf es sein"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "{Izvolite}, šta želite?",
+        "de": "Bitte sehr, was wünschen Sie?"
+      },
+      {
+        "sr": "{Izvolite} vaš račun.",
+        "de": "Bitte sehr, Ihre Rechnung."
+      }
+    ]
+  },
+  {
+    "word": "imate li",
+    "meanings": [
+      "haben Sie"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "{Imate li} jelovnik na engleskom?",
+        "de": "Haben Sie eine Speisekarte auf Englisch?"
+      },
+      {
+        "sr": "{Imate li} nešto bez mesa?",
+        "de": "Haben Sie etwas ohne Fleisch?"
+      }
+    ]
+  },
+  {
+    "word": "jelovnik",
+    "meanings": [
+      "Speisekarte"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Možemo li da dobijemo {jelovnik}?",
+        "de": "Können wir die Speisekarte bekommen?"
+      },
+      {
+        "sr": "Šta ima na {jelovniku}?",
+        "de": "Was steht auf der Speisekarte?"
+      }
+    ]
+  },
+  {
+    "word": "hrana",
+    "meanings": [
+      "Essen (Nahrung)",
+      "Nahrung"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Srpska {hrana} je odlična.",
+        "de": "Das serbische Essen ist ausgezeichnet."
+      },
+      {
+        "sr": "Ima previše {hrane}.",
+        "de": "Es gibt zu viel Essen."
+      }
+    ]
+  },
+  {
+    "word": "jelo",
+    "meanings": [
+      "Gericht",
+      "Speise"
+    ],
+    "label": "neutrum",
+    "level": 1,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Koje {jelo} preporučujete?",
+        "de": "Welches Gericht empfehlen Sie?"
+      },
+      {
+        "sr": "Ovo je moje omiljeno {jelo}.",
+        "de": "Das ist mein Lieblingsgericht."
+      }
+    ]
+  },
+  {
+    "word": "piće",
+    "meanings": [
+      "Getränk"
+    ],
+    "label": "neutrum",
+    "level": 1,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Šta želite za {piće}?",
+        "de": "Was möchten Sie trinken?"
+      },
+      {
+        "sr": "Prvo naručujemo {piće}.",
+        "de": "Zuerst bestellen wir die Getränke."
+      }
+    ]
+  },
+  {
+    "word": "naručiti",
+    "meanings": [
+      "bestellen"
+    ],
+    "label": "vollendet",
+    "level": 1,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Jeste li spremni da {naručite}?",
+        "de": "Sind Sie bereit zu bestellen?"
+      },
+      {
+        "sr": "{Naručio} sam ćevape i salatu.",
+        "de": "Ich habe Ćevapi und Salat bestellt."
+      }
+    ]
+  },
+  {
+    "word": "ja ću",
+    "meanings": [
+      "ich nehme"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "{Ja ću} ćevape.",
+        "de": "Ich nehme Ćevapi."
+      },
+      {
+        "sr": "{Ja ću} isto to.",
+        "de": "Ich nehme das Gleiche."
+      }
+    ]
+  },
+  {
+    "word": "za mene",
+    "meanings": [
+      "für mich"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "{Za mene} samo kafa.",
+        "de": "Für mich nur einen Kaffee."
+      },
+      {
+        "sr": "Jedno pivo {za mene}, molim.",
+        "de": "Ein Bier für mich, bitte."
+      }
+    ]
+  },
+  {
+    "word": "jesti",
+    "meanings": [
+      "essen"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Šta želiš da {jedeš}?",
+        "de": "Was möchtest du essen?"
+      },
+      {
+        "sr": "Sinoć smo {jeli} u kafani.",
+        "de": "Gestern Abend haben wir in der Kafana gegessen."
+      }
+    ]
+  },
+  {
+    "word": "piti",
+    "meanings": [
+      "trinken"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Šta {piješ}?",
+        "de": "Was trinkst du?"
+      },
+      {
+        "sr": "{Pili} smo kafu u bašti.",
+        "de": "Wir haben im Garten Kaffee getrunken."
+      }
+    ]
+  },
+  {
+    "word": "sladoled",
+    "meanings": [
+      "Eis"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Hoćeš li {sladoled}?",
+        "de": "Möchtest du ein Eis?"
+      },
+      {
+        "sr": "Dve kugle {sladoleda}, molim.",
+        "de": "Zwei Kugeln Eis, bitte."
+      }
+    ]
+  },
+  {
+    "word": "pivo",
+    "meanings": [
+      "Bier"
+    ],
+    "label": "neutrum",
+    "level": 1,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Jedno {pivo}, molim.",
+        "de": "Ein Bier, bitte."
+      },
+      {
+        "sr": "Dva {piva} za nas.",
+        "de": "Zwei Bier für uns."
+      }
+    ]
+  },
+  {
+    "word": "račun",
+    "meanings": [
+      "Rechnung"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "{Račun}, molim.",
+        "de": "Die Rechnung, bitte."
+      },
+      {
+        "sr": "Na {računu} je greška.",
+        "de": "Auf der Rechnung ist ein Fehler."
+      }
+    ]
+  },
+  {
+    "word": "platiti",
+    "meanings": [
+      "bezahlen"
+    ],
+    "label": "vollendet",
+    "level": 1,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Ja ću da {platim}.",
+        "de": "Ich bezahle."
+      },
+      {
+        "sr": "Već sam {platio} račun.",
+        "de": "Ich habe die Rechnung schon bezahlt."
+      }
+    ]
+  },
+  {
+    "word": "pijaca",
+    "meanings": [
+      "Markt"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Subotom idemo na {pijacu}.",
+        "de": "Samstags gehen wir auf den Markt."
+      },
+      {
+        "sr": "Na {pijaci} je sve sveže.",
+        "de": "Auf dem Markt ist alles frisch."
+      }
+    ]
+  },
+  {
+    "word": "prodavnica",
+    "meanings": [
+      "Laden",
+      "Geschäft"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Ova {prodavnica} ima sve.",
+        "de": "Dieser Laden hat alles."
+      },
+      {
+        "sr": "Idem do {prodavnice} po hleb.",
+        "de": "Ich gehe zum Laden Brot holen."
+      }
+    ]
+  },
+  {
+    "word": "kupiti",
+    "meanings": [
+      "kaufen"
+    ],
+    "label": "vollendet",
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Šta treba da {kupim}?",
+        "de": "Was soll ich kaufen?"
+      },
+      {
+        "sr": "{Kupio} sam hleb i mleko.",
+        "de": "Ich habe Brot und Milch gekauft."
+      }
+    ]
+  },
+  {
+    "word": "treba mi",
+    "meanings": [
+      "ich brauche"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "{Treba mi} kilo krompira.",
+        "de": "Ich brauche ein Kilo Kartoffeln."
+      },
+      {
+        "sr": "{Treba mi} veća kesa.",
+        "de": "Ich brauche eine größere Tüte."
+      }
+    ]
+  },
+  {
+    "word": "dajte mi",
+    "meanings": [
+      "geben Sie mir"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "{Dajte mi} kilo jabuka.",
+        "de": "Geben Sie mir ein Kilo Äpfel."
+      },
+      {
+        "sr": "{Dajte mi} još dva limuna.",
+        "de": "Geben Sie mir noch zwei Zitronen."
+      }
+    ]
+  },
+  {
+    "word": "uzeti",
+    "meanings": [
+      "nehmen"
+    ],
+    "label": "vollendet",
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Mogu li da {uzmem} ovo?",
+        "de": "Kann ich das nehmen?"
+      },
+      {
+        "sr": "{Uzeo} sam dva kila jabuka.",
+        "de": "Ich habe zwei Kilo Äpfel genommen."
+      }
+    ]
+  },
+  {
+    "word": "još nešto",
+    "meanings": [
+      "sonst noch etwas"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Izvolite, {još nešto}?",
+        "de": "Bitte sehr, sonst noch etwas?"
+      },
+      {
+        "sr": "Treba li vam {još nešto}?",
+        "de": "Brauchen Sie sonst noch etwas?"
+      }
+    ]
+  },
+  {
+    "word": "to je sve",
+    "meanings": [
+      "das ist alles"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "{To je sve}, hvala.",
+        "de": "Das ist alles, danke."
+      },
+      {
+        "sr": "Ne, {to je sve}.",
+        "de": "Nein, das ist alles."
+      }
+    ]
+  },
+  {
+    "word": "koliko košta",
+    "meanings": [
+      "wie viel kostet"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "{Koliko košta} ovo?",
+        "de": "Wie viel kostet das?"
+      },
+      {
+        "sr": "Izvinite, {koliko košta} kilo jagoda?",
+        "de": "Entschuldigen Sie, wie viel kostet ein Kilo Erdbeeren?"
+      }
+    ]
+  },
+  {
+    "word": "koštati",
+    "meanings": [
+      "kosten"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Ovo {košta} previše.",
+        "de": "Das kostet zu viel."
+      },
+      {
+        "sr": "Karte su {koštale} dvadeset evra.",
+        "de": "Die Karten haben zwanzig Euro gekostet."
+      }
+    ]
+  },
+  {
+    "word": "cena",
+    "meanings": [
+      "Preis"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Koja je {cena}?",
+        "de": "Was ist der Preis?"
+      },
+      {
+        "sr": "{Cene} su ovde niže nego u Nemačkoj.",
+        "de": "Die Preise sind hier niedriger als in Deutschland."
+      }
+    ]
+  },
+  {
+    "word": "skup",
+    "meanings": [
+      "teuer"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Ovaj sir je {skup}.",
+        "de": "Dieser Käse ist teuer."
+      },
+      {
+        "sr": "Jagode su zimi {skupe}.",
+        "de": "Erdbeeren sind im Winter teuer."
+      }
+    ]
+  },
+  {
+    "word": "jeftin",
+    "meanings": [
+      "billig",
+      "günstig"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Paradajz je danas {jeftin}.",
+        "de": "Tomaten sind heute günstig."
+      },
+      {
+        "sr": "Ovde je voće {jeftino}.",
+        "de": "Hier ist Obst günstig."
+      }
+    ]
+  },
+  {
+    "word": "novac",
+    "meanings": [
+      "Geld"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Nemam dovoljno {novca}.",
+        "de": "Ich habe nicht genug Geld."
+      },
+      {
+        "sr": "Gde mogu da promenim {novac}?",
+        "de": "Wo kann ich Geld wechseln?"
+      }
+    ]
+  },
+  {
+    "word": "dinar",
+    "meanings": [
+      "Dinar"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Srpski novac je {dinar}.",
+        "de": "Das serbische Geld ist der Dinar."
+      },
+      {
+        "sr": "Ovo košta dvesta {dinara}.",
+        "de": "Das kostet zweihundert Dinar."
+      }
+    ]
+  },
+  {
+    "word": "evro",
+    "meanings": [
+      "Euro"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Mogu li da platim u {evrima}?",
+        "de": "Kann ich in Euro bezahlen?"
+      },
+      {
+        "sr": "To je oko pet {evra}.",
+        "de": "Das sind etwa fünf Euro."
+      }
+    ]
+  },
+  {
+    "word": "kesa",
+    "meanings": [
+      "Tüte"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Treba li vam {kesa}?",
+        "de": "Brauchen Sie eine Tüte?"
+      },
+      {
+        "sr": "Stavi voće u {kesu}.",
+        "de": "Leg das Obst in die Tüte."
+      }
+    ]
+  },
+  {
+    "word": "kilo",
+    "meanings": [
+      "Kilo"
+    ],
+    "label": "neutrum",
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "{Kilo} paradajza, molim.",
+        "de": "Ein Kilo Tomaten, bitte."
+      },
+      {
+        "sr": "Pola {kila} sira, molim.",
+        "de": "Ein halbes Kilo Käse, bitte."
+      }
+    ]
+  },
+  {
+    "word": "malo",
+    "meanings": [
+      "ein bisschen",
+      "wenig"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Samo {malo}, hvala.",
+        "de": "Nur ein bisschen, danke."
+      },
+      {
+        "sr": "Imam {malo} vremena.",
+        "de": "Ich habe wenig Zeit."
+      }
+    ]
+  },
+  {
+    "word": "mnogo",
+    "meanings": [
+      "viel",
+      "sehr"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "To je {mnogo} novca.",
+        "de": "Das ist viel Geld."
+      },
+      {
+        "sr": "Hvala ti {mnogo}.",
+        "de": "Ich danke dir sehr."
+      }
+    ]
+  },
+  {
+    "word": "više",
+    "meanings": [
+      "mehr"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Treba mi {više} vremena.",
+        "de": "Ich brauche mehr Zeit."
+      },
+      {
+        "sr": "Stavi {više} sira.",
+        "de": "Gib mehr Käse drauf."
+      }
+    ]
+  },
+  {
+    "word": "sve",
+    "meanings": [
+      "alles"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "{Sve} je sveže.",
+        "de": "Alles ist frisch."
+      },
+      {
+        "sr": "Kupio sam {sve} sa spiska.",
+        "de": "Ich habe alles von der Liste gekauft."
+      }
+    ]
+  },
+  {
+    "word": "ništa",
+    "meanings": [
+      "nichts"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Ne treba mi {ništa}.",
+        "de": "Ich brauche nichts."
+      },
+      {
+        "sr": "{Ništa} nisam kupio.",
+        "de": "Ich habe nichts gekauft."
+      }
+    ]
+  },
+  {
+    "word": "nešto",
+    "meanings": [
+      "etwas"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Tražim {nešto} za njenu mamu.",
+        "de": "Ich suche etwas für ihre Mama."
+      },
+      {
+        "sr": "Hoćeš li {nešto} slatko?",
+        "de": "Möchtest du etwas Süßes?"
+      }
+    ]
+  },
+  {
+    "word": "voće",
+    "meanings": [
+      "Obst"
+    ],
+    "label": "neutrum",
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Kupujem {voće} na pijaci.",
+        "de": "Ich kaufe Obst auf dem Markt."
+      },
+      {
+        "sr": "Hoćeš li malo {voća}?",
+        "de": "Möchtest du etwas Obst?"
+      }
+    ]
+  },
+  {
+    "word": "jabuka",
+    "meanings": [
+      "Apfel"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Ove {jabuke} su slatke.",
+        "de": "Diese Äpfel sind süß."
+      },
+      {
+        "sr": "Baka pravi pitu od {jabuka}.",
+        "de": "Oma macht Apfelstrudel."
+      }
+    ]
+  },
+  {
+    "word": "banana",
+    "meanings": [
+      "Banane"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Deca vole {banane}.",
+        "de": "Kinder mögen Bananen."
+      },
+      {
+        "sr": "Uzmi jednu {bananu} za put.",
+        "de": "Nimm eine Banane für unterwegs mit."
+      }
+    ]
+  },
+  {
+    "word": "povrće",
+    "meanings": [
+      "Gemüse"
+    ],
+    "label": "neutrum",
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Jedem mnogo {povrća}.",
+        "de": "Ich esse viel Gemüse."
+      },
+      {
+        "sr": "Ovo {povrće} je iz bašte.",
+        "de": "Dieses Gemüse ist aus dem Garten."
+      }
+    ]
+  },
+  {
+    "word": "paprika",
+    "meanings": [
+      "Paprika"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Kilo crvenih {paprika}, molim.",
+        "de": "Ein Kilo rote Paprika, bitte."
+      },
+      {
+        "sr": "Od {paprike} se pravi ajvar.",
+        "de": "Aus Paprika macht man Ajvar."
+      }
+    ]
+  },
+  {
+    "word": "cipele",
+    "meanings": [
+      "Schuhe"
+    ],
+    "label": "Plural",
+    "level": 1,
+    "listId": "einkaufen-markt",
+    "sentences": [
+      {
+        "sr": "Trebaju mi nove {cipele}.",
+        "de": "Ich brauche neue Schuhe."
+      },
+      {
+        "sr": "Ostavi {cipele} ispred vrata.",
+        "de": "Lass die Schuhe vor der Tür stehen."
+      }
+    ]
+  },
+  {
+    "word": "biti",
+    "meanings": [
+      "sein"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Hoću da {budem} tu za tebe.",
+        "de": "Ich will für dich da sein."
+      },
+      {
+        "sr": "{Bio} sam u Beogradu tri puta.",
+        "de": "Ich war dreimal in Belgrad."
+      }
+    ]
+  },
+  {
+    "word": "imati",
+    "meanings": [
+      "haben"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "{Imaš} li vremena večeras?",
+        "de": "Hast du heute Abend Zeit?"
+      },
+      {
+        "sr": "{Imali} smo sreće sa vremenom.",
+        "de": "Wir hatten Glück mit dem Wetter."
+      }
+    ]
+  },
+  {
+    "word": "nemati",
+    "meanings": [
+      "nicht haben"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "{Nemam} sitno.",
+        "de": "Ich habe kein Kleingeld."
+      },
+      {
+        "sr": "Oni {nemaju} auto.",
+        "de": "Sie haben kein Auto."
+      }
+    ]
+  },
+  {
+    "word": "hteti",
+    "meanings": [
+      "wollen"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "{Hoću} da naučim srpski.",
+        "de": "Ich will Serbisch lernen."
+      },
+      {
+        "sr": "Šta {hoćeš} za rođendan?",
+        "de": "Was willst du zum Geburtstag?"
+      }
+    ]
+  },
+  {
+    "word": "želeti",
+    "meanings": [
+      "möchten",
+      "wünschen"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "{Želim} da upoznam tvoje roditelje.",
+        "de": "Ich möchte deine Eltern kennenlernen."
+      },
+      {
+        "sr": "Šta {želite} da popijete?",
+        "de": "Was möchten Sie trinken?"
+      }
+    ]
+  },
+  {
+    "word": "moći",
+    "meanings": [
+      "können"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Ne {mogu} da dođem sutra.",
+        "de": "Ich kann morgen nicht kommen."
+      },
+      {
+        "sr": "{Možeš} li da govoriš sporije?",
+        "de": "Kannst du langsamer sprechen?"
+      }
+    ]
+  },
+  {
+    "word": "morati",
+    "meanings": [
+      "müssen"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "{Moram} da idem.",
+        "de": "Ich muss gehen."
+      },
+      {
+        "sr": "{Morali} smo da čekamo sat vremena.",
+        "de": "Wir mussten eine Stunde warten."
+      }
+    ]
+  },
+  {
+    "word": "trebati",
+    "meanings": [
+      "brauchen",
+      "sollen"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "{Treba} da kupimo hleb.",
+        "de": "Wir sollten Brot kaufen."
+      },
+      {
+        "sr": "{Trebalo} je da ti kažem ranije.",
+        "de": "Ich hätte es dir früher sagen sollen."
+      }
+    ]
+  },
+  {
+    "word": "znati",
+    "meanings": [
+      "wissen",
+      "können"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "{Znam} gde je to.",
+        "de": "Ich weiß, wo das ist."
+      },
+      {
+        "sr": "Nisam {znao} da dolaziš.",
+        "de": "Ich wusste nicht, dass du kommst."
+      }
+    ]
+  },
+  {
+    "word": "ići",
+    "meanings": [
+      "gehen"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Gde {ideš}?",
+        "de": "Wohin gehst du?"
+      },
+      {
+        "sr": "Prošle godine smo {išli} na more.",
+        "de": "Letztes Jahr sind wir ans Meer gefahren."
+      }
+    ]
+  },
+  {
+    "word": "raditi",
+    "meanings": [
+      "arbeiten",
+      "machen"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Gde {radiš}?",
+        "de": "Wo arbeitest du?"
+      },
+      {
+        "sr": "Juče sam {radio} do kasno.",
+        "de": "Gestern habe ich bis spät gearbeitet."
+      }
+    ]
+  },
+  {
+    "word": "videti",
+    "meanings": [
+      "sehen"
+    ],
+    "label": "vollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Jesi li {videla} moje ključeve?",
+        "de": "Hast du meine Schlüssel gesehen?"
+      },
+      {
+        "sr": "{Vidim} da si umorna.",
+        "de": "Ich sehe, dass du müde bist."
+      }
+    ]
+  },
+  {
+    "word": "gledati",
+    "meanings": [
+      "schauen",
+      "ansehen"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Šta {gledaš}?",
+        "de": "Was schaust du?"
+      },
+      {
+        "sr": "Sinoć smo {gledali} film.",
+        "de": "Gestern Abend haben wir einen Film angesehen."
+      }
+    ]
+  },
+  {
+    "word": "čuti",
+    "meanings": [
+      "hören"
+    ],
+    "label": "vollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Da li me {čuješ}?",
+        "de": "Hörst du mich?"
+      },
+      {
+        "sr": "{Čuo} sam da dolaziš u Nemačku.",
+        "de": "Ich habe gehört, dass du nach Deutschland kommst."
+      }
+    ]
+  },
+  {
+    "word": "reći",
+    "meanings": [
+      "sagen"
+    ],
+    "label": "vollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Šta si {rekla}?",
+        "de": "Was hast du gesagt?"
+      },
+      {
+        "sr": "Nisam mu ništa {rekao}.",
+        "de": "Ich habe ihm nichts gesagt."
+      }
+    ]
+  },
+  {
+    "word": "govoriti",
+    "meanings": [
+      "sprechen"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "{Govoriš} li engleski?",
+        "de": "Sprichst du Englisch?"
+      },
+      {
+        "sr": "Njena baka {govori} veoma brzo.",
+        "de": "Ihre Oma spricht sehr schnell."
+      }
+    ]
+  },
+  {
+    "word": "pitati",
+    "meanings": [
+      "fragen"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Mogu li nešto da te {pitam}?",
+        "de": "Kann ich dich etwas fragen?"
+      },
+      {
+        "sr": "{Pitao} sam konobara za račun.",
+        "de": "Ich habe den Kellner nach der Rechnung gefragt."
+      }
+    ]
+  },
+  {
+    "word": "misliti",
+    "meanings": [
+      "denken"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Šta {misliš} o tome?",
+        "de": "Was denkst du darüber?"
+      },
+      {
+        "sr": "{Mislio} sam da je danas petak.",
+        "de": "Ich dachte, heute ist Freitag."
+      }
+    ]
+  },
+  {
+    "word": "razumeti",
+    "meanings": [
+      "verstehen"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Da li me {razumeš}?",
+        "de": "Verstehst du mich?"
+      },
+      {
+        "sr": "Nisam {razumeo} poslednju rečenicu.",
+        "de": "Ich habe den letzten Satz nicht verstanden."
+      }
+    ]
+  },
+  {
+    "word": "čekati",
+    "meanings": [
+      "warten"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Koga {čekaš}?",
+        "de": "Auf wen wartest du?"
+      },
+      {
+        "sr": "Dugo smo {čekali} autobus.",
+        "de": "Wir haben lange auf den Bus gewartet."
+      }
+    ]
+  },
+  {
+    "word": "dati",
+    "meanings": [
+      "geben"
+    ],
+    "label": "vollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Možeš li da mi {daš} telefon?",
+        "de": "Kannst du mir das Telefon geben?"
+      },
+      {
+        "sr": "{Dao} sam joj cveće.",
+        "de": "Ich habe ihr Blumen gegeben."
+      }
+    ]
+  },
+  {
+    "word": "pisati",
+    "meanings": [
+      "schreiben"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "{Pišem} poruku tvojoj mami.",
+        "de": "Ich schreibe deiner Mama eine Nachricht."
+      },
+      {
+        "sr": "Kako se to {piše}?",
+        "de": "Wie schreibt man das?"
+      }
+    ]
+  },
+  {
+    "word": "čitati",
+    "meanings": [
+      "lesen"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Šta {čitaš}?",
+        "de": "Was liest du?"
+      },
+      {
+        "sr": "Još ne mogu da {čitam} ćirilicu.",
+        "de": "Ich kann noch kein Kyrillisch lesen."
+      }
+    ]
+  },
+  {
+    "word": "spavati",
+    "meanings": [
+      "schlafen"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Jesi li dobro {spavala}?",
+        "de": "Hast du gut geschlafen?"
+      },
+      {
+        "sr": "Deca već {spavaju}.",
+        "de": "Die Kinder schlafen schon."
+      }
+    ]
+  },
+  {
+    "word": "kuvati",
+    "meanings": [
+      "kochen"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Ko {kuva} danas?",
+        "de": "Wer kocht heute?"
+      },
+      {
+        "sr": "Njena mama je {kuvala} ceo dan.",
+        "de": "Ihre Mama hat den ganzen Tag gekocht."
+      }
+    ]
+  },
+  {
+    "word": "dobar",
+    "meanings": [
+      "gut (Adjektiv)"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "On je {dobar} čovek.",
+        "de": "Er ist ein guter Mensch."
+      },
+      {
+        "sr": "Imam {dobru} vest.",
+        "de": "Ich habe eine gute Nachricht."
+      }
+    ]
+  },
+  {
+    "word": "loš",
+    "meanings": [
+      "schlecht"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Danas je {loše} vreme.",
+        "de": "Heute ist schlechtes Wetter."
+      },
+      {
+        "sr": "To je {loša} ideja.",
+        "de": "Das ist eine schlechte Idee."
+      }
+    ]
+  },
+  {
+    "word": "velik",
+    "meanings": [
+      "groß"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Ovaj stan je {velik}.",
+        "de": "Diese Wohnung ist groß."
+      },
+      {
+        "sr": "Imaju {veliku} baštu.",
+        "de": "Sie haben einen großen Garten."
+      }
+    ]
+  },
+  {
+    "word": "mali",
+    "meanings": [
+      "klein"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Njihov stan je {mali}.",
+        "de": "Ihre Wohnung ist klein."
+      },
+      {
+        "sr": "Imam {malu} molbu.",
+        "de": "Ich habe eine kleine Bitte."
+      }
+    ]
+  },
+  {
+    "word": "nov",
+    "meanings": [
+      "neu"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Kupio sam {nov} auto.",
+        "de": "Ich habe ein neues Auto gekauft."
+      },
+      {
+        "sr": "Imaš {novu} frizuru!",
+        "de": "Du hast eine neue Frisur!"
+      }
+    ]
+  },
+  {
+    "word": "star",
+    "meanings": [
+      "alt"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Ovaj most je veoma {star}.",
+        "de": "Diese Brücke ist sehr alt."
+      },
+      {
+        "sr": "Volim {stare} filmove.",
+        "de": "Ich mag alte Filme."
+      }
+    ]
+  },
+  {
+    "word": "mlad",
+    "meanings": [
+      "jung"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Još si {mlad}.",
+        "de": "Du bist noch jung."
+      },
+      {
+        "sr": "Njena mama je još {mlada}.",
+        "de": "Ihre Mama ist noch jung."
+      }
+    ]
+  },
+  {
+    "word": "lep",
+    "meanings": [
+      "schön"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Ovo je {lep} grad.",
+        "de": "Das ist eine schöne Stadt."
+      },
+      {
+        "sr": "Imaš {lepu} haljinu.",
+        "de": "Du hast ein schönes Kleid."
+      }
+    ]
+  },
+  {
+    "word": "težak",
+    "meanings": [
+      "schwer",
+      "schwierig"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Ispit je bio {težak}.",
+        "de": "Die Prüfung war schwer."
+      },
+      {
+        "sr": "Imao sam {tešku} nedelju.",
+        "de": "Ich hatte eine schwere Woche."
+      }
+    ]
+  },
+  {
+    "word": "topao",
+    "meanings": [
+      "warm"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Hleb je još {topao}.",
+        "de": "Das Brot ist noch warm."
+      },
+      {
+        "sr": "Treba mi {topla} jakna.",
+        "de": "Ich brauche eine warme Jacke."
+      }
+    ]
+  },
+  {
+    "word": "hladan",
+    "meanings": [
+      "kalt"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Vetar je {hladan}.",
+        "de": "Der Wind ist kalt."
+      },
+      {
+        "sr": "Želim {hladnu} vodu.",
+        "de": "Ich möchte kaltes Wasser."
+      }
+    ]
+  },
+  {
+    "word": "sladak",
+    "meanings": [
+      "süß"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Baš si {slatka}.",
+        "de": "Du bist echt süß."
+      },
+      {
+        "sr": "Kolač je previše {sladak}.",
+        "de": "Der Kuchen ist zu süß."
+      }
+    ]
+  },
+  {
+    "word": "ukusan",
+    "meanings": [
+      "lecker"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Ručak je bio {ukusan}.",
+        "de": "Das Mittagessen war lecker."
+      },
+      {
+        "sr": "Kakva {ukusna} torta!",
+        "de": "Was für eine leckere Torte!"
+      }
+    ]
+  },
+  {
+    "word": "dobro sam",
+    "meanings": [
+      "mir geht es gut"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "{Dobro sam}, hvala na pitanju.",
+        "de": "Mir geht es gut, danke der Nachfrage."
+      },
+      {
+        "sr": "Ne brini, {dobro sam}.",
+        "de": "Mach dir keine Sorgen, mir geht es gut."
+      }
+    ]
+  },
+  {
+    "word": "sve je u redu",
+    "meanings": [
+      "alles ist in Ordnung"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "{Sve je u redu}, ne brini.",
+        "de": "Alles ist in Ordnung, mach dir keine Sorgen."
+      },
+      {
+        "sr": "Hvala, {sve je u redu}.",
+        "de": "Danke, alles ist in Ordnung."
+      }
+    ]
+  },
+  {
+    "word": "umoran",
+    "meanings": [
+      "müde"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "{Umoran} sam posle puta.",
+        "de": "Ich bin müde nach der Reise."
+      },
+      {
+        "sr": "Jesi li {umorna}?",
+        "de": "Bist du müde?"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1640 @@
+[
+  {
+    "word": "biti",
+    "meanings": [
+      "sein"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Hoću da {budem} tu za tebe.",
+        "de": "Ich will für dich da sein."
+      },
+      {
+        "sr": "{Bio} sam u Beogradu tri puta.",
+        "de": "Ich war dreimal in Belgrad."
+      }
+    ]
+  },
+  {
+    "word": "imati",
+    "meanings": [
+      "haben"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "{Imaš} li vremena večeras?",
+        "de": "Hast du heute Abend Zeit?"
+      },
+      {
+        "sr": "{Imali} smo sreće sa vremenom.",
+        "de": "Wir hatten Glück mit dem Wetter."
+      }
+    ]
+  },
+  {
+    "word": "nemati",
+    "meanings": [
+      "nicht haben"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "{Nemam} sitno.",
+        "de": "Ich habe kein Kleingeld."
+      },
+      {
+        "sr": "Oni {nemaju} auto.",
+        "de": "Sie haben kein Auto."
+      }
+    ]
+  },
+  {
+    "word": "hteti",
+    "meanings": [
+      "wollen"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "{Hoću} da naučim srpski.",
+        "de": "Ich will Serbisch lernen."
+      },
+      {
+        "sr": "Šta {hoćeš} za rođendan?",
+        "de": "Was willst du zum Geburtstag?"
+      }
+    ]
+  },
+  {
+    "word": "želeti",
+    "meanings": [
+      "möchten",
+      "wünschen"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "{Želim} da upoznam tvoje roditelje.",
+        "de": "Ich möchte deine Eltern kennenlernen."
+      },
+      {
+        "sr": "Šta {želite} da popijete?",
+        "de": "Was möchten Sie trinken?"
+      }
+    ]
+  },
+  {
+    "word": "moći",
+    "meanings": [
+      "können"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Ne {mogu} da dođem sutra.",
+        "de": "Ich kann morgen nicht kommen."
+      },
+      {
+        "sr": "{Možeš} li da govoriš sporije?",
+        "de": "Kannst du langsamer sprechen?"
+      }
+    ]
+  },
+  {
+    "word": "morati",
+    "meanings": [
+      "müssen"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "{Moram} da idem.",
+        "de": "Ich muss gehen."
+      },
+      {
+        "sr": "{Morali} smo da čekamo sat vremena.",
+        "de": "Wir mussten eine Stunde warten."
+      }
+    ]
+  },
+  {
+    "word": "trebati",
+    "meanings": [
+      "brauchen",
+      "sollen"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "{Treba} da kupimo hleb.",
+        "de": "Wir sollten Brot kaufen."
+      },
+      {
+        "sr": "{Trebalo} je da ti kažem ranije.",
+        "de": "Ich hätte es dir früher sagen sollen."
+      }
+    ]
+  },
+  {
+    "word": "smeti",
+    "meanings": [
+      "dürfen"
+    ],
+    "label": "unvollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "{Smem} li da pitam nešto?",
+        "de": "Darf ich etwas fragen?"
+      },
+      {
+        "sr": "Ovde se ne {sme} pušiti.",
+        "de": "Hier darf man nicht rauchen."
+      }
+    ]
+  },
+  {
+    "word": "znati",
+    "meanings": [
+      "wissen",
+      "können"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "{Znam} gde je to.",
+        "de": "Ich weiß, wo das ist."
+      },
+      {
+        "sr": "Nisam {znao} da dolaziš.",
+        "de": "Ich wusste nicht, dass du kommst."
+      }
+    ]
+  },
+  {
+    "word": "ići",
+    "meanings": [
+      "gehen"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Gde {ideš}?",
+        "de": "Wohin gehst du?"
+      },
+      {
+        "sr": "Prošle godine smo {išli} na more.",
+        "de": "Letztes Jahr sind wir ans Meer gefahren."
+      }
+    ]
+  },
+  {
+    "word": "otići",
+    "meanings": [
+      "weggehen",
+      "hingehen"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Moram da {odem} do banke.",
+        "de": "Ich muss zur Bank gehen."
+      },
+      {
+        "sr": "Već su {otišli} kući.",
+        "de": "Sie sind schon nach Hause gegangen."
+      }
+    ]
+  },
+  {
+    "word": "dolaziti",
+    "meanings": [
+      "kommen (wiederholt)"
+    ],
+    "label": "unvollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Njeni roditelji često {dolaze} kod nas.",
+        "de": "Ihre Eltern kommen oft zu uns."
+      },
+      {
+        "sr": "{Dolazim} za deset minuta.",
+        "de": "Ich komme in zehn Minuten."
+      }
+    ]
+  },
+  {
+    "word": "vratiti se",
+    "meanings": [
+      "zurückkommen"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "{Vratiću} se za sat vremena.",
+        "de": "Ich komme in einer Stunde zurück."
+      },
+      {
+        "sr": "Kada ste se {vratili} iz Srbije?",
+        "de": "Wann seid ihr aus Serbien zurückgekommen?"
+      }
+    ]
+  },
+  {
+    "word": "raditi",
+    "meanings": [
+      "arbeiten",
+      "machen"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Gde {radiš}?",
+        "de": "Wo arbeitest du?"
+      },
+      {
+        "sr": "Juče sam {radio} do kasno.",
+        "de": "Gestern habe ich bis spät gearbeitet."
+      }
+    ]
+  },
+  {
+    "word": "uraditi",
+    "meanings": [
+      "erledigen",
+      "tun"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Šta mogu da {uradim} za tebe?",
+        "de": "Was kann ich für dich tun?"
+      },
+      {
+        "sr": "Sve sam {uradio} kako smo se dogovorili.",
+        "de": "Ich habe alles erledigt, wie wir es abgemacht hatten."
+      }
+    ]
+  },
+  {
+    "word": "napraviti",
+    "meanings": [
+      "machen",
+      "herstellen"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "{Napraviću} ti kafu.",
+        "de": "Ich mache dir einen Kaffee."
+      },
+      {
+        "sr": "Ko je {napravio} ovu tortu?",
+        "de": "Wer hat diese Torte gemacht?"
+      }
+    ]
+  },
+  {
+    "word": "videti",
+    "meanings": [
+      "sehen"
+    ],
+    "label": "vollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Jesi li {videla} moje ključeve?",
+        "de": "Hast du meine Schlüssel gesehen?"
+      },
+      {
+        "sr": "{Vidim} da si umorna.",
+        "de": "Ich sehe, dass du müde bist."
+      }
+    ]
+  },
+  {
+    "word": "gledati",
+    "meanings": [
+      "schauen",
+      "ansehen"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Šta {gledaš}?",
+        "de": "Was schaust du?"
+      },
+      {
+        "sr": "Sinoć smo {gledali} film.",
+        "de": "Gestern Abend haben wir einen Film angesehen."
+      }
+    ]
+  },
+  {
+    "word": "čuti",
+    "meanings": [
+      "hören"
+    ],
+    "label": "vollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Da li me {čuješ}?",
+        "de": "Hörst du mich?"
+      },
+      {
+        "sr": "{Čuo} sam da dolaziš u Nemačku.",
+        "de": "Ich habe gehört, dass du nach Deutschland kommst."
+      }
+    ]
+  },
+  {
+    "word": "slušati",
+    "meanings": [
+      "zuhören",
+      "anhören"
+    ],
+    "label": "unvollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "{Slušam} srpsku muziku svaki dan.",
+        "de": "Ich höre jeden Tag serbische Musik."
+      },
+      {
+        "sr": "Izvini, nisam {slušao}.",
+        "de": "Entschuldige, ich habe nicht zugehört."
+      }
+    ]
+  },
+  {
+    "word": "reći",
+    "meanings": [
+      "sagen"
+    ],
+    "label": "vollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Šta si {rekla}?",
+        "de": "Was hast du gesagt?"
+      },
+      {
+        "sr": "Nisam mu ništa {rekao}.",
+        "de": "Ich habe ihm nichts gesagt."
+      }
+    ]
+  },
+  {
+    "word": "govoriti",
+    "meanings": [
+      "sprechen"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "{Govoriš} li engleski?",
+        "de": "Sprichst du Englisch?"
+      },
+      {
+        "sr": "Njena baka {govori} veoma brzo.",
+        "de": "Ihre Oma spricht sehr schnell."
+      }
+    ]
+  },
+  {
+    "word": "pitati",
+    "meanings": [
+      "fragen"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Mogu li nešto da te {pitam}?",
+        "de": "Kann ich dich etwas fragen?"
+      },
+      {
+        "sr": "{Pitao} sam konobara za račun.",
+        "de": "Ich habe den Kellner nach der Rechnung gefragt."
+      }
+    ]
+  },
+  {
+    "word": "odgovoriti",
+    "meanings": [
+      "antworten"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Nije mi {odgovorila} na poruku.",
+        "de": "Sie hat mir nicht auf die Nachricht geantwortet."
+      },
+      {
+        "sr": "{Odgovoriću} ti sutra.",
+        "de": "Ich antworte dir morgen."
+      }
+    ]
+  },
+  {
+    "word": "misliti",
+    "meanings": [
+      "denken"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Šta {misliš} o tome?",
+        "de": "Was denkst du darüber?"
+      },
+      {
+        "sr": "{Mislio} sam da je danas petak.",
+        "de": "Ich dachte, heute ist Freitag."
+      }
+    ]
+  },
+  {
+    "word": "razumeti",
+    "meanings": [
+      "verstehen"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Da li me {razumeš}?",
+        "de": "Verstehst du mich?"
+      },
+      {
+        "sr": "Nisam {razumeo} poslednju rečenicu.",
+        "de": "Ich habe den letzten Satz nicht verstanden."
+      }
+    ]
+  },
+  {
+    "word": "značiti",
+    "meanings": [
+      "bedeuten"
+    ],
+    "label": "unvollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Šta {znači} ova reč?",
+        "de": "Was bedeutet dieses Wort?"
+      },
+      {
+        "sr": "To mi mnogo {znači}.",
+        "de": "Das bedeutet mir viel."
+      }
+    ]
+  },
+  {
+    "word": "prevesti",
+    "meanings": [
+      "übersetzen"
+    ],
+    "label": "vollendet",
+    "level": 3,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Možeš li da mi {prevedeš} ovo?",
+        "de": "Kannst du mir das übersetzen?"
+      },
+      {
+        "sr": "{Preveo} sam poruku za tvoju mamu.",
+        "de": "Ich habe die Nachricht für deine Mama übersetzt."
+      }
+    ]
+  },
+  {
+    "word": "objasniti",
+    "meanings": [
+      "erklären"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Možeš li da mi {objasniš} ovo?",
+        "de": "Kannst du mir das erklären?"
+      },
+      {
+        "sr": "Lepo si mi {objasnila}.",
+        "de": "Du hast es mir gut erklärt."
+      }
+    ]
+  },
+  {
+    "word": "ponoviti",
+    "meanings": [
+      "wiederholen"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Možete li da {ponovite}?",
+        "de": "Können Sie das wiederholen?"
+      },
+      {
+        "sr": "{Ponovio} sam reč tri puta.",
+        "de": "Ich habe das Wort dreimal wiederholt."
+      }
+    ]
+  },
+  {
+    "word": "verovati",
+    "meanings": [
+      "glauben"
+    ],
+    "label": "unvollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "{Verujem} ti.",
+        "de": "Ich glaube dir."
+      },
+      {
+        "sr": "Ne mogu da {verujem}!",
+        "de": "Ich kann es nicht glauben!"
+      }
+    ]
+  },
+  {
+    "word": "nadati se",
+    "meanings": [
+      "hoffen"
+    ],
+    "label": "unvollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "{Nadam} se da ćeš doći.",
+        "de": "Ich hoffe, dass du kommst."
+      },
+      {
+        "sr": "{Nadali} smo se lepom vremenu.",
+        "de": "Wir haben auf schönes Wetter gehofft."
+      }
+    ]
+  },
+  {
+    "word": "čekati",
+    "meanings": [
+      "warten"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Koga {čekaš}?",
+        "de": "Auf wen wartest du?"
+      },
+      {
+        "sr": "Dugo smo {čekali} autobus.",
+        "de": "Wir haben lange auf den Bus gewartet."
+      }
+    ]
+  },
+  {
+    "word": "zvati",
+    "meanings": [
+      "rufen",
+      "anrufen"
+    ],
+    "label": "unvollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Mama te {zove}.",
+        "de": "Mama ruft dich."
+      },
+      {
+        "sr": "{Zvao} sam te, ali se nisi javila.",
+        "de": "Ich habe dich angerufen, aber du hast nicht abgenommen."
+      }
+    ]
+  },
+  {
+    "word": "sresti",
+    "meanings": [
+      "treffen"
+    ],
+    "label": "vollendet",
+    "level": 3,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "{Sreo} sam tvog brata u gradu.",
+        "de": "Ich habe deinen Bruder in der Stadt getroffen."
+      },
+      {
+        "sr": "Možda ćemo se {sresti} sutra.",
+        "de": "Vielleicht treffen wir uns morgen."
+      }
+    ]
+  },
+  {
+    "word": "poznavati",
+    "meanings": [
+      "kennen"
+    ],
+    "label": "unvollendet",
+    "level": 3,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Da li {poznaješ} njenog brata?",
+        "de": "Kennst du ihren Bruder?"
+      },
+      {
+        "sr": "{Poznajem} ovaj grad dobro.",
+        "de": "Ich kenne diese Stadt gut."
+      }
+    ]
+  },
+  {
+    "word": "dati",
+    "meanings": [
+      "geben"
+    ],
+    "label": "vollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Možeš li da mi {daš} telefon?",
+        "de": "Kannst du mir das Telefon geben?"
+      },
+      {
+        "sr": "{Dao} sam joj cveće.",
+        "de": "Ich habe ihr Blumen gegeben."
+      }
+    ]
+  },
+  {
+    "word": "dobiti",
+    "meanings": [
+      "bekommen"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "{Dobio} sam tvoju poruku.",
+        "de": "Ich habe deine Nachricht bekommen."
+      },
+      {
+        "sr": "Kada ću {dobiti} odgovor?",
+        "de": "Wann bekomme ich eine Antwort?"
+      }
+    ]
+  },
+  {
+    "word": "poslati",
+    "meanings": [
+      "schicken"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "{Pošalji} mi adresu.",
+        "de": "Schick mir die Adresse."
+      },
+      {
+        "sr": "{Poslao} sam ti slike.",
+        "de": "Ich habe dir die Fotos geschickt."
+      }
+    ]
+  },
+  {
+    "word": "pisati",
+    "meanings": [
+      "schreiben"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "{Pišem} poruku tvojoj mami.",
+        "de": "Ich schreibe deiner Mama eine Nachricht."
+      },
+      {
+        "sr": "Kako se to {piše}?",
+        "de": "Wie schreibt man das?"
+      }
+    ]
+  },
+  {
+    "word": "čitati",
+    "meanings": [
+      "lesen"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Šta {čitaš}?",
+        "de": "Was liest du?"
+      },
+      {
+        "sr": "Još ne mogu da {čitam} ćirilicu.",
+        "de": "Ich kann noch kein Kyrillisch lesen."
+      }
+    ]
+  },
+  {
+    "word": "pokazati",
+    "meanings": [
+      "zeigen"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Možete li da mi {pokažete} na mapi?",
+        "de": "Können Sie es mir auf der Karte zeigen?"
+      },
+      {
+        "sr": "{Pokazala} mi je svoj grad.",
+        "de": "Sie hat mir ihre Stadt gezeigt."
+      }
+    ]
+  },
+  {
+    "word": "otvoriti",
+    "meanings": [
+      "öffnen"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Možeš li da {otvoriš} vrata?",
+        "de": "Kannst du die Tür öffnen?"
+      },
+      {
+        "sr": "{Otvorio} sam flašu vina.",
+        "de": "Ich habe eine Flasche Wein geöffnet."
+      }
+    ]
+  },
+  {
+    "word": "zatvoriti",
+    "meanings": [
+      "schließen"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "{Zatvori} prozor, hladno je.",
+        "de": "Mach das Fenster zu, es ist kalt."
+      },
+      {
+        "sr": "Prodavnicu su {zatvorili} u osam.",
+        "de": "Sie haben den Laden um acht geschlossen."
+      }
+    ]
+  },
+  {
+    "word": "početi",
+    "meanings": [
+      "anfangen",
+      "beginnen"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Kada ćeš {početi}?",
+        "de": "Wann fängst du an?"
+      },
+      {
+        "sr": "{Počeo} sam da učim srpski.",
+        "de": "Ich habe angefangen, Serbisch zu lernen."
+      }
+    ]
+  },
+  {
+    "word": "završiti",
+    "meanings": [
+      "beenden",
+      "fertig machen"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "{Završio} sam posao za danas.",
+        "de": "Ich bin für heute mit der Arbeit fertig."
+      },
+      {
+        "sr": "Moram da {završim} ovo do sutra.",
+        "de": "Ich muss das bis morgen fertig machen."
+      }
+    ]
+  },
+  {
+    "word": "prestati",
+    "meanings": [
+      "aufhören"
+    ],
+    "label": "vollendet",
+    "level": 3,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Kiša je {prestala}.",
+        "de": "Der Regen hat aufgehört."
+      },
+      {
+        "sr": "{Prestani} da brineš.",
+        "de": "Hör auf, dir Sorgen zu machen."
+      }
+    ]
+  },
+  {
+    "word": "nastaviti",
+    "meanings": [
+      "weitermachen",
+      "fortsetzen"
+    ],
+    "label": "vollendet",
+    "level": 3,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Možemo da {nastavimo} sutra.",
+        "de": "Wir können morgen weitermachen."
+      },
+      {
+        "sr": "{Nastavili} smo put posle kafe.",
+        "de": "Nach dem Kaffee haben wir die Fahrt fortgesetzt."
+      }
+    ]
+  },
+  {
+    "word": "pokušati",
+    "meanings": [
+      "versuchen"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "{Pokušaću} da dođem.",
+        "de": "Ich werde versuchen zu kommen."
+      },
+      {
+        "sr": "{Pokušao} sam da te zovem.",
+        "de": "Ich habe versucht, dich anzurufen."
+      }
+    ]
+  },
+  {
+    "word": "uspeti",
+    "meanings": [
+      "schaffen",
+      "gelingen"
+    ],
+    "label": "vollendet",
+    "level": 3,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "{Uspeo} sam da rezervišem sto.",
+        "de": "Ich habe es geschafft, einen Tisch zu reservieren."
+      },
+      {
+        "sr": "Nadam se da ćemo {uspeti}.",
+        "de": "Ich hoffe, dass wir es schaffen."
+      }
+    ]
+  },
+  {
+    "word": "odlučiti",
+    "meanings": [
+      "entscheiden"
+    ],
+    "label": "vollendet",
+    "level": 3,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Još nismo {odlučili} gde idemo.",
+        "de": "Wir haben noch nicht entschieden, wohin wir fahren."
+      },
+      {
+        "sr": "Moraš sama da {odlučiš}.",
+        "de": "Das musst du selbst entscheiden."
+      }
+    ]
+  },
+  {
+    "word": "izabrati",
+    "meanings": [
+      "auswählen"
+    ],
+    "label": "vollendet",
+    "level": 3,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Ne mogu da {izaberem}.",
+        "de": "Ich kann mich nicht entscheiden."
+      },
+      {
+        "sr": "{Izabrali} smo lep poklon.",
+        "de": "Wir haben ein schönes Geschenk ausgewählt."
+      }
+    ]
+  },
+  {
+    "word": "promeniti",
+    "meanings": [
+      "ändern",
+      "wechseln"
+    ],
+    "label": "vollendet",
+    "level": 3,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Moram da {promenim} kartu.",
+        "de": "Ich muss die Fahrkarte ändern."
+      },
+      {
+        "sr": "Plan se {promenio}.",
+        "de": "Der Plan hat sich geändert."
+      }
+    ]
+  },
+  {
+    "word": "koristiti",
+    "meanings": [
+      "benutzen"
+    ],
+    "label": "unvollendet",
+    "level": 3,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "{Koristim} aplikaciju za učenje srpskog.",
+        "de": "Ich benutze eine App zum Serbischlernen."
+      },
+      {
+        "sr": "Mogu li da {koristim} tvoj telefon?",
+        "de": "Kann ich dein Telefon benutzen?"
+      }
+    ]
+  },
+  {
+    "word": "trajati",
+    "meanings": [
+      "dauern"
+    ],
+    "label": "unvollendet",
+    "level": 3,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Koliko {traje} film?",
+        "de": "Wie lange dauert der Film?"
+      },
+      {
+        "sr": "Put je {trajao} osam sati.",
+        "de": "Die Fahrt hat acht Stunden gedauert."
+      }
+    ]
+  },
+  {
+    "word": "desiti se",
+    "meanings": [
+      "passieren",
+      "geschehen"
+    ],
+    "label": "vollendet",
+    "level": 3,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Šta se {desilo}?",
+        "de": "Was ist passiert?"
+      },
+      {
+        "sr": "To može da se {desi} svakome.",
+        "de": "Das kann jedem passieren."
+      }
+    ]
+  },
+  {
+    "word": "spavati",
+    "meanings": [
+      "schlafen"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Jesi li dobro {spavala}?",
+        "de": "Hast du gut geschlafen?"
+      },
+      {
+        "sr": "Deca već {spavaju}.",
+        "de": "Die Kinder schlafen schon."
+      }
+    ]
+  },
+  {
+    "word": "probuditi se",
+    "meanings": [
+      "aufwachen"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "{Probudio} sam se pre tebe.",
+        "de": "Ich bin vor dir aufgewacht."
+      },
+      {
+        "sr": "Kada se {probudiš}, javi mi se.",
+        "de": "Wenn du aufwachst, melde dich bei mir."
+      }
+    ]
+  },
+  {
+    "word": "ustati",
+    "meanings": [
+      "aufstehen"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Sutra moram rano da {ustanem}.",
+        "de": "Morgen muss ich früh aufstehen."
+      },
+      {
+        "sr": "{Ustao} sam u šest.",
+        "de": "Ich bin um sechs aufgestanden."
+      }
+    ]
+  },
+  {
+    "word": "sesti",
+    "meanings": [
+      "sich setzen"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "{Sedi} ovde, ima mesta.",
+        "de": "Setz dich hierher, es ist Platz."
+      },
+      {
+        "sr": "{Seli} smo za sto pored prozora.",
+        "de": "Wir haben uns an den Tisch am Fenster gesetzt."
+      }
+    ]
+  },
+  {
+    "word": "sedeti",
+    "meanings": [
+      "sitzen"
+    ],
+    "label": "unvollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "{Sedimo} u bašti i pijemo kafu.",
+        "de": "Wir sitzen im Garten und trinken Kaffee."
+      },
+      {
+        "sr": "Ceo dan sam {sedeo} u kancelariji.",
+        "de": "Ich habe den ganzen Tag im Büro gesessen."
+      }
+    ]
+  },
+  {
+    "word": "stajati",
+    "meanings": [
+      "stehen"
+    ],
+    "label": "unvollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Zašto {stojiš}? Sedi.",
+        "de": "Warum stehst du? Setz dich."
+      },
+      {
+        "sr": "{Stajali} smo u redu pola sata.",
+        "de": "Wir haben eine halbe Stunde in der Schlange gestanden."
+      }
+    ]
+  },
+  {
+    "word": "stati",
+    "meanings": [
+      "anhalten",
+      "stehen bleiben"
+    ],
+    "label": "vollendet",
+    "level": 3,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Možeš li da {staneš} kod pekare?",
+        "de": "Kannst du bei der Bäckerei anhalten?"
+      },
+      {
+        "sr": "Autobus je {stao} na stanici.",
+        "de": "Der Bus hat an der Haltestelle angehalten."
+      }
+    ]
+  },
+  {
+    "word": "odmarati se",
+    "meanings": [
+      "sich ausruhen"
+    ],
+    "label": "unvollendet",
+    "level": 3,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Vikendom se {odmaram}.",
+        "de": "Am Wochenende ruhe ich mich aus."
+      },
+      {
+        "sr": "{Odmarali} smo se na terasi.",
+        "de": "Wir haben uns auf der Terrasse ausgeruht."
+      }
+    ]
+  },
+  {
+    "word": "kuvati",
+    "meanings": [
+      "kochen"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Ko {kuva} danas?",
+        "de": "Wer kocht heute?"
+      },
+      {
+        "sr": "Njena mama je {kuvala} ceo dan.",
+        "de": "Ihre Mama hat den ganzen Tag gekocht."
+      }
+    ]
+  },
+  {
+    "word": "prati",
+    "meanings": [
+      "waschen"
+    ],
+    "label": "unvollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "{Perem} sudove posle večere.",
+        "de": "Ich wasche nach dem Abendessen das Geschirr ab."
+      },
+      {
+        "sr": "{Prao} sam auto jutros.",
+        "de": "Ich habe heute Morgen das Auto gewaschen."
+      }
+    ]
+  },
+  {
+    "word": "čistiti",
+    "meanings": [
+      "putzen",
+      "sauber machen"
+    ],
+    "label": "unvollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Subotom {čistimo} stan.",
+        "de": "Samstags putzen wir die Wohnung."
+      },
+      {
+        "sr": "{Čistio} sam ceo dan pre njihove posete.",
+        "de": "Vor ihrem Besuch habe ich den ganzen Tag geputzt."
+      }
+    ]
+  },
+  {
+    "word": "obući",
+    "meanings": [
+      "anziehen"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Šta da {obučem} za svadbu?",
+        "de": "Was soll ich zur Hochzeit anziehen?"
+      },
+      {
+        "sr": "{Obukla} je novu haljinu.",
+        "de": "Sie hat ein neues Kleid angezogen."
+      }
+    ]
+  },
+  {
+    "word": "skinuti",
+    "meanings": [
+      "ausziehen",
+      "abnehmen"
+    ],
+    "label": "vollendet",
+    "level": 3,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "{Skini} jaknu, toplo je.",
+        "de": "Zieh die Jacke aus, es ist warm."
+      },
+      {
+        "sr": "{Skinuo} sam cipele na ulazu.",
+        "de": "Ich habe am Eingang die Schuhe ausgezogen."
+      }
+    ]
+  },
+  {
+    "word": "nositi",
+    "meanings": [
+      "tragen"
+    ],
+    "label": "unvollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Ona uvek {nosi} naočare.",
+        "de": "Sie trägt immer eine Brille."
+      },
+      {
+        "sr": "{Nosim} poklon za tvoju baku.",
+        "de": "Ich bringe ein Geschenk für deine Oma mit."
+      }
+    ]
+  },
+  {
+    "word": "staviti",
+    "meanings": [
+      "legen",
+      "stellen"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Gde da {stavim} torbu?",
+        "de": "Wo soll ich die Tasche hinstellen?"
+      },
+      {
+        "sr": "{Stavio} sam ključeve na sto.",
+        "de": "Ich habe die Schlüssel auf den Tisch gelegt."
+      }
+    ]
+  },
+  {
+    "word": "ostaviti",
+    "meanings": [
+      "lassen",
+      "liegen lassen"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "{Ostavi} to, ja ću.",
+        "de": "Lass das, ich mache es."
+      },
+      {
+        "sr": "{Ostavio} sam telefon kod kuće.",
+        "de": "Ich habe das Telefon zu Hause liegen lassen."
+      }
+    ]
+  },
+  {
+    "word": "naći",
+    "meanings": [
+      "finden"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Ne mogu da {nađem} naočare.",
+        "de": "Ich kann meine Brille nicht finden."
+      },
+      {
+        "sr": "{Našao} sam dobar restoran.",
+        "de": "Ich habe ein gutes Restaurant gefunden."
+      }
+    ]
+  },
+  {
+    "word": "izgubiti",
+    "meanings": [
+      "verlieren"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "{Izgubio} sam novčanik.",
+        "de": "Ich habe meinen Geldbeutel verloren."
+      },
+      {
+        "sr": "Pazi da ne {izgubiš} kartu.",
+        "de": "Pass auf, dass du die Fahrkarte nicht verlierst."
+      }
+    ]
+  },
+  {
+    "word": "zaboraviti",
+    "meanings": [
+      "vergessen"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Nemoj da {zaboraviš} pasoš.",
+        "de": "Vergiss den Reisepass nicht."
+      },
+      {
+        "sr": "{Zaboravio} sam lozinku.",
+        "de": "Ich habe das Passwort vergessen."
+      }
+    ]
+  },
+  {
+    "word": "setiti se",
+    "meanings": [
+      "sich erinnern"
+    ],
+    "label": "vollendet",
+    "level": 3,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Ne mogu da se {setim} te reči.",
+        "de": "Ich kann mich nicht an das Wort erinnern."
+      },
+      {
+        "sr": "{Setio} sam se tebe kad sam to video.",
+        "de": "Ich habe an dich gedacht, als ich das gesehen habe."
+      }
+    ]
+  },
+  {
+    "word": "smejati se",
+    "meanings": [
+      "lachen"
+    ],
+    "label": "unvollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Uvek se {smejemo} zajedno.",
+        "de": "Wir lachen immer zusammen."
+      },
+      {
+        "sr": "Svi su se {smejali} njegovoj šali.",
+        "de": "Alle haben über seinen Witz gelacht."
+      }
+    ]
+  },
+  {
+    "word": "plakati",
+    "meanings": [
+      "weinen"
+    ],
+    "label": "unvollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Nemoj da {plačeš}.",
+        "de": "Wein nicht."
+      },
+      {
+        "sr": "Beba je {plakala} celu noć.",
+        "de": "Das Baby hat die ganze Nacht geweint."
+      }
+    ]
+  },
+  {
+    "word": "boleti",
+    "meanings": [
+      "wehtun"
+    ],
+    "label": "unvollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "{Boli} me glava.",
+        "de": "Mir tut der Kopf weh."
+      },
+      {
+        "sr": "Juče me je {boleo} stomak.",
+        "de": "Gestern hat mir der Bauch wehgetan."
+      }
+    ]
+  },
+  {
+    "word": "žuriti",
+    "meanings": [
+      "es eilig haben",
+      "sich beeilen"
+    ],
+    "label": "unvollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Izvini, {žurim}.",
+        "de": "Entschuldige, ich habe es eilig."
+      },
+      {
+        "sr": "Ne moraš da {žuriš}, imamo vremena.",
+        "de": "Du musst dich nicht beeilen, wir haben Zeit."
+      }
+    ]
+  },
+  {
+    "word": "trčati",
+    "meanings": [
+      "laufen",
+      "rennen"
+    ],
+    "label": "unvollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Svako jutro {trčim} pored reke.",
+        "de": "Jeden Morgen laufe ich am Fluss."
+      },
+      {
+        "sr": "Deca {trče} po dvorištu.",
+        "de": "Die Kinder rennen im Hof herum."
+      }
+    ]
+  },
+  {
+    "word": "šetati",
+    "meanings": [
+      "spazieren gehen"
+    ],
+    "label": "unvollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Volimo da {šetamo} uveče.",
+        "de": "Wir gehen abends gern spazieren."
+      },
+      {
+        "sr": "{Šetali} smo po Kalemegdanu.",
+        "de": "Wir sind auf dem Kalemegdan spazieren gegangen."
+      }
+    ]
+  },
+  {
+    "word": "plivati",
+    "meanings": [
+      "schwimmen"
+    ],
+    "label": "unvollendet",
+    "level": 2,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "Znaš li da {plivaš}?",
+        "de": "Kannst du schwimmen?"
+      },
+      {
+        "sr": "Leti {plivamo} u moru.",
+        "de": "Im Sommer schwimmen wir im Meer."
+      }
+    ]
+  },
+  {
+    "word": "roditi se",
+    "meanings": [
+      "geboren werden"
+    ],
+    "label": "vollendet",
+    "level": 3,
+    "listId": "haeufigste-verben",
+    "sentences": [
+      {
+        "sr": "{Rodio} sam se u Nemačkoj.",
+        "de": "Ich bin in Deutschland geboren."
+      },
+      {
+        "sr": "Gde si se {rodila}?",
+        "de": "Wo bist du geboren?"
+      }
+    ]
+  }
+]

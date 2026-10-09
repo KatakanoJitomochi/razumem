@@ -1,0 +1,1671 @@
+[
+  {
+    "word": "broj",
+    "meanings": [
+      "Nummer",
+      "Zahl"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Koji je tvoj {broj} telefona?",
+        "de": "Wie ist deine Telefonnummer?"
+      },
+      {
+        "sr": "Zapisao sam pogrešan {broj}.",
+        "de": "Ich habe die falsche Nummer aufgeschrieben."
+      }
+    ]
+  },
+  {
+    "word": "koliko",
+    "meanings": [
+      "wie viel",
+      "wie viele"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Koliko} to košta?",
+        "de": "Wie viel kostet das?"
+      },
+      {
+        "sr": "{Koliko} vas dolazi na večeru?",
+        "de": "Wie viele von euch kommen zum Abendessen?"
+      }
+    ]
+  },
+  {
+    "word": "jedan",
+    "meanings": [
+      "eins",
+      "ein"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Imam samo {jedan} dan odmora.",
+        "de": "Ich habe nur einen Tag Urlaub."
+      },
+      {
+        "sr": "Daj mi {jednu} kafu, molim te.",
+        "de": "Gib mir bitte einen Kaffee."
+      }
+    ]
+  },
+  {
+    "word": "dva",
+    "meanings": [
+      "zwei"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Imam {dva} brata.",
+        "de": "Ich habe zwei Brüder."
+      },
+      {
+        "sr": "Čekamo već {dve} nedelje.",
+        "de": "Wir warten schon zwei Wochen."
+      }
+    ]
+  },
+  {
+    "word": "tri",
+    "meanings": [
+      "drei"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Ona ima {tri} sestre.",
+        "de": "Sie hat drei Schwestern."
+      },
+      {
+        "sr": "Vidimo se u {tri}.",
+        "de": "Wir sehen uns um drei."
+      }
+    ]
+  },
+  {
+    "word": "četiri",
+    "meanings": [
+      "vier"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Sto za {četiri} osobe, molim.",
+        "de": "Einen Tisch für vier Personen, bitte."
+      },
+      {
+        "sr": "Radim do {četiri}.",
+        "de": "Ich arbeite bis vier."
+      }
+    ]
+  },
+  {
+    "word": "pet",
+    "meanings": [
+      "fünf"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Ostajemo {pet} dana.",
+        "de": "Wir bleiben fünf Tage."
+      },
+      {
+        "sr": "Sada je {pet} sati.",
+        "de": "Es ist jetzt fünf Uhr."
+      }
+    ]
+  },
+  {
+    "word": "šest",
+    "meanings": [
+      "sechs"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Ustajem u {šest}.",
+        "de": "Ich stehe um sechs auf."
+      },
+      {
+        "sr": "Njena baka ima {šest} unuka.",
+        "de": "Ihre Oma hat sechs Enkel."
+      }
+    ]
+  },
+  {
+    "word": "sedam",
+    "meanings": [
+      "sieben"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Večera je u {sedam}.",
+        "de": "Das Abendessen ist um sieben."
+      },
+      {
+        "sr": "Nedelja ima {sedam} dana.",
+        "de": "Die Woche hat sieben Tage."
+      }
+    ]
+  },
+  {
+    "word": "osam",
+    "meanings": [
+      "acht"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Voz polazi u {osam}.",
+        "de": "Der Zug fährt um acht ab."
+      },
+      {
+        "sr": "Spavao sam {osam} sati.",
+        "de": "Ich habe acht Stunden geschlafen."
+      }
+    ]
+  },
+  {
+    "word": "devet",
+    "meanings": [
+      "neun"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Prodavnica radi do {devet}.",
+        "de": "Der Laden hat bis neun geöffnet."
+      },
+      {
+        "sr": "Deca idu na spavanje u {devet}.",
+        "de": "Die Kinder gehen um neun schlafen."
+      }
+    ]
+  },
+  {
+    "word": "deset",
+    "meanings": [
+      "zehn"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Vratiću se za {deset} minuta.",
+        "de": "Ich bin in zehn Minuten zurück."
+      },
+      {
+        "sr": "Ovo košta {deset} evra.",
+        "de": "Das kostet zehn Euro."
+      }
+    ]
+  },
+  {
+    "word": "jedanaest",
+    "meanings": [
+      "elf"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Sada je {jedanaest} sati.",
+        "de": "Es ist jetzt elf Uhr."
+      },
+      {
+        "sr": "Let je u {jedanaest}.",
+        "de": "Der Flug ist um elf."
+      }
+    ]
+  },
+  {
+    "word": "dvanaest",
+    "meanings": [
+      "zwölf"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Godina ima {dvanaest} meseci.",
+        "de": "Das Jahr hat zwölf Monate."
+      },
+      {
+        "sr": "Ručak je u {dvanaest}.",
+        "de": "Das Mittagessen ist um zwölf."
+      }
+    ]
+  },
+  {
+    "word": "dvadeset",
+    "meanings": [
+      "zwanzig"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Imam još {dvadeset} minuta.",
+        "de": "Ich habe noch zwanzig Minuten."
+      },
+      {
+        "sr": "To košta {dvadeset} evra.",
+        "de": "Das kostet zwanzig Euro."
+      }
+    ]
+  },
+  {
+    "word": "trideset",
+    "meanings": [
+      "dreißig"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Imam {trideset} godina.",
+        "de": "Ich bin dreißig Jahre alt."
+      },
+      {
+        "sr": "Sastanak traje {trideset} minuta.",
+        "de": "Die Besprechung dauert dreißig Minuten."
+      }
+    ]
+  },
+  {
+    "word": "pedeset",
+    "meanings": [
+      "fünfzig"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Njen tata ima {pedeset} godina.",
+        "de": "Ihr Papa ist fünfzig Jahre alt."
+      },
+      {
+        "sr": "Daj mi {pedeset} dinara.",
+        "de": "Gib mir fünfzig Dinar."
+      }
+    ]
+  },
+  {
+    "word": "sto",
+    "meanings": [
+      "hundert",
+      "Tisch"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Ovo košta {sto} dinara.",
+        "de": "Das kostet hundert Dinar."
+      },
+      {
+        "sr": "Sedimo za {stolom} pored prozora.",
+        "de": "Wir sitzen am Tisch neben dem Fenster."
+      }
+    ]
+  },
+  {
+    "word": "hiljada",
+    "meanings": [
+      "tausend"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "To košta {hiljadu} dinara.",
+        "de": "Das kostet tausend Dinar."
+      },
+      {
+        "sr": "Na koncertu je bilo pet {hiljada} ljudi.",
+        "de": "Auf dem Konzert waren fünftausend Menschen."
+      }
+    ]
+  },
+  {
+    "word": "prvi",
+    "meanings": [
+      "erster"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Ovo je moj {prvi} put u Srbiji.",
+        "de": "Das ist mein erstes Mal in Serbien."
+      },
+      {
+        "sr": "Stan je na {prvom} spratu.",
+        "de": "Die Wohnung ist im ersten Stock."
+      }
+    ]
+  },
+  {
+    "word": "drugi",
+    "meanings": [
+      "zweiter",
+      "anderer"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Živim na {drugom} spratu.",
+        "de": "Ich wohne im zweiten Stock."
+      },
+      {
+        "sr": "Može li neki {drugi} dan?",
+        "de": "Geht es an einem anderen Tag?"
+      }
+    ]
+  },
+  {
+    "word": "pola",
+    "meanings": [
+      "halb",
+      "die Hälfte"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Vidimo se u {pola} osam.",
+        "de": "Wir sehen uns um halb acht."
+      },
+      {
+        "sr": "Pojeo sam {pola} torte.",
+        "de": "Ich habe die halbe Torte gegessen."
+      }
+    ]
+  },
+  {
+    "word": "jednom",
+    "meanings": [
+      "einmal"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Bio sam {jednom} u Beogradu.",
+        "de": "Ich war einmal in Belgrad."
+      },
+      {
+        "sr": "{Jednom} nedeljno idem na sport.",
+        "de": "Einmal pro Woche gehe ich zum Sport."
+      }
+    ]
+  },
+  {
+    "word": "dva puta",
+    "meanings": [
+      "zweimal"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Zvao sam te {dva puta}.",
+        "de": "Ich habe dich zweimal angerufen."
+      },
+      {
+        "sr": "Idemo u Srbiju {dva puta} godišnje.",
+        "de": "Wir fahren zweimal im Jahr nach Serbien."
+      }
+    ]
+  },
+  {
+    "word": "koliko je sati",
+    "meanings": [
+      "wie spät ist es"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Izvinite, {koliko je sati}?",
+        "de": "Entschuldigen Sie, wie spät ist es?"
+      },
+      {
+        "sr": "{Koliko je sati}? Kasnimo!",
+        "de": "Wie spät ist es? Wir sind spät dran!"
+      }
+    ]
+  },
+  {
+    "word": "u koliko sati",
+    "meanings": [
+      "um wie viel Uhr"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{U koliko sati} dolaziš?",
+        "de": "Um wie viel Uhr kommst du?"
+      },
+      {
+        "sr": "{U koliko sati} je večera?",
+        "de": "Um wie viel Uhr ist das Abendessen?"
+      }
+    ]
+  },
+  {
+    "word": "sat",
+    "meanings": [
+      "Stunde",
+      "Uhr"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Vidimo se za jedan {sat}.",
+        "de": "Wir sehen uns in einer Stunde."
+      },
+      {
+        "sr": "Čekam već dva {sata}.",
+        "de": "Ich warte schon zwei Stunden."
+      }
+    ]
+  },
+  {
+    "word": "minut",
+    "meanings": [
+      "Minute"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Sačekaj jedan {minut}.",
+        "de": "Warte eine Minute."
+      },
+      {
+        "sr": "Autobus dolazi za tri {minuta}.",
+        "de": "Der Bus kommt in drei Minuten."
+      }
+    ]
+  },
+  {
+    "word": "dan",
+    "meanings": [
+      "Tag"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Kakav lep {dan}!",
+        "de": "Was für ein schöner Tag!"
+      },
+      {
+        "sr": "Ostajemo još tri {dana}.",
+        "de": "Wir bleiben noch drei Tage."
+      }
+    ]
+  },
+  {
+    "word": "noć",
+    "meanings": [
+      "Nacht"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Noć} je bila topla.",
+        "de": "Die Nacht war warm."
+      },
+      {
+        "sr": "Radio sam celu {noć}.",
+        "de": "Ich habe die ganze Nacht gearbeitet."
+      }
+    ]
+  },
+  {
+    "word": "jutro",
+    "meanings": [
+      "Morgen (Tageszeit)"
+    ],
+    "label": "neutrum",
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Svako {jutro} pijem kafu.",
+        "de": "Jeden Morgen trinke ich Kaffee."
+      },
+      {
+        "sr": "Od {jutra} pada kiša.",
+        "de": "Seit dem Morgen regnet es."
+      }
+    ]
+  },
+  {
+    "word": "podne",
+    "meanings": [
+      "Mittag"
+    ],
+    "label": "neutrum",
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Vidimo se u {podne}.",
+        "de": "Wir sehen uns am Mittag."
+      },
+      {
+        "sr": "Do {podneva} sam na poslu.",
+        "de": "Bis zum Mittag bin ich bei der Arbeit."
+      }
+    ]
+  },
+  {
+    "word": "popodne",
+    "meanings": [
+      "Nachmittag",
+      "nachmittags"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Šta radiš danas {popodne}?",
+        "de": "Was machst du heute Nachmittag?"
+      },
+      {
+        "sr": "{Popodne} idemo u šetnju.",
+        "de": "Am Nachmittag gehen wir spazieren."
+      }
+    ]
+  },
+  {
+    "word": "veče",
+    "meanings": [
+      "Abend"
+    ],
+    "label": "neutrum",
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Bilo je to lepo {veče}.",
+        "de": "Das war ein schöner Abend."
+      },
+      {
+        "sr": "Svako {veče} šetamo.",
+        "de": "Jeden Abend gehen wir spazieren."
+      }
+    ]
+  },
+  {
+    "word": "ponoć",
+    "meanings": [
+      "Mitternacht"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Stigli smo u {ponoć}.",
+        "de": "Wir sind um Mitternacht angekommen."
+      },
+      {
+        "sr": "Posle {ponoći} nema autobusa.",
+        "de": "Nach Mitternacht fahren keine Busse."
+      }
+    ]
+  },
+  {
+    "word": "danas",
+    "meanings": [
+      "heute"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Danas} je lep dan.",
+        "de": "Heute ist ein schöner Tag."
+      },
+      {
+        "sr": "Šta radiš {danas}?",
+        "de": "Was machst du heute?"
+      }
+    ]
+  },
+  {
+    "word": "sutra",
+    "meanings": [
+      "morgen"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Sutra} imam slobodan dan.",
+        "de": "Morgen habe ich einen freien Tag."
+      },
+      {
+        "sr": "Vidimo se {sutra} ujutru.",
+        "de": "Wir sehen uns morgen früh."
+      }
+    ]
+  },
+  {
+    "word": "juče",
+    "meanings": [
+      "gestern"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Juče} sam bio kod njenih roditelja.",
+        "de": "Gestern war ich bei ihren Eltern."
+      },
+      {
+        "sr": "Stigli smo {juče}.",
+        "de": "Wir sind gestern angekommen."
+      }
+    ]
+  },
+  {
+    "word": "do sutra",
+    "meanings": [
+      "bis morgen"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Laku noć, {do sutra}!",
+        "de": "Gute Nacht, bis morgen!"
+      },
+      {
+        "sr": "Možeš li da sačekaš {do sutra}?",
+        "de": "Kannst du bis morgen warten?"
+      }
+    ]
+  },
+  {
+    "word": "večeras",
+    "meanings": [
+      "heute Abend"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Večeras} kuvam ja.",
+        "de": "Heute Abend koche ich."
+      },
+      {
+        "sr": "Šta gledamo {večeras}?",
+        "de": "Was schauen wir heute Abend?"
+      }
+    ]
+  },
+  {
+    "word": "jutros",
+    "meanings": [
+      "heute Morgen"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Jutros} sam ustao rano.",
+        "de": "Heute Morgen bin ich früh aufgestanden."
+      },
+      {
+        "sr": "Zvala te je mama {jutros}.",
+        "de": "Deine Mama hat dich heute Morgen angerufen."
+      }
+    ]
+  },
+  {
+    "word": "sinoć",
+    "meanings": [
+      "gestern Abend"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Sinoć} je bilo baš lepo.",
+        "de": "Gestern Abend war es richtig schön."
+      },
+      {
+        "sr": "Gde si bio {sinoć}?",
+        "de": "Wo warst du gestern Abend?"
+      }
+    ]
+  },
+  {
+    "word": "sada",
+    "meanings": [
+      "jetzt"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Sada} idemo na ručak.",
+        "de": "Jetzt gehen wir mittagessen."
+      },
+      {
+        "sr": "Moram {sada} da idem.",
+        "de": "Ich muss jetzt gehen."
+      }
+    ]
+  },
+  {
+    "word": "odmah",
+    "meanings": [
+      "sofort",
+      "gleich"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Odmah} dolazim.",
+        "de": "Ich komme sofort."
+      },
+      {
+        "sr": "Javi mi {odmah} kad stigneš.",
+        "de": "Sag mir sofort Bescheid, wenn du ankommst."
+      }
+    ]
+  },
+  {
+    "word": "kasnije",
+    "meanings": [
+      "später"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Zvaću te {kasnije}.",
+        "de": "Ich rufe dich später an."
+      },
+      {
+        "sr": "Možemo li o tome {kasnije}?",
+        "de": "Können wir später darüber reden?"
+      }
+    ]
+  },
+  {
+    "word": "uskoro",
+    "meanings": [
+      "bald"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Uskoro} dolazimo u Srbiju.",
+        "de": "Bald kommen wir nach Serbien."
+      },
+      {
+        "sr": "Vidimo se {uskoro}!",
+        "de": "Wir sehen uns bald!"
+      }
+    ]
+  },
+  {
+    "word": "već",
+    "meanings": [
+      "schon"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Već} sam jeo.",
+        "de": "Ich habe schon gegessen."
+      },
+      {
+        "sr": "Da li ste {već} stigli?",
+        "de": "Seid ihr schon angekommen?"
+      }
+    ]
+  },
+  {
+    "word": "uvek",
+    "meanings": [
+      "immer"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Uvek} kasniš.",
+        "de": "Du kommst immer zu spät."
+      },
+      {
+        "sr": "Ona je {uvek} dobre volje.",
+        "de": "Sie ist immer gut gelaunt."
+      }
+    ]
+  },
+  {
+    "word": "nikad",
+    "meanings": [
+      "nie",
+      "niemals"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Nikad} nisam bio u Nišu.",
+        "de": "Ich war noch nie in Niš."
+      },
+      {
+        "sr": "Bolje ikad nego {nikad}.",
+        "de": "Besser spät als nie."
+      }
+    ]
+  },
+  {
+    "word": "često",
+    "meanings": [
+      "oft"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Često} mislim na tebe.",
+        "de": "Ich denke oft an dich."
+      },
+      {
+        "sr": "Koliko {često} dolaziš u Srbiju?",
+        "de": "Wie oft kommst du nach Serbien?"
+      }
+    ]
+  },
+  {
+    "word": "ponekad",
+    "meanings": [
+      "manchmal"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Ponekad} kuvamo zajedno.",
+        "de": "Manchmal kochen wir zusammen."
+      },
+      {
+        "sr": "On {ponekad} zaboravi ključeve.",
+        "de": "Er vergisst manchmal die Schlüssel."
+      }
+    ]
+  },
+  {
+    "word": "svaki dan",
+    "meanings": [
+      "jeden Tag"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Svaki dan} učim srpski.",
+        "de": "Ich lerne jeden Tag Serbisch."
+      },
+      {
+        "sr": "Čujemo se {svaki dan}.",
+        "de": "Wir hören uns jeden Tag."
+      }
+    ]
+  },
+  {
+    "word": "ceo dan",
+    "meanings": [
+      "den ganzen Tag"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Radio sam {ceo dan}.",
+        "de": "Ich habe den ganzen Tag gearbeitet."
+      },
+      {
+        "sr": "{Ceo dan} smo bili napolju.",
+        "de": "Wir waren den ganzen Tag draußen."
+      }
+    ]
+  },
+  {
+    "word": "rano",
+    "meanings": [
+      "früh"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Sutra ustajem {rano}.",
+        "de": "Morgen stehe ich früh auf."
+      },
+      {
+        "sr": "Još je {rano} za večeru.",
+        "de": "Es ist noch zu früh fürs Abendessen."
+      }
+    ]
+  },
+  {
+    "word": "kasno",
+    "meanings": [
+      "spät"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Već je {kasno}, idemo kući.",
+        "de": "Es ist schon spät, gehen wir nach Hause."
+      },
+      {
+        "sr": "Sinoć smo došli {kasno}.",
+        "de": "Gestern Abend sind wir spät gekommen."
+      }
+    ]
+  },
+  {
+    "word": "na vreme",
+    "meanings": [
+      "pünktlich",
+      "rechtzeitig"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Stigli smo {na vreme}.",
+        "de": "Wir sind pünktlich angekommen."
+      },
+      {
+        "sr": "Molim te, dođi {na vreme}.",
+        "de": "Komm bitte pünktlich."
+      }
+    ]
+  },
+  {
+    "word": "nemam vremena",
+    "meanings": [
+      "ich habe keine Zeit"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Danas {nemam vremena}.",
+        "de": "Heute habe ich keine Zeit."
+      },
+      {
+        "sr": "Izvini, sada {nemam vremena}.",
+        "de": "Entschuldige, ich habe jetzt keine Zeit."
+      }
+    ]
+  },
+  {
+    "word": "pre",
+    "meanings": [
+      "vor",
+      "vorher"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Stigao sam {pre} tebe.",
+        "de": "Ich bin vor dir angekommen."
+      },
+      {
+        "sr": "Vidimo se {pre} ručka.",
+        "de": "Wir sehen uns vor dem Mittagessen."
+      }
+    ]
+  },
+  {
+    "word": "posle",
+    "meanings": [
+      "nach",
+      "danach"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Posle} posla idem u prodavnicu.",
+        "de": "Nach der Arbeit gehe ich einkaufen."
+      },
+      {
+        "sr": "Javiću ti se {posle}.",
+        "de": "Ich melde mich danach bei dir."
+      }
+    ]
+  },
+  {
+    "word": "prošli",
+    "meanings": [
+      "letzter",
+      "vergangener"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Prošle} godine smo bili na moru.",
+        "de": "Letztes Jahr waren wir am Meer."
+      },
+      {
+        "sr": "{Prošli} put je bilo bolje.",
+        "de": "Letztes Mal war es besser."
+      }
+    ]
+  },
+  {
+    "word": "sledeći",
+    "meanings": [
+      "nächster"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Sledeće} nedelje imam odmor.",
+        "de": "Nächste Woche habe ich Urlaub."
+      },
+      {
+        "sr": "Izlazimo na {sledećoj} stanici.",
+        "de": "Wir steigen an der nächsten Haltestelle aus."
+      }
+    ]
+  },
+  {
+    "word": "koji je danas dan",
+    "meanings": [
+      "welcher Tag ist heute"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Koji je danas dan}, sreda?",
+        "de": "Welcher Tag ist heute, Mittwoch?"
+      },
+      {
+        "sr": "Zaboravio sam, {koji je danas dan}?",
+        "de": "Ich habe es vergessen, welcher Tag ist heute?"
+      }
+    ]
+  },
+  {
+    "word": "ponedeljak",
+    "meanings": [
+      "Montag"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "U {ponedeljak} radim.",
+        "de": "Am Montag arbeite ich."
+      },
+      {
+        "sr": "Od {ponedeljka} sam na odmoru.",
+        "de": "Ab Montag bin ich im Urlaub."
+      }
+    ]
+  },
+  {
+    "word": "utorak",
+    "meanings": [
+      "Dienstag"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Vidimo se u {utorak}.",
+        "de": "Wir sehen uns am Dienstag."
+      },
+      {
+        "sr": "{Utorkom} idem na plivanje.",
+        "de": "Dienstags gehe ich schwimmen."
+      }
+    ]
+  },
+  {
+    "word": "sreda",
+    "meanings": [
+      "Mittwoch"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Danas je {sreda}.",
+        "de": "Heute ist Mittwoch."
+      },
+      {
+        "sr": "U {sredu} dolazi njena mama.",
+        "de": "Am Mittwoch kommt ihre Mama."
+      }
+    ]
+  },
+  {
+    "word": "četvrtak",
+    "meanings": [
+      "Donnerstag"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "U {četvrtak} putujemo.",
+        "de": "Am Donnerstag reisen wir."
+      },
+      {
+        "sr": "Do {četvrtka} moram da završim posao.",
+        "de": "Bis Donnerstag muss ich die Arbeit fertig haben."
+      }
+    ]
+  },
+  {
+    "word": "petak",
+    "meanings": [
+      "Freitag"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Konačno je {petak}!",
+        "de": "Endlich ist Freitag!"
+      },
+      {
+        "sr": "U {petak} uveče izlazimo.",
+        "de": "Am Freitagabend gehen wir aus."
+      }
+    ]
+  },
+  {
+    "word": "subota",
+    "meanings": [
+      "Samstag"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Subota} je moj omiljeni dan.",
+        "de": "Samstag ist mein Lieblingstag."
+      },
+      {
+        "sr": "U {subotu} idemo na pijacu.",
+        "de": "Am Samstag gehen wir auf den Markt."
+      }
+    ]
+  },
+  {
+    "word": "nedelja",
+    "meanings": [
+      "Sonntag",
+      "Woche"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "U {nedelju} idemo kod bake.",
+        "de": "Am Sonntag gehen wir zu Oma."
+      },
+      {
+        "sr": "Ostajemo dve {nedelje}.",
+        "de": "Wir bleiben zwei Wochen."
+      }
+    ]
+  },
+  {
+    "word": "mesec",
+    "meanings": [
+      "Monat",
+      "Mond"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Sledećeg {meseca} dolazimo u Srbiju.",
+        "de": "Nächsten Monat kommen wir nach Serbien."
+      },
+      {
+        "sr": "Večeras je pun {mesec}.",
+        "de": "Heute Abend ist Vollmond."
+      }
+    ]
+  },
+  {
+    "word": "godina",
+    "meanings": [
+      "Jahr"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Ove {godine} idemo u Srbiju.",
+        "de": "Dieses Jahr fahren wir nach Serbien."
+      },
+      {
+        "sr": "Zajedno smo dve {godine}.",
+        "de": "Wir sind seit zwei Jahren zusammen."
+      }
+    ]
+  },
+  {
+    "word": "proleće",
+    "meanings": [
+      "Frühling"
+    ],
+    "label": "neutrum",
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Proleće} je moje omiljeno godišnje doba.",
+        "de": "Der Frühling ist meine liebste Jahreszeit."
+      },
+      {
+        "sr": "U {proleće} sve cveta.",
+        "de": "Im Frühling blüht alles."
+      }
+    ]
+  },
+  {
+    "word": "leto",
+    "meanings": [
+      "Sommer"
+    ],
+    "label": "neutrum",
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Ovo {leto} je baš toplo.",
+        "de": "Dieser Sommer ist richtig warm."
+      },
+      {
+        "sr": "Na {leto} idemo na more.",
+        "de": "Im Sommer fahren wir ans Meer."
+      }
+    ]
+  },
+  {
+    "word": "jesen",
+    "meanings": [
+      "Herbst"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Jesen} u Beogradu je lepa.",
+        "de": "Der Herbst in Belgrad ist schön."
+      },
+      {
+        "sr": "Na {jesen} počinje škola.",
+        "de": "Im Herbst beginnt die Schule."
+      }
+    ]
+  },
+  {
+    "word": "zima",
+    "meanings": [
+      "Winter"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Zima} je ovde hladna.",
+        "de": "Der Winter ist hier kalt."
+      },
+      {
+        "sr": "Ove {zime} idemo na planinu.",
+        "de": "Diesen Winter fahren wir in die Berge."
+      }
+    ]
+  },
+  {
+    "word": "januar",
+    "meanings": [
+      "Januar"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Januar} je najhladniji mesec.",
+        "de": "Der Januar ist der kälteste Monat."
+      },
+      {
+        "sr": "U {januaru} je Božić.",
+        "de": "Im Januar ist Weihnachten."
+      }
+    ]
+  },
+  {
+    "word": "februar",
+    "meanings": [
+      "Februar"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Februar} je kratak mesec.",
+        "de": "Der Februar ist ein kurzer Monat."
+      },
+      {
+        "sr": "U {februaru} idemo na skijanje.",
+        "de": "Im Februar fahren wir Ski."
+      }
+    ]
+  },
+  {
+    "word": "mart",
+    "meanings": [
+      "März"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Mart} je već topliji.",
+        "de": "Der März ist schon wärmer."
+      },
+      {
+        "sr": "Rođendan mi je u {martu}.",
+        "de": "Ich habe im März Geburtstag."
+      }
+    ]
+  },
+  {
+    "word": "april",
+    "meanings": [
+      "April"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{April} je lep mesec za put.",
+        "de": "Der April ist ein schöner Monat für eine Reise."
+      },
+      {
+        "sr": "U {aprilu} često pada kiša.",
+        "de": "Im April regnet es oft."
+      }
+    ]
+  },
+  {
+    "word": "maj",
+    "meanings": [
+      "Mai"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Maj} je moj omiljeni mesec.",
+        "de": "Der Mai ist mein Lieblingsmonat."
+      },
+      {
+        "sr": "Venčanje je u {maju}.",
+        "de": "Die Trauung ist im Mai."
+      }
+    ]
+  },
+  {
+    "word": "jun",
+    "meanings": [
+      "Juni"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "U {junu} počinje leto.",
+        "de": "Im Juni beginnt der Sommer."
+      },
+      {
+        "sr": "Do {juna} moram da naučim srpski.",
+        "de": "Bis Juni muss ich Serbisch lernen."
+      }
+    ]
+  },
+  {
+    "word": "jul",
+    "meanings": [
+      "Juli"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Jul} je najtopliji mesec.",
+        "de": "Der Juli ist der wärmste Monat."
+      },
+      {
+        "sr": "U {julu} idemo na more.",
+        "de": "Im Juli fahren wir ans Meer."
+      }
+    ]
+  },
+  {
+    "word": "avgust",
+    "meanings": [
+      "August"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "Ceo {avgust} smo u Srbiji.",
+        "de": "Den ganzen August sind wir in Serbien."
+      },
+      {
+        "sr": "U {avgustu} imam odmor.",
+        "de": "Im August habe ich Urlaub."
+      }
+    ]
+  },
+  {
+    "word": "septembar",
+    "meanings": [
+      "September"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Septembar} je još topao.",
+        "de": "Der September ist noch warm."
+      },
+      {
+        "sr": "Škola počinje u {septembru}.",
+        "de": "Die Schule beginnt im September."
+      }
+    ]
+  },
+  {
+    "word": "oktobar",
+    "meanings": [
+      "Oktober"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "U {oktobru} dolaze njeni roditelji.",
+        "de": "Im Oktober kommen ihre Eltern."
+      },
+      {
+        "sr": "Početkom {oktobra} putujemo.",
+        "de": "Anfang Oktober verreisen wir."
+      }
+    ]
+  },
+  {
+    "word": "novembar",
+    "meanings": [
+      "November"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "{Novembar} je siv i kišan.",
+        "de": "Der November ist grau und regnerisch."
+      },
+      {
+        "sr": "Njena slava je u {novembru}.",
+        "de": "Ihre Slava ist im November."
+      }
+    ]
+  },
+  {
+    "word": "decembar",
+    "meanings": [
+      "Dezember"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "zahlen-zeit-tage",
+    "sentences": [
+      {
+        "sr": "U {decembru} kitimo jelku.",
+        "de": "Im Dezember schmücken wir den Weihnachtsbaum."
+      },
+      {
+        "sr": "Do {decembra} ima još vremena.",
+        "de": "Bis Dezember ist noch Zeit."
+      }
+    ]
+  }
+]

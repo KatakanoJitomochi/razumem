@@ -1,0 +1,651 @@
+[
+  {
+    "word": "ujna",
+    "meanings": [
+      "Tante (Frau des Onkels, Mutterseite)"
+    ],
+    "label": "feminin",
+    "level": 4,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Moja {ujna} pravi domaći hleb.",
+        "de": "Meine Tante backt hausgemachtes Brot."
+      },
+      {
+        "sr": "Za stolom sam sedeo pored svoje {ujne}.",
+        "de": "Am Tisch saß ich neben meiner Tante."
+      }
+    ]
+  },
+  {
+    "word": "strina",
+    "meanings": [
+      "Tante (Frau des Onkels, Vaterseite)"
+    ],
+    "label": "feminin",
+    "level": 4,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Njegova {strina} živi u staroj kući.",
+        "de": "Seine Tante lebt in einem alten Haus."
+      },
+      {
+        "sr": "Razgovarao sam sa njegovom {strinom}.",
+        "de": "Ich habe mit seiner Tante gesprochen."
+      }
+    ]
+  },
+  {
+    "word": "zet",
+    "meanings": [
+      "Schwiegersohn"
+    ],
+    "label": "maskulin",
+    "level": 4,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Njen {zet} je lekar.",
+        "de": "Ihr Schwiegersohn ist Arzt."
+      },
+      {
+        "sr": "Njeni roditelji su ponosni na svog {zeta}.",
+        "de": "Ihre Eltern sind stolz auf ihren Schwiegersohn."
+      }
+    ]
+  },
+  {
+    "word": "snaja",
+    "meanings": [
+      "Schwiegertochter"
+    ],
+    "label": "feminin",
+    "level": 4,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Njihova {snaja} radi u školi.",
+        "de": "Ihre Schwiegertochter arbeitet in einer Schule."
+      },
+      {
+        "sr": "Svi su razgovarali sa njihovom {snajom}.",
+        "de": "Alle haben mit ihrer Schwiegertochter gesprochen."
+      }
+    ]
+  },
+  {
+    "word": "svekar",
+    "meanings": [
+      "Schwiegervater (Vater des Mannes)"
+    ],
+    "label": "maskulin",
+    "level": 4,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Njen {svekar} često dolazi u goste.",
+        "de": "Ihr Schwiegervater kommt oft zu Besuch."
+      },
+      {
+        "sr": "Razgovarala je sa svojim {svekrom}.",
+        "de": "Sie hat mit ihrem Schwiegervater gesprochen."
+      }
+    ]
+  },
+  {
+    "word": "svekrva",
+    "meanings": [
+      "Schwiegermutter (Mutter des Mannes)"
+    ],
+    "label": "feminin",
+    "level": 4,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Njena {svekrva} živi u blizini.",
+        "de": "Ihre Schwiegermutter lebt in der Nähe."
+      },
+      {
+        "sr": "Pozvala je svoju {svekrvu} na ručak.",
+        "de": "Sie hat ihre Schwiegermutter zum Mittagessen eingeladen."
+      }
+    ]
+  },
+  {
+    "word": "tast",
+    "meanings": [
+      "Schwiegervater (Vater der Frau)"
+    ],
+    "label": "maskulin",
+    "level": 4,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Moj {tast} voli da peca.",
+        "de": "Mein Schwiegervater angelt gern."
+      },
+      {
+        "sr": "Prošetao sam sa svojim {tastom}.",
+        "de": "Ich bin mit meinem Schwiegervater spazieren gegangen."
+      }
+    ]
+  },
+  {
+    "word": "tašta",
+    "meanings": [
+      "Schwiegermutter (Mutter der Frau)"
+    ],
+    "label": "feminin",
+    "level": 4,
+    "listId": "ihre-familie",
+    "sentences": [
+      {
+        "sr": "Moja {tašta} sprema odličan ručak.",
+        "de": "Meine Schwiegermutter bereitet ein ausgezeichnetes Mittagessen zu."
+      },
+      {
+        "sr": "Doneo sam cveće svojoj {tašti}.",
+        "de": "Ich habe meiner Schwiegermutter Blumen mitgebracht."
+      }
+    ]
+  },
+  {
+    "word": "slavski kolač",
+    "meanings": [
+      "Slava-Brot"
+    ],
+    "label": null,
+    "level": 4,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Domaćin lomi {slavski kolač}.",
+        "de": "Der Hausherr bricht das Slava-Brot."
+      },
+      {
+        "sr": "Na stolu su sveća i {slavski kolač}.",
+        "de": "Auf dem Tisch stehen die Kerze und das Slava-Brot."
+      }
+    ]
+  },
+  {
+    "word": "žito",
+    "meanings": [
+      "Slava-Weizen (gekochter süßer Weizen)"
+    ],
+    "label": "neutrum",
+    "level": 4,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Na slavi se prvo služi {žito}.",
+        "de": "Bei der Slava wird zuerst der Weizen serviert."
+      },
+      {
+        "sr": "Uzmi kašičicu {žita}.",
+        "de": "Nimm einen Löffel Weizen."
+      }
+    ]
+  },
+  {
+    "word": "post",
+    "meanings": [
+      "Fasten",
+      "Fastenzeit"
+    ],
+    "label": "maskulin",
+    "level": 4,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Pre Božića traje {post}.",
+        "de": "Vor Weihnachten ist Fastenzeit."
+      },
+      {
+        "sr": "Za vreme {posta} ne jedu meso.",
+        "de": "Während der Fastenzeit essen sie kein Fleisch."
+      }
+    ]
+  },
+  {
+    "word": "posan",
+    "meanings": [
+      "fastengerecht (ohne Fleisch, Milch, Eier)"
+    ],
+    "label": null,
+    "level": 4,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Slava je u postu, pa je sve {posno}.",
+        "de": "Die Slava fällt in die Fastenzeit, deshalb ist alles fastengerecht."
+      },
+      {
+        "sr": "Da li je ovaj kolač {posan}?",
+        "de": "Ist dieser Kuchen fastengerecht?"
+      }
+    ]
+  },
+  {
+    "word": "badnjak",
+    "meanings": [
+      "Badnjak (Eichenzweig zu Weihnachten)"
+    ],
+    "label": "maskulin",
+    "level": 4,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Na Badnje veče unosimo {badnjak} u kuću.",
+        "de": "An Heiligabend tragen wir den Badnjak ins Haus."
+      },
+      {
+        "sr": "Ispred crkve se pali {badnjak}.",
+        "de": "Vor der Kirche wird der Badnjak verbrannt."
+      }
+    ]
+  },
+  {
+    "word": "česnica",
+    "meanings": [
+      "Weihnachtsbrot (mit Münze)"
+    ],
+    "label": "feminin",
+    "level": 4,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Baka mesi {česnicu} za Božić.",
+        "de": "Oma backt das Weihnachtsbrot für Weihnachten."
+      },
+      {
+        "sr": "Ko nađe novčić u {česnici}, imaće sreće cele godine.",
+        "de": "Wer die Münze im Weihnachtsbrot findet, hat das ganze Jahr Glück."
+      }
+    ]
+  },
+  {
+    "word": "kititi",
+    "meanings": [
+      "schmücken"
+    ],
+    "label": "unvollendet",
+    "level": 4,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Deca {kite} jelku.",
+        "de": "Die Kinder schmücken den Weihnachtsbaum."
+      },
+      {
+        "sr": "Salu smo {kitili} celo popodne.",
+        "de": "Wir haben den Saal den ganzen Nachmittag geschmückt."
+      }
+    ]
+  },
+  {
+    "word": "farbati jaja",
+    "meanings": [
+      "Eier färben"
+    ],
+    "label": null,
+    "level": 4,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "U petak {farbamo jaja} sa decom.",
+        "de": "Am Freitag färben wir mit den Kindern Eier."
+      },
+      {
+        "sr": "Nikad nisam {farbao jaja}.",
+        "de": "Ich habe noch nie Eier gefärbt."
+      }
+    ]
+  },
+  {
+    "word": "Osmi mart",
+    "meanings": [
+      "Frauentag (8. März)"
+    ],
+    "label": null,
+    "level": 4,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Za {Osmi mart} ženama se poklanja cveće.",
+        "de": "Zum Frauentag schenkt man den Frauen Blumen."
+      },
+      {
+        "sr": "Ne zaboravi cveće za {Osmi mart}!",
+        "de": "Vergiss die Blumen zum Frauentag nicht!"
+      }
+    ]
+  },
+  {
+    "word": "veselje",
+    "meanings": [
+      "Fest",
+      "Fröhlichkeit"
+    ],
+    "label": "neutrum",
+    "level": 4,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "{Veselje} je trajalo do jutra.",
+        "de": "Das Fest dauerte bis zum Morgen."
+      },
+      {
+        "sr": "Bez muzike nema {veselja}.",
+        "de": "Ohne Musik gibt es kein Fest."
+      }
+    ]
+  },
+  {
+    "word": "svečan",
+    "meanings": [
+      "festlich",
+      "feierlich"
+    ],
+    "label": null,
+    "level": 4,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Ručak je bio baš {svečan}.",
+        "de": "Das Mittagessen war richtig festlich."
+      },
+      {
+        "sr": "Obuci nešto {svečano}.",
+        "de": "Zieh etwas Festliches an."
+      }
+    ]
+  },
+  {
+    "word": "sveštenik",
+    "meanings": [
+      "Priester"
+    ],
+    "label": "maskulin",
+    "level": 4,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "{Sveštenik} dolazi da preseče slavski kolač.",
+        "de": "Der Priester kommt, um das Slava-Brot anzuschneiden."
+      },
+      {
+        "sr": "Razgovarao sam sa {sveštenikom} posle službe.",
+        "de": "Ich habe nach dem Gottesdienst mit dem Priester gesprochen."
+      }
+    ]
+  },
+  {
+    "word": "ikona",
+    "meanings": [
+      "Ikone"
+    ],
+    "label": "feminin",
+    "level": 4,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Na zidu visi {ikona} svetog Nikole.",
+        "de": "An der Wand hängt die Ikone des heiligen Nikolaus."
+      },
+      {
+        "sr": "Slavska sveća gori pored {ikone}.",
+        "de": "Die Slava-Kerze brennt neben der Ikone."
+      }
+    ]
+  },
+  {
+    "word": "burma",
+    "meanings": [
+      "Ehering"
+    ],
+    "label": "feminin",
+    "level": 4,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Kum čuva {burme} do venčanja.",
+        "de": "Der Trauzeuge bewahrt die Eheringe bis zur Trauung auf."
+      },
+      {
+        "sr": "Ona nosi zlatnu {burmu}.",
+        "de": "Sie trägt einen goldenen Ehering."
+      }
+    ]
+  },
+  {
+    "word": "veridba",
+    "meanings": [
+      "Verlobung"
+    ],
+    "label": "feminin",
+    "level": 4,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Njihova {veridba} je bila u maju.",
+        "de": "Ihre Verlobung war im Mai."
+      },
+      {
+        "sr": "Proslavili smo {veridbu} sa porodicom.",
+        "de": "Wir haben die Verlobung mit der Familie gefeiert."
+      }
+    ]
+  },
+  {
+    "word": "zaprositi",
+    "meanings": [
+      "einen Heiratsantrag machen"
+    ],
+    "label": "vollendet",
+    "level": 4,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Hoću da je {zaprosim} na moru.",
+        "de": "Ich will ihr am Meer einen Heiratsantrag machen."
+      },
+      {
+        "sr": "{Zaprosio} ju je pred celom porodicom.",
+        "de": "Er hat ihr vor der ganzen Familie einen Heiratsantrag gemacht."
+      }
+    ]
+  },
+  {
+    "word": "bolje vas našli",
+    "meanings": [
+      "schön, hier zu sein (Antwort auf Willkommen)"
+    ],
+    "label": null,
+    "level": 4,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Na dobro došli odgovaramo: {bolje vas našli}.",
+        "de": "Auf „willkommen“ antworten wir: Schön, hier zu sein."
+      },
+      {
+        "sr": "{Bolje vas našli}, hvala na pozivu!",
+        "de": "Schön, hier zu sein, danke für die Einladung!"
+      }
+    ]
+  },
+  {
+    "word": "zdravica",
+    "meanings": [
+      "Trinkspruch"
+    ],
+    "label": "feminin",
+    "level": 4,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Njen otac je održao {zdravicu}.",
+        "de": "Ihr Vater hat einen Trinkspruch gehalten."
+      },
+      {
+        "sr": "Kum uvek ima najbolju {zdravicu}.",
+        "de": "Der Trauzeuge hat immer den besten Trinkspruch."
+      }
+    ]
+  },
+  {
+    "word": "kolo",
+    "meanings": [
+      "Kolo (Reigentanz)"
+    ],
+    "label": "neutrum",
+    "level": 4,
+    "listId": "feste-braeuche",
+    "sentences": [
+      {
+        "sr": "Na svadbi svi igraju {kolo}.",
+        "de": "Auf der Hochzeit tanzen alle Kolo."
+      },
+      {
+        "sr": "Uhvati se u {kolo} sa nama!",
+        "de": "Reih dich bei uns in den Kolo ein!"
+      }
+    ]
+  },
+  {
+    "word": "putarina",
+    "meanings": [
+      "Maut"
+    ],
+    "label": "feminin",
+    "level": 4,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Na autoputu se plaća {putarina}.",
+        "de": "Auf der Autobahn zahlt man Maut."
+      },
+      {
+        "sr": "Koliko košta {putarina} do Beograda?",
+        "de": "Wie viel kostet die Maut bis Belgrad?"
+      }
+    ]
+  },
+  {
+    "word": "jagnjetina",
+    "meanings": [
+      "Lammfleisch"
+    ],
+    "label": "feminin",
+    "level": 4,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "{Jagnjetina} ispod sača je specijalitet.",
+        "de": "Lammfleisch unter der Glutglocke ist eine Spezialität."
+      },
+      {
+        "sr": "Nikad nisam jeo {jagnjetinu}.",
+        "de": "Ich habe noch nie Lammfleisch gegessen."
+      }
+    ]
+  },
+  {
+    "word": "pečenje",
+    "meanings": [
+      "Braten (vom Spieß)"
+    ],
+    "label": "neutrum",
+    "level": 4,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Za slavu se sprema {pečenje}.",
+        "de": "Zur Slava wird Braten zubereitet."
+      },
+      {
+        "sr": "Kilo {pečenja}, molim.",
+        "de": "Ein Kilo Braten, bitte."
+      }
+    ]
+  },
+  {
+    "word": "proja",
+    "meanings": [
+      "Maisbrot"
+    ],
+    "label": "feminin",
+    "level": 4,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Uz pasulj ide {proja}.",
+        "de": "Zum Bohneneintopf gehört Maisbrot."
+      },
+      {
+        "sr": "Baka je ispekla {proju}.",
+        "de": "Oma hat Maisbrot gebacken."
+      }
+    ]
+  },
+  {
+    "word": "na eks",
+    "meanings": [
+      "auf ex"
+    ],
+    "label": null,
+    "level": 4,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Hajde, {na eks}!",
+        "de": "Komm, auf ex!"
+      },
+      {
+        "sr": "Rakiju ne pijem {na eks}.",
+        "de": "Rakija trinke ich nicht auf ex."
+      }
+    ]
+  },
+  {
+    "word": "ljubomoran",
+    "meanings": [
+      "eifersüchtig"
+    ],
+    "label": null,
+    "level": 4,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Nisam {ljubomoran}.",
+        "de": "Ich bin nicht eifersüchtig."
+      },
+      {
+        "sr": "Malo je {ljubomorna}.",
+        "de": "Sie ist ein bisschen eifersüchtig."
+      }
+    ]
+  },
+  {
+    "word": "usamljen",
+    "meanings": [
+      "einsam"
+    ],
+    "label": null,
+    "level": 4,
+    "listId": "adjektive-gefuehle",
+    "sentences": [
+      {
+        "sr": "Bez tebe sam {usamljen}.",
+        "de": "Ohne dich bin ich einsam."
+      },
+      {
+        "sr": "Njena baka je često {usamljena}.",
+        "de": "Ihre Oma ist oft einsam."
+      }
+    ]
+  }
+]

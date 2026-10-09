@@ -1,0 +1,1531 @@
+[
+  {
+    "word": "restoran",
+    "meanings": [
+      "Restaurant"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Znaš li neki dobar {restoran}?",
+        "de": "Kennst du ein gutes Restaurant?"
+      },
+      {
+        "sr": "Večeras jedemo u {restoranu}.",
+        "de": "Heute Abend essen wir im Restaurant."
+      }
+    ]
+  },
+  {
+    "word": "kafana",
+    "meanings": [
+      "Kafana (traditionelles Wirtshaus)"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Ova {kafana} ima živu muziku.",
+        "de": "Diese Kafana hat Livemusik."
+      },
+      {
+        "sr": "Njen deda voli da sedi u {kafani}.",
+        "de": "Ihr Opa sitzt gern in der Kafana."
+      }
+    ]
+  },
+  {
+    "word": "kafić",
+    "meanings": [
+      "Café"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Vidimo se u {kafiću} na uglu.",
+        "de": "Wir sehen uns im Café an der Ecke."
+      },
+      {
+        "sr": "Ovaj {kafić} ima dobru kafu.",
+        "de": "Dieses Café hat guten Kaffee."
+      }
+    ]
+  },
+  {
+    "word": "pekara",
+    "meanings": [
+      "Bäckerei"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "U {pekari} kupujem burek.",
+        "de": "In der Bäckerei kaufe ich Burek."
+      },
+      {
+        "sr": "{Pekara} radi od šest ujutru.",
+        "de": "Die Bäckerei hat ab sechs Uhr morgens geöffnet."
+      }
+    ]
+  },
+  {
+    "word": "poslastičarnica",
+    "meanings": [
+      "Konditorei"
+    ],
+    "label": "feminin",
+    "level": 3,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "U ovoj {poslastičarnici} imaju odlične torte.",
+        "de": "In dieser Konditorei gibt es ausgezeichnete Torten."
+      },
+      {
+        "sr": "Idemo u {poslastičarnicu} na sladoled.",
+        "de": "Wir gehen in die Konditorei ein Eis essen."
+      }
+    ]
+  },
+  {
+    "word": "mesto",
+    "meanings": [
+      "Ort",
+      "Platz (Sitzplatz)"
+    ],
+    "label": "neutrum",
+    "level": 1,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Ima li slobodnog {mesta}?",
+        "de": "Ist noch ein Platz frei?"
+      },
+      {
+        "sr": "Ovo je lepo {mesto}.",
+        "de": "Das ist ein schöner Ort."
+      }
+    ]
+  },
+  {
+    "word": "sto za dvoje",
+    "meanings": [
+      "ein Tisch für zwei"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "{Sto za dvoje}, molim.",
+        "de": "Einen Tisch für zwei, bitte."
+      },
+      {
+        "sr": "Imate li {sto za dvoje} u bašti?",
+        "de": "Haben Sie einen Tisch für zwei im Garten?"
+      }
+    ]
+  },
+  {
+    "word": "želim da rezervišem",
+    "meanings": [
+      "ich möchte reservieren"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "{Želim da rezervišem} sto za večeras.",
+        "de": "Ich möchte für heute Abend einen Tisch reservieren."
+      },
+      {
+        "sr": "Dobar dan, {želim da rezervišem} sto za četvoro.",
+        "de": "Guten Tag, ich möchte einen Tisch für vier reservieren."
+      }
+    ]
+  },
+  {
+    "word": "konobar",
+    "meanings": [
+      "Kellner"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "{Konobar} donosi jelovnik.",
+        "de": "Der Kellner bringt die Speisekarte."
+      },
+      {
+        "sr": "Pitaj {konobara} za račun.",
+        "de": "Frag den Kellner nach der Rechnung."
+      }
+    ]
+  },
+  {
+    "word": "konobarica",
+    "meanings": [
+      "Kellnerin"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "{Konobarica} je bila veoma ljubazna.",
+        "de": "Die Kellnerin war sehr freundlich."
+      },
+      {
+        "sr": "Dao sam bakšiš {konobarici}.",
+        "de": "Ich habe der Kellnerin Trinkgeld gegeben."
+      }
+    ]
+  },
+  {
+    "word": "kuvar",
+    "meanings": [
+      "Koch"
+    ],
+    "label": "maskulin",
+    "level": 3,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "{Kuvar} ovde zna svoj posao.",
+        "de": "Der Koch hier versteht sein Handwerk."
+      },
+      {
+        "sr": "Pohvalite {kuvara}, bilo je odlično.",
+        "de": "Loben Sie den Koch, es war ausgezeichnet."
+      }
+    ]
+  },
+  {
+    "word": "izvolite",
+    "meanings": [
+      "bitte sehr (förmlich)",
+      "was darf es sein"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "{Izvolite}, šta želite?",
+        "de": "Bitte sehr, was wünschen Sie?"
+      },
+      {
+        "sr": "{Izvolite} vaš račun.",
+        "de": "Bitte sehr, Ihre Rechnung."
+      }
+    ]
+  },
+  {
+    "word": "imate li",
+    "meanings": [
+      "haben Sie"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "{Imate li} jelovnik na engleskom?",
+        "de": "Haben Sie eine Speisekarte auf Englisch?"
+      },
+      {
+        "sr": "{Imate li} nešto bez mesa?",
+        "de": "Haben Sie etwas ohne Fleisch?"
+      }
+    ]
+  },
+  {
+    "word": "jelovnik",
+    "meanings": [
+      "Speisekarte"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Možemo li da dobijemo {jelovnik}?",
+        "de": "Können wir die Speisekarte bekommen?"
+      },
+      {
+        "sr": "Šta ima na {jelovniku}?",
+        "de": "Was steht auf der Speisekarte?"
+      }
+    ]
+  },
+  {
+    "word": "hrana",
+    "meanings": [
+      "Essen (Nahrung)",
+      "Nahrung"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Srpska {hrana} je odlična.",
+        "de": "Das serbische Essen ist ausgezeichnet."
+      },
+      {
+        "sr": "Ima previše {hrane}.",
+        "de": "Es gibt zu viel Essen."
+      }
+    ]
+  },
+  {
+    "word": "jelo",
+    "meanings": [
+      "Gericht",
+      "Speise"
+    ],
+    "label": "neutrum",
+    "level": 1,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Koje {jelo} preporučujete?",
+        "de": "Welches Gericht empfehlen Sie?"
+      },
+      {
+        "sr": "Ovo je moje omiljeno {jelo}.",
+        "de": "Das ist mein Lieblingsgericht."
+      }
+    ]
+  },
+  {
+    "word": "piće",
+    "meanings": [
+      "Getränk"
+    ],
+    "label": "neutrum",
+    "level": 1,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Šta želite za {piće}?",
+        "de": "Was möchten Sie trinken?"
+      },
+      {
+        "sr": "Prvo naručujemo {piće}.",
+        "de": "Zuerst bestellen wir die Getränke."
+      }
+    ]
+  },
+  {
+    "word": "predjelo",
+    "meanings": [
+      "Vorspeise"
+    ],
+    "label": "neutrum",
+    "level": 2,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Za {predjelo} uzimamo sir i pršut.",
+        "de": "Als Vorspeise nehmen wir Käse und Schinken."
+      },
+      {
+        "sr": "Ovo {predjelo} je dovoljno za dvoje.",
+        "de": "Diese Vorspeise reicht für zwei."
+      }
+    ]
+  },
+  {
+    "word": "meze",
+    "meanings": [
+      "Vorspeisenplatte"
+    ],
+    "label": "neutrum",
+    "level": 3,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Uz rakiju ide {meze}.",
+        "de": "Zum Rakija gehört eine Vorspeisenplatte."
+      },
+      {
+        "sr": "Naručili smo {meze} za ceo sto.",
+        "de": "Wir haben eine Vorspeisenplatte für den ganzen Tisch bestellt."
+      }
+    ]
+  },
+  {
+    "word": "glavno jelo",
+    "meanings": [
+      "Hauptgericht"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Šta ćeš za {glavno jelo}?",
+        "de": "Was nimmst du als Hauptgericht?"
+      },
+      {
+        "sr": "{Glavno jelo} stiže za deset minuta.",
+        "de": "Das Hauptgericht kommt in zehn Minuten."
+      }
+    ]
+  },
+  {
+    "word": "prilog",
+    "meanings": [
+      "Beilage"
+    ],
+    "label": "maskulin",
+    "level": 3,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Koji {prilog} želite?",
+        "de": "Welche Beilage möchten Sie?"
+      },
+      {
+        "sr": "Kao {prilog} uzimam krompir.",
+        "de": "Als Beilage nehme ich Kartoffeln."
+      }
+    ]
+  },
+  {
+    "word": "dezert",
+    "meanings": [
+      "Dessert"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Ima li mesta za {dezert}?",
+        "de": "Ist noch Platz für ein Dessert?"
+      },
+      {
+        "sr": "Za {dezert} preporučujem palačinke.",
+        "de": "Als Dessert empfehle ich Pfannkuchen."
+      }
+    ]
+  },
+  {
+    "word": "porcija",
+    "meanings": [
+      "Portion"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "{Porcija} je ogromna.",
+        "de": "Die Portion ist riesig."
+      },
+      {
+        "sr": "Uzećemo dve {porcije} ćevapa.",
+        "de": "Wir nehmen zwei Portionen Ćevapi."
+      }
+    ]
+  },
+  {
+    "word": "specijalitet",
+    "meanings": [
+      "Spezialität"
+    ],
+    "label": "maskulin",
+    "level": 3,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Ovo je {specijalitet} kuće.",
+        "de": "Das ist die Spezialität des Hauses."
+      },
+      {
+        "sr": "Probajte naše {specijalitete}.",
+        "de": "Probieren Sie unsere Spezialitäten."
+      }
+    ]
+  },
+  {
+    "word": "šta preporučujete",
+    "meanings": [
+      "was empfehlen Sie"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "{Šta preporučujete} od ribe?",
+        "de": "Was empfehlen Sie beim Fisch?"
+      },
+      {
+        "sr": "Prvi put smo ovde, {šta preporučujete}?",
+        "de": "Wir sind zum ersten Mal hier, was empfehlen Sie?"
+      }
+    ]
+  },
+  {
+    "word": "preporučiti",
+    "meanings": [
+      "empfehlen"
+    ],
+    "label": "vollendet",
+    "level": 3,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Šta možete da {preporučite}?",
+        "de": "Was können Sie empfehlen?"
+      },
+      {
+        "sr": "Konobar nam je {preporučio} riblju čorbu.",
+        "de": "Der Kellner hat uns die Fischsuppe empfohlen."
+      }
+    ]
+  },
+  {
+    "word": "naručiti",
+    "meanings": [
+      "bestellen"
+    ],
+    "label": "vollendet",
+    "level": 1,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Jeste li spremni da {naručite}?",
+        "de": "Sind Sie bereit zu bestellen?"
+      },
+      {
+        "sr": "{Naručio} sam ćevape i salatu.",
+        "de": "Ich habe Ćevapi und Salat bestellt."
+      }
+    ]
+  },
+  {
+    "word": "ja ću",
+    "meanings": [
+      "ich nehme"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "{Ja ću} ćevape.",
+        "de": "Ich nehme Ćevapi."
+      },
+      {
+        "sr": "{Ja ću} isto to.",
+        "de": "Ich nehme das Gleiche."
+      }
+    ]
+  },
+  {
+    "word": "za mene",
+    "meanings": [
+      "für mich"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "{Za mene} samo kafa.",
+        "de": "Für mich nur einen Kaffee."
+      },
+      {
+        "sr": "Jedno pivo {za mene}, molim.",
+        "de": "Ein Bier für mich, bitte."
+      }
+    ]
+  },
+  {
+    "word": "jesti",
+    "meanings": [
+      "essen"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Šta želiš da {jedeš}?",
+        "de": "Was möchtest du essen?"
+      },
+      {
+        "sr": "Sinoć smo {jeli} u kafani.",
+        "de": "Gestern Abend haben wir in der Kafana gegessen."
+      }
+    ]
+  },
+  {
+    "word": "piti",
+    "meanings": [
+      "trinken"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Šta {piješ}?",
+        "de": "Was trinkst du?"
+      },
+      {
+        "sr": "{Pili} smo kafu u bašti.",
+        "de": "Wir haben im Garten Kaffee getrunken."
+      }
+    ]
+  },
+  {
+    "word": "probati",
+    "meanings": [
+      "probieren"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Moraš da {probaš} ovo.",
+        "de": "Das musst du probieren."
+      },
+      {
+        "sr": "Jesi li {probao} ajvar?",
+        "de": "Hast du Ajvar probiert?"
+      }
+    ]
+  },
+  {
+    "word": "doneti",
+    "meanings": [
+      "bringen"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Možete li da {donesete} još hleba?",
+        "de": "Können Sie noch Brot bringen?"
+      },
+      {
+        "sr": "Konobar je {doneo} pogrešno jelo.",
+        "de": "Der Kellner hat das falsche Gericht gebracht."
+      }
+    ]
+  },
+  {
+    "word": "sipati",
+    "meanings": [
+      "einschenken",
+      "eingießen"
+    ],
+    "label": "unvollendet",
+    "level": 3,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Da ti {sipam} još vina?",
+        "de": "Soll ich dir noch Wein einschenken?"
+      },
+      {
+        "sr": "Domaćin stalno {sipa} rakiju.",
+        "de": "Der Gastgeber schenkt ständig Rakija ein."
+      }
+    ]
+  },
+  {
+    "word": "roštilj",
+    "meanings": [
+      "Grill",
+      "Grillfleisch"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "U Srbiji svi vole {roštilj}.",
+        "de": "In Serbien lieben alle Grillfleisch."
+      },
+      {
+        "sr": "Meso sa {roštilja} je najbolje.",
+        "de": "Fleisch vom Grill ist das beste."
+      }
+    ]
+  },
+  {
+    "word": "ćevapi",
+    "meanings": [
+      "Ćevapi (Hackfleischröllchen)"
+    ],
+    "label": "Plural",
+    "level": 2,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Deset {ćevapa} sa lukom, molim.",
+        "de": "Zehn Ćevapi mit Zwiebeln, bitte."
+      },
+      {
+        "sr": "Najbolji {ćevapi} su u ovoj kafani.",
+        "de": "Die besten Ćevapi gibt es in dieser Kafana."
+      }
+    ]
+  },
+  {
+    "word": "pljeskavica",
+    "meanings": [
+      "Pljeskavica (Hacksteak)"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Jednu {pljeskavicu} sa kajmakom.",
+        "de": "Eine Pljeskavica mit Kajmak."
+      },
+      {
+        "sr": "{Pljeskavica} je veća od tanjira.",
+        "de": "Die Pljeskavica ist größer als der Teller."
+      }
+    ]
+  },
+  {
+    "word": "kobasica",
+    "meanings": [
+      "Wurst"
+    ],
+    "label": "feminin",
+    "level": 3,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Domaća {kobasica} je malo ljuta.",
+        "de": "Die hausgemachte Wurst ist etwas scharf."
+      },
+      {
+        "sr": "Uz pivo idu {kobasice}.",
+        "de": "Zum Bier passen Würste."
+      }
+    ]
+  },
+  {
+    "word": "jagnjetina",
+    "meanings": [
+      "Lammfleisch"
+    ],
+    "label": "feminin",
+    "level": 4,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "{Jagnjetina} ispod sača je specijalitet.",
+        "de": "Lammfleisch unter der Glutglocke ist eine Spezialität."
+      },
+      {
+        "sr": "Nikad nisam jeo {jagnjetinu}.",
+        "de": "Ich habe noch nie Lammfleisch gegessen."
+      }
+    ]
+  },
+  {
+    "word": "pečenje",
+    "meanings": [
+      "Braten (vom Spieß)"
+    ],
+    "label": "neutrum",
+    "level": 4,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Za slavu se sprema {pečenje}.",
+        "de": "Zur Slava wird Braten zubereitet."
+      },
+      {
+        "sr": "Kilo {pečenja}, molim.",
+        "de": "Ein Kilo Braten, bitte."
+      }
+    ]
+  },
+  {
+    "word": "pečen",
+    "meanings": [
+      "gebraten",
+      "gebacken"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Uzeću {pečenu} piletinu.",
+        "de": "Ich nehme das gebratene Hähnchen."
+      },
+      {
+        "sr": "Krompir je lepo {pečen}.",
+        "de": "Die Kartoffeln sind schön gebacken."
+      }
+    ]
+  },
+  {
+    "word": "sarma",
+    "meanings": [
+      "Sarma (Krautwickel)"
+    ],
+    "label": "feminin",
+    "level": 3,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Njena baka pravi najbolju {sarmu}.",
+        "de": "Ihre Oma macht die beste Sarma."
+      },
+      {
+        "sr": "{Sarma} se jede zimi.",
+        "de": "Sarma isst man im Winter."
+      }
+    ]
+  },
+  {
+    "word": "punjena paprika",
+    "meanings": [
+      "gefüllte Paprika"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "{Punjene paprike} su danas na jelovniku.",
+        "de": "Gefüllte Paprika stehen heute auf der Speisekarte."
+      },
+      {
+        "sr": "Volim {punjenu papriku} sa pavlakom.",
+        "de": "Ich mag gefüllte Paprika mit saurer Sahne."
+      }
+    ]
+  },
+  {
+    "word": "burek",
+    "meanings": [
+      "Burek (gefüllter Blätterteig)"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Za doručak jedemo {burek} sa sirom.",
+        "de": "Zum Frühstück essen wir Burek mit Käse."
+      },
+      {
+        "sr": "Uz {burek} ide jogurt.",
+        "de": "Zum Burek gehört Joghurt."
+      }
+    ]
+  },
+  {
+    "word": "gibanica",
+    "meanings": [
+      "Gibanica (Käsestrudel)"
+    ],
+    "label": "feminin",
+    "level": 3,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "{Gibanica} je još topla.",
+        "de": "Die Gibanica ist noch warm."
+      },
+      {
+        "sr": "Uzmi parče {gibanice}.",
+        "de": "Nimm ein Stück Gibanica."
+      }
+    ]
+  },
+  {
+    "word": "proja",
+    "meanings": [
+      "Maisbrot"
+    ],
+    "label": "feminin",
+    "level": 4,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Uz pasulj ide {proja}.",
+        "de": "Zum Bohneneintopf gehört Maisbrot."
+      },
+      {
+        "sr": "Baka je ispekla {proju}.",
+        "de": "Oma hat Maisbrot gebacken."
+      }
+    ]
+  },
+  {
+    "word": "lepinja",
+    "meanings": [
+      "Fladenbrot"
+    ],
+    "label": "feminin",
+    "level": 3,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Ćevapi se služe u {lepinji}.",
+        "de": "Ćevapi werden im Fladenbrot serviert."
+      },
+      {
+        "sr": "Topla {lepinja} sa kajmakom je odlična.",
+        "de": "Warmes Fladenbrot mit Kajmak ist ausgezeichnet."
+      }
+    ]
+  },
+  {
+    "word": "ajvar",
+    "meanings": [
+      "Ajvar (Paprikamus)"
+    ],
+    "label": "maskulin",
+    "level": 3,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Domaći {ajvar} je najbolji.",
+        "de": "Hausgemachter Ajvar ist der beste."
+      },
+      {
+        "sr": "Namaži malo {ajvara} na hleb.",
+        "de": "Streich etwas Ajvar aufs Brot."
+      }
+    ]
+  },
+  {
+    "word": "pršut",
+    "meanings": [
+      "Räucherschinken"
+    ],
+    "label": "maskulin",
+    "level": 3,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Tanjir sira i {pršuta}, molim.",
+        "de": "Einen Teller Käse und Schinken, bitte."
+      },
+      {
+        "sr": "Ovaj {pršut} je sa Zlatibora.",
+        "de": "Dieser Schinken kommt vom Zlatibor."
+      }
+    ]
+  },
+  {
+    "word": "šopska salata",
+    "meanings": [
+      "Schopska-Salat"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Uz meso uzimam {šopsku salatu}.",
+        "de": "Zum Fleisch nehme ich Schopska-Salat."
+      },
+      {
+        "sr": "{Šopska salata} je sa sirom.",
+        "de": "Der Schopska-Salat ist mit Käse."
+      }
+    ]
+  },
+  {
+    "word": "pomfrit",
+    "meanings": [
+      "Pommes"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Deca hoće {pomfrit}.",
+        "de": "Die Kinder wollen Pommes."
+      },
+      {
+        "sr": "Ćevapi sa {pomfritom}, molim.",
+        "de": "Ćevapi mit Pommes, bitte."
+      }
+    ]
+  },
+  {
+    "word": "palačinka",
+    "meanings": [
+      "Pfannkuchen"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "{Palačinke} sa čokoladom, molim.",
+        "de": "Pfannkuchen mit Schokolade, bitte."
+      },
+      {
+        "sr": "Podelićemo jednu {palačinku}.",
+        "de": "Wir teilen uns einen Pfannkuchen."
+      }
+    ]
+  },
+  {
+    "word": "sladoled",
+    "meanings": [
+      "Eis"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Hoćeš li {sladoled}?",
+        "de": "Möchtest du ein Eis?"
+      },
+      {
+        "sr": "Dve kugle {sladoleda}, molim.",
+        "de": "Zwei Kugeln Eis, bitte."
+      }
+    ]
+  },
+  {
+    "word": "baklava",
+    "meanings": [
+      "Baklava"
+    ],
+    "label": "feminin",
+    "level": 3,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "{Baklava} je veoma slatka.",
+        "de": "Baklava ist sehr süß."
+      },
+      {
+        "sr": "Uz kafu uzimam {baklavu}.",
+        "de": "Zum Kaffee nehme ich Baklava."
+      }
+    ]
+  },
+  {
+    "word": "šta ćete popiti",
+    "meanings": [
+      "was möchten Sie trinken"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Dobro veče, {šta ćete popiti}?",
+        "de": "Guten Abend, was möchten Sie trinken?"
+      },
+      {
+        "sr": "{Šta ćete popiti}, vino ili pivo?",
+        "de": "Was möchten Sie trinken, Wein oder Bier?"
+      }
+    ]
+  },
+  {
+    "word": "pivo",
+    "meanings": [
+      "Bier"
+    ],
+    "label": "neutrum",
+    "level": 1,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Jedno {pivo}, molim.",
+        "de": "Ein Bier, bitte."
+      },
+      {
+        "sr": "Dva {piva} za nas.",
+        "de": "Zwei Bier für uns."
+      }
+    ]
+  },
+  {
+    "word": "točeno pivo",
+    "meanings": [
+      "Bier vom Fass"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Imate li {točeno pivo}?",
+        "de": "Haben Sie Bier vom Fass?"
+      },
+      {
+        "sr": "Jedno veliko {točeno pivo}, molim.",
+        "de": "Ein großes Bier vom Fass, bitte."
+      }
+    ]
+  },
+  {
+    "word": "belo vino",
+    "meanings": [
+      "Weißwein"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Čašu {belog vina}, molim.",
+        "de": "Ein Glas Weißwein, bitte."
+      },
+      {
+        "sr": "Uz ribu ide {belo vino}.",
+        "de": "Zum Fisch passt Weißwein."
+      }
+    ]
+  },
+  {
+    "word": "crno vino",
+    "meanings": [
+      "Rotwein"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Flašu {crnog vina}, molim.",
+        "de": "Eine Flasche Rotwein, bitte."
+      },
+      {
+        "sr": "{Crno vino} iz Srbije je dobro.",
+        "de": "Der Rotwein aus Serbien ist gut."
+      }
+    ]
+  },
+  {
+    "word": "rakija",
+    "meanings": [
+      "Rakija (Obstbrand)"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Domaćin nas je ponudio {rakijom}.",
+        "de": "Der Gastgeber hat uns Rakija angeboten."
+      },
+      {
+        "sr": "Ova {rakija} je jaka.",
+        "de": "Dieser Rakija ist stark."
+      }
+    ]
+  },
+  {
+    "word": "šljivovica",
+    "meanings": [
+      "Pflaumenschnaps"
+    ],
+    "label": "feminin",
+    "level": 3,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "{Šljivovica} je rakija od šljiva.",
+        "de": "Šljivovica ist Rakija aus Pflaumen."
+      },
+      {
+        "sr": "Probaj dedinu {šljivovicu}.",
+        "de": "Probier Opas Pflaumenschnaps."
+      }
+    ]
+  },
+  {
+    "word": "na eks",
+    "meanings": [
+      "auf ex"
+    ],
+    "label": null,
+    "level": 4,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Hajde, {na eks}!",
+        "de": "Komm, auf ex!"
+      },
+      {
+        "sr": "Rakiju ne pijem {na eks}.",
+        "de": "Rakija trinke ich nicht auf ex."
+      }
+    ]
+  },
+  {
+    "word": "još jedno",
+    "meanings": [
+      "noch eins"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "{Još jedno} pivo, molim.",
+        "de": "Noch ein Bier, bitte."
+      },
+      {
+        "sr": "Može {još jedno}?",
+        "de": "Geht noch eins?"
+      }
+    ]
+  },
+  {
+    "word": "još jednu turu",
+    "meanings": [
+      "noch eine Runde"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "{Još jednu turu}, molim!",
+        "de": "Noch eine Runde, bitte!"
+      },
+      {
+        "sr": "Ja častim {još jednu turu}.",
+        "de": "Ich gebe noch eine Runde aus."
+      }
+    ]
+  },
+  {
+    "word": "domaća kafa",
+    "meanings": [
+      "türkischer Kaffee"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Jednu {domaću kafu}, molim.",
+        "de": "Einen türkischen Kaffee, bitte."
+      },
+      {
+        "sr": "{Domaća kafa} se pije polako.",
+        "de": "Türkischen Kaffee trinkt man langsam."
+      }
+    ]
+  },
+  {
+    "word": "espreso",
+    "meanings": [
+      "Espresso"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Jedan {espreso} sa mlekom.",
+        "de": "Einen Espresso mit Milch."
+      },
+      {
+        "sr": "Posle ručka pijem {espreso}.",
+        "de": "Nach dem Mittagessen trinke ich Espresso."
+      }
+    ]
+  },
+  {
+    "word": "kisela voda",
+    "meanings": [
+      "Mineralwasser (mit Kohlensäure)"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Jednu {kiselu vodu}, molim.",
+        "de": "Ein Mineralwasser, bitte."
+      },
+      {
+        "sr": "{Kisela voda} ili obična?",
+        "de": "Mit Kohlensäure oder still?"
+      }
+    ]
+  },
+  {
+    "word": "limunada",
+    "meanings": [
+      "Limonade"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Leti pijem hladnu {limunadu}.",
+        "de": "Im Sommer trinke ich kalte Limonade."
+      },
+      {
+        "sr": "{Limunada} je domaća.",
+        "de": "Die Limonade ist hausgemacht."
+      }
+    ]
+  },
+  {
+    "word": "led",
+    "meanings": [
+      "Eiswürfel",
+      "Eis (gefroren)"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Sok bez {leda}, molim.",
+        "de": "Einen Saft ohne Eis, bitte."
+      },
+      {
+        "sr": "{Led} se već otopio.",
+        "de": "Das Eis ist schon geschmolzen."
+      }
+    ]
+  },
+  {
+    "word": "flaša",
+    "meanings": [
+      "Flasche"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Jednu {flašu} vode, molim.",
+        "de": "Eine Flasche Wasser, bitte."
+      },
+      {
+        "sr": "U {flaši} ima još vina.",
+        "de": "In der Flasche ist noch Wein."
+      }
+    ]
+  },
+  {
+    "word": "za poneti",
+    "meanings": [
+      "zum Mitnehmen"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Dva bureka {za poneti}.",
+        "de": "Zwei Burek zum Mitnehmen."
+      },
+      {
+        "sr": "Kafu {za poneti}, molim.",
+        "de": "Einen Kaffee zum Mitnehmen, bitte."
+      }
+    ]
+  },
+  {
+    "word": "račun",
+    "meanings": [
+      "Rechnung"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "{Račun}, molim.",
+        "de": "Die Rechnung, bitte."
+      },
+      {
+        "sr": "Na {računu} je greška.",
+        "de": "Auf der Rechnung ist ein Fehler."
+      }
+    ]
+  },
+  {
+    "word": "možemo li da platimo",
+    "meanings": [
+      "können wir zahlen"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Izvinite, {možemo li da platimo}?",
+        "de": "Entschuldigen Sie, können wir zahlen?"
+      },
+      {
+        "sr": "{Možemo li da platimo} karticom?",
+        "de": "Können wir mit Karte zahlen?"
+      }
+    ]
+  },
+  {
+    "word": "platiti",
+    "meanings": [
+      "bezahlen"
+    ],
+    "label": "vollendet",
+    "level": 1,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Ja ću da {platim}.",
+        "de": "Ich bezahle."
+      },
+      {
+        "sr": "Već sam {platio} račun.",
+        "de": "Ich habe die Rechnung schon bezahlt."
+      }
+    ]
+  },
+  {
+    "word": "zajedno ili odvojeno",
+    "meanings": [
+      "zusammen oder getrennt"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Plaćate {zajedno ili odvojeno}?",
+        "de": "Zahlen Sie zusammen oder getrennt?"
+      },
+      {
+        "sr": "{Zajedno ili odvojeno}? Zajedno, molim.",
+        "de": "Zusammen oder getrennt? Zusammen, bitte."
+      }
+    ]
+  },
+  {
+    "word": "gotovina",
+    "meanings": [
+      "Bargeld"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Plaćam {gotovinom}.",
+        "de": "Ich zahle bar."
+      },
+      {
+        "sr": "Nemam {gotovine} kod sebe.",
+        "de": "Ich habe kein Bargeld dabei."
+      }
+    ]
+  },
+  {
+    "word": "kartica",
+    "meanings": [
+      "Bankkarte",
+      "Karte"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Mogu li da platim {karticom}?",
+        "de": "Kann ich mit Karte zahlen?"
+      },
+      {
+        "sr": "Moja {kartica} ne radi.",
+        "de": "Meine Karte funktioniert nicht."
+      }
+    ]
+  },
+  {
+    "word": "da li primate kartice",
+    "meanings": [
+      "nehmen Sie Karten"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Izvinite, {da li primate kartice}?",
+        "de": "Entschuldigen Sie, nehmen Sie Karten?"
+      },
+      {
+        "sr": "{Da li primate kartice} ili samo gotovinu?",
+        "de": "Nehmen Sie Karten oder nur Bargeld?"
+      }
+    ]
+  },
+  {
+    "word": "bakšiš",
+    "meanings": [
+      "Trinkgeld"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "Ostavi {bakšiš} za konobara.",
+        "de": "Lass Trinkgeld für den Kellner da."
+      },
+      {
+        "sr": "Koliko se ovde daje {bakšiša}?",
+        "de": "Wie viel Trinkgeld gibt man hier?"
+      }
+    ]
+  },
+  {
+    "word": "u redu je",
+    "meanings": [
+      "stimmt so"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "restaurant-kafana",
+    "sentences": [
+      {
+        "sr": "{U redu je}, zadržite kusur.",
+        "de": "Stimmt so, behalten Sie den Rest."
+      },
+      {
+        "sr": "Hvala, {u redu je}.",
+        "de": "Danke, stimmt so."
+      }
+    ]
+  }
+]

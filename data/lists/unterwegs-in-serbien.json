@@ -1,0 +1,1554 @@
+[
+  {
+    "word": "gde je",
+    "meanings": [
+      "wo ist"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Izvinite, {gde je} pošta?",
+        "de": "Entschuldigen Sie, wo ist die Post?"
+      },
+      {
+        "sr": "{Gde je} najbliži bankomat?",
+        "de": "Wo ist der nächste Geldautomat?"
+      }
+    ]
+  },
+  {
+    "word": "kako da stignem do",
+    "meanings": [
+      "wie komme ich zu"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "{Kako da stignem do} aerodroma?",
+        "de": "Wie komme ich zum Flughafen?"
+      },
+      {
+        "sr": "Izvinite, {kako da stignem do} tvrđave?",
+        "de": "Entschuldigen Sie, wie komme ich zur Festung?"
+      }
+    ]
+  },
+  {
+    "word": "koliko je daleko",
+    "meanings": [
+      "wie weit ist es"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "{Koliko je daleko} do centra?",
+        "de": "Wie weit ist es bis ins Zentrum?"
+      },
+      {
+        "sr": "{Koliko je daleko} peške?",
+        "de": "Wie weit ist es zu Fuß?"
+      }
+    ]
+  },
+  {
+    "word": "levo",
+    "meanings": [
+      "links"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Skrenite {levo} kod banke.",
+        "de": "Biegen Sie bei der Bank links ab."
+      },
+      {
+        "sr": "Apoteka je {levo} od hotela.",
+        "de": "Die Apotheke ist links vom Hotel."
+      }
+    ]
+  },
+  {
+    "word": "desno",
+    "meanings": [
+      "rechts"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Na semaforu idite {desno}.",
+        "de": "Gehen Sie an der Ampel nach rechts."
+      },
+      {
+        "sr": "Toalet je prva vrata {desno}.",
+        "de": "Die Toilette ist die erste Tür rechts."
+      }
+    ]
+  },
+  {
+    "word": "pravo",
+    "meanings": [
+      "geradeaus"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Samo {pravo}, pa levo.",
+        "de": "Immer geradeaus, dann links."
+      },
+      {
+        "sr": "Idite {pravo} do trga.",
+        "de": "Gehen Sie geradeaus bis zum Platz."
+      }
+    ]
+  },
+  {
+    "word": "blizu",
+    "meanings": [
+      "nah",
+      "in der Nähe"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Hotel je {blizu}.",
+        "de": "Das Hotel ist in der Nähe."
+      },
+      {
+        "sr": "Živimo {blizu} centra.",
+        "de": "Wir wohnen nah am Zentrum."
+      }
+    ]
+  },
+  {
+    "word": "daleko",
+    "meanings": [
+      "weit"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Da li je {daleko} odavde?",
+        "de": "Ist es weit von hier?"
+      },
+      {
+        "sr": "Stanica nije {daleko}.",
+        "de": "Die Haltestelle ist nicht weit."
+      }
+    ]
+  },
+  {
+    "word": "ovde",
+    "meanings": [
+      "hier"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "{Ovde} smo prvi put.",
+        "de": "Wir sind zum ersten Mal hier."
+      },
+      {
+        "sr": "Sačekajte {ovde}.",
+        "de": "Warten Sie hier."
+      }
+    ]
+  },
+  {
+    "word": "tamo",
+    "meanings": [
+      "dort"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Vidiš li crkvu {tamo}?",
+        "de": "Siehst du die Kirche dort?"
+      },
+      {
+        "sr": "{Tamo} je autobuska stanica.",
+        "de": "Dort ist der Busbahnhof."
+      }
+    ]
+  },
+  {
+    "word": "pored",
+    "meanings": [
+      "neben"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Banka je {pored} pošte.",
+        "de": "Die Bank ist neben der Post."
+      },
+      {
+        "sr": "Sedi {pored} mene.",
+        "de": "Setz dich neben mich."
+      }
+    ]
+  },
+  {
+    "word": "preko puta",
+    "meanings": [
+      "gegenüber"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Hotel je {preko puta} parka.",
+        "de": "Das Hotel ist gegenüber vom Park."
+      },
+      {
+        "sr": "Parkiraj {preko puta}.",
+        "de": "Park gegenüber."
+      }
+    ]
+  },
+  {
+    "word": "iza",
+    "meanings": [
+      "hinter"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Parking je {iza} zgrade.",
+        "de": "Der Parkplatz ist hinter dem Gebäude."
+      },
+      {
+        "sr": "Stani {iza} tog auta.",
+        "de": "Halt hinter dem Auto dort."
+      }
+    ]
+  },
+  {
+    "word": "ispred",
+    "meanings": [
+      "vor (örtlich)"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Čekam te {ispred} hotela.",
+        "de": "Ich warte vor dem Hotel auf dich."
+      },
+      {
+        "sr": "Taksi stoji {ispred} ulaza.",
+        "de": "Das Taxi steht vor dem Eingang."
+      }
+    ]
+  },
+  {
+    "word": "ugao",
+    "meanings": [
+      "Ecke"
+    ],
+    "label": "maskulin",
+    "level": 3,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Kafić je na {uglu}.",
+        "de": "Das Café ist an der Ecke."
+      },
+      {
+        "sr": "Skrenite iza {ugla}.",
+        "de": "Biegen Sie hinter der Ecke ab."
+      }
+    ]
+  },
+  {
+    "word": "peške",
+    "meanings": [
+      "zu Fuß"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Do centra idemo {peške}.",
+        "de": "Ins Zentrum gehen wir zu Fuß."
+      },
+      {
+        "sr": "{Peške} je to deset minuta.",
+        "de": "Zu Fuß sind das zehn Minuten."
+      }
+    ]
+  },
+  {
+    "word": "put",
+    "meanings": [
+      "Weg",
+      "Reise",
+      "Mal"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "{Put} do Niša traje tri sata.",
+        "de": "Die Fahrt nach Niš dauert drei Stunden."
+      },
+      {
+        "sr": "Na {putu} smo, stižemo uskoro.",
+        "de": "Wir sind unterwegs, wir kommen bald an."
+      }
+    ]
+  },
+  {
+    "word": "srećan put",
+    "meanings": [
+      "gute Reise"
+    ],
+    "label": null,
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "{Srećan put} i javi se kad stigneš!",
+        "de": "Gute Reise, und melde dich, wenn du ankommst!"
+      },
+      {
+        "sr": "Želim vam {srećan put}.",
+        "de": "Ich wünsche Ihnen eine gute Reise."
+      }
+    ]
+  },
+  {
+    "word": "koliko traje",
+    "meanings": [
+      "wie lange dauert"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "{Koliko traje} put do Niša?",
+        "de": "Wie lange dauert die Fahrt nach Niš?"
+      },
+      {
+        "sr": "{Koliko traje} vožnja do aerodroma?",
+        "de": "Wie lange dauert die Fahrt zum Flughafen?"
+      }
+    ]
+  },
+  {
+    "word": "ulica",
+    "meanings": [
+      "Straße"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "U kojoj {ulici} živiš?",
+        "de": "In welcher Straße wohnst du?"
+      },
+      {
+        "sr": "Ova {ulica} vodi do centra.",
+        "de": "Diese Straße führt ins Zentrum."
+      }
+    ]
+  },
+  {
+    "word": "trg",
+    "meanings": [
+      "Platz"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Vidimo se na {trgu}.",
+        "de": "Wir sehen uns auf dem Platz."
+      },
+      {
+        "sr": "Glavni {trg} je pun ljudi.",
+        "de": "Der Hauptplatz ist voller Menschen."
+      }
+    ]
+  },
+  {
+    "word": "most",
+    "meanings": [
+      "Brücke"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Pređi {most} i skreni levo.",
+        "de": "Geh über die Brücke und bieg links ab."
+      },
+      {
+        "sr": "Hotel je odmah iza {mosta}.",
+        "de": "Das Hotel ist gleich hinter der Brücke."
+      }
+    ]
+  },
+  {
+    "word": "semafor",
+    "meanings": [
+      "Ampel"
+    ],
+    "label": "maskulin",
+    "level": 3,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Kod {semafora} skrenite desno.",
+        "de": "Biegen Sie an der Ampel rechts ab."
+      },
+      {
+        "sr": "{Semafor} je crven, stani.",
+        "de": "Die Ampel ist rot, halt an."
+      }
+    ]
+  },
+  {
+    "word": "centar",
+    "meanings": [
+      "Zentrum"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Hotel je u {centru} grada.",
+        "de": "Das Hotel ist im Stadtzentrum."
+      },
+      {
+        "sr": "Ovaj autobus ide u {centar}.",
+        "de": "Dieser Bus fährt ins Zentrum."
+      }
+    ]
+  },
+  {
+    "word": "mapa",
+    "meanings": [
+      "Landkarte",
+      "Stadtplan"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Imate li {mapu} grada?",
+        "de": "Haben Sie einen Stadtplan?"
+      },
+      {
+        "sr": "Pokaži mi na {mapi} gde smo.",
+        "de": "Zeig mir auf der Karte, wo wir sind."
+      }
+    ]
+  },
+  {
+    "word": "izgubio sam se",
+    "meanings": [
+      "ich habe mich verirrt"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Izvinite, {izgubio sam se}.",
+        "de": "Entschuldigen Sie, ich habe mich verirrt."
+      },
+      {
+        "sr": "{Izgubio sam se}, možete li da mi pomognete?",
+        "de": "Ich habe mich verirrt, können Sie mir helfen?"
+      }
+    ]
+  },
+  {
+    "word": "autobus",
+    "meanings": [
+      "Bus"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "{Autobus} za Novi Sad polazi u devet.",
+        "de": "Der Bus nach Novi Sad fährt um neun ab."
+      },
+      {
+        "sr": "Idem na posao {autobusom}.",
+        "de": "Ich fahre mit dem Bus zur Arbeit."
+      }
+    ]
+  },
+  {
+    "word": "voz",
+    "meanings": [
+      "Zug"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "{Voz} kasni dvadeset minuta.",
+        "de": "Der Zug hat zwanzig Minuten Verspätung."
+      },
+      {
+        "sr": "Do Novog Sada idemo {vozom}.",
+        "de": "Nach Novi Sad fahren wir mit dem Zug."
+      }
+    ]
+  },
+  {
+    "word": "tramvaj",
+    "meanings": [
+      "Straßenbahn"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Ovaj {tramvaj} ide do centra.",
+        "de": "Diese Straßenbahn fährt bis ins Zentrum."
+      },
+      {
+        "sr": "U {tramvaju} je gužva.",
+        "de": "In der Straßenbahn ist es voll."
+      }
+    ]
+  },
+  {
+    "word": "taksi",
+    "meanings": [
+      "Taxi"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Možete li da mi pozovete {taksi}?",
+        "de": "Können Sie mir ein Taxi rufen?"
+      },
+      {
+        "sr": "Do hotela smo išli {taksijem}.",
+        "de": "Zum Hotel sind wir mit dem Taxi gefahren."
+      }
+    ]
+  },
+  {
+    "word": "stanite ovde",
+    "meanings": [
+      "halten Sie hier an"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "{Stanite ovde}, molim vas.",
+        "de": "Halten Sie bitte hier an."
+      },
+      {
+        "sr": "Možete da {stanite ovde}, kod ugla.",
+        "de": "Sie können hier an der Ecke anhalten."
+      }
+    ]
+  },
+  {
+    "word": "avion",
+    "meanings": [
+      "Flugzeug"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Naš {avion} sleće u podne.",
+        "de": "Unser Flugzeug landet am Mittag."
+      },
+      {
+        "sr": "U Beograd putujemo {avionom}.",
+        "de": "Nach Belgrad reisen wir mit dem Flugzeug."
+      }
+    ]
+  },
+  {
+    "word": "aerodrom",
+    "meanings": [
+      "Flughafen"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Koliko ima do {aerodroma}?",
+        "de": "Wie weit ist es bis zum Flughafen?"
+      },
+      {
+        "sr": "Njen brat nas čeka na {aerodromu}.",
+        "de": "Ihr Bruder wartet am Flughafen auf uns."
+      }
+    ]
+  },
+  {
+    "word": "stanica",
+    "meanings": [
+      "Haltestelle",
+      "Station"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Gde je najbliža {stanica}?",
+        "de": "Wo ist die nächste Haltestelle?"
+      },
+      {
+        "sr": "Izlazim na sledećoj {stanici}.",
+        "de": "Ich steige an der nächsten Haltestelle aus."
+      }
+    ]
+  },
+  {
+    "word": "autobuska stanica",
+    "meanings": [
+      "Busbahnhof"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "{Autobuska stanica} je blizu centra.",
+        "de": "Der Busbahnhof ist nah am Zentrum."
+      },
+      {
+        "sr": "Čekam te na {autobuskoj stanici}.",
+        "de": "Ich warte am Busbahnhof auf dich."
+      }
+    ]
+  },
+  {
+    "word": "železnička stanica",
+    "meanings": [
+      "Bahnhof"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Taksi nas vozi do {železničke stanice}.",
+        "de": "Das Taxi fährt uns zum Bahnhof."
+      },
+      {
+        "sr": "{Železnička stanica} je preko reke.",
+        "de": "Der Bahnhof ist auf der anderen Seite des Flusses."
+      }
+    ]
+  },
+  {
+    "word": "karta",
+    "meanings": [
+      "Fahrkarte",
+      "Karte"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Gde mogu da kupim {kartu}?",
+        "de": "Wo kann ich eine Fahrkarte kaufen?"
+      },
+      {
+        "sr": "Koliko košta {karta} do Niša?",
+        "de": "Wie viel kostet die Fahrkarte nach Niš?"
+      }
+    ]
+  },
+  {
+    "word": "jednu kartu do",
+    "meanings": [
+      "eine Fahrkarte nach"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "{Jednu kartu do} Novog Sada, molim.",
+        "de": "Eine Fahrkarte nach Novi Sad, bitte."
+      },
+      {
+        "sr": "{Jednu kartu do} Niša u jednom pravcu.",
+        "de": "Eine einfache Fahrkarte nach Niš."
+      }
+    ]
+  },
+  {
+    "word": "povratna karta",
+    "meanings": [
+      "Rückfahrkarte"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Jednu {povratnu kartu}, molim.",
+        "de": "Eine Rückfahrkarte, bitte."
+      },
+      {
+        "sr": "{Povratna karta} je jeftinija.",
+        "de": "Die Rückfahrkarte ist günstiger."
+      }
+    ]
+  },
+  {
+    "word": "da li je slobodno",
+    "meanings": [
+      "ist hier frei"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Izvinite, {da li je slobodno}?",
+        "de": "Entschuldigen Sie, ist hier frei?"
+      },
+      {
+        "sr": "{Da li je slobodno} ovo mesto?",
+        "de": "Ist dieser Platz frei?"
+      }
+    ]
+  },
+  {
+    "word": "putovati",
+    "meanings": [
+      "reisen"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Volim da {putujem}.",
+        "de": "Ich reise gern."
+      },
+      {
+        "sr": "{Putovali} smo celu noć.",
+        "de": "Wir sind die ganze Nacht gereist."
+      }
+    ]
+  },
+  {
+    "word": "krenuti",
+    "meanings": [
+      "losgehen",
+      "losfahren"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Moramo da {krenemo}.",
+        "de": "Wir müssen los."
+      },
+      {
+        "sr": "{Krenuli} smo u šest ujutru.",
+        "de": "Wir sind um sechs Uhr morgens losgefahren."
+      }
+    ]
+  },
+  {
+    "word": "stići",
+    "meanings": [
+      "ankommen"
+    ],
+    "label": "vollendet",
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Javi mi kad {stigneš} u hotel.",
+        "de": "Sag mir Bescheid, wenn du im Hotel ankommst."
+      },
+      {
+        "sr": "{Stigli} smo u Beograd.",
+        "de": "Wir sind in Belgrad angekommen."
+      }
+    ]
+  },
+  {
+    "word": "zakasniti",
+    "meanings": [
+      "sich verspäten",
+      "zu spät kommen"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Požuri, {zakasnićemo} na voz.",
+        "de": "Beeil dich, wir verpassen sonst den Zug."
+      },
+      {
+        "sr": "Izvinite što sam {zakasnio}.",
+        "de": "Entschuldigen Sie, dass ich zu spät gekommen bin."
+      }
+    ]
+  },
+  {
+    "word": "ući",
+    "meanings": [
+      "hineingehen",
+      "einsteigen"
+    ],
+    "label": "vollendet",
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Možemo li da {uđemo}?",
+        "de": "Können wir hineingehen?"
+      },
+      {
+        "sr": "{Ušli} smo u pogrešan autobus.",
+        "de": "Wir sind in den falschen Bus eingestiegen."
+      }
+    ]
+  },
+  {
+    "word": "sići",
+    "meanings": [
+      "aussteigen",
+      "hinuntergehen"
+    ],
+    "label": "vollendet",
+    "level": 3,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Gde treba da {siđem}?",
+        "de": "Wo muss ich aussteigen?"
+      },
+      {
+        "sr": "{Sišli} smo na pogrešnoj stanici.",
+        "de": "Wir sind an der falschen Haltestelle ausgestiegen."
+      }
+    ]
+  },
+  {
+    "word": "auto",
+    "meanings": [
+      "Auto"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Moj {auto} je na parkingu.",
+        "de": "Mein Auto steht auf dem Parkplatz."
+      },
+      {
+        "sr": "U Srbiju idemo {autom}.",
+        "de": "Nach Serbien fahren wir mit dem Auto."
+      }
+    ]
+  },
+  {
+    "word": "voziti",
+    "meanings": [
+      "fahren"
+    ],
+    "label": "unvollendet",
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Ko {vozi} danas?",
+        "de": "Wer fährt heute?"
+      },
+      {
+        "sr": "{Vozio} sam šest sati bez pauze.",
+        "de": "Ich bin sechs Stunden ohne Pause gefahren."
+      }
+    ]
+  },
+  {
+    "word": "skrenuti",
+    "meanings": [
+      "abbiegen"
+    ],
+    "label": "vollendet",
+    "level": 2,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Ovde treba da {skrenemo}.",
+        "de": "Hier müssen wir abbiegen."
+      },
+      {
+        "sr": "{Skrenuo} sam u pogrešnu ulicu.",
+        "de": "Ich bin in die falsche Straße abgebogen."
+      }
+    ]
+  },
+  {
+    "word": "parkirati",
+    "meanings": [
+      "parken"
+    ],
+    "label": "unvollendet",
+    "level": 2,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Gde mogu da {parkiram}?",
+        "de": "Wo kann ich parken?"
+      },
+      {
+        "sr": "{Parkirao} sam ispred hotela.",
+        "de": "Ich habe vor dem Hotel geparkt."
+      }
+    ]
+  },
+  {
+    "word": "parking",
+    "meanings": [
+      "Parkplatz"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Ima li hotel {parking}?",
+        "de": "Hat das Hotel einen Parkplatz?"
+      },
+      {
+        "sr": "Auto je na {parkingu} iza zgrade.",
+        "de": "Das Auto steht auf dem Parkplatz hinter dem Gebäude."
+      }
+    ]
+  },
+  {
+    "word": "autoput",
+    "meanings": [
+      "Autobahn"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "{Autoput} do Niša je dobar.",
+        "de": "Die Autobahn nach Niš ist gut."
+      },
+      {
+        "sr": "Na {autoputu} je bila gužva.",
+        "de": "Auf der Autobahn war Stau."
+      }
+    ]
+  },
+  {
+    "word": "putarina",
+    "meanings": [
+      "Maut"
+    ],
+    "label": "feminin",
+    "level": 4,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Na autoputu se plaća {putarina}.",
+        "de": "Auf der Autobahn zahlt man Maut."
+      },
+      {
+        "sr": "Koliko košta {putarina} do Beograda?",
+        "de": "Wie viel kostet die Maut bis Belgrad?"
+      }
+    ]
+  },
+  {
+    "word": "gužva",
+    "meanings": [
+      "Stau",
+      "Gedränge"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "U gradu je velika {gužva}.",
+        "de": "In der Stadt ist viel Verkehr."
+      },
+      {
+        "sr": "Zakasnili smo zbog {gužve}.",
+        "de": "Wir sind wegen des Staus zu spät gekommen."
+      }
+    ]
+  },
+  {
+    "word": "benzinska pumpa",
+    "meanings": [
+      "Tankstelle"
+    ],
+    "label": null,
+    "level": 2,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Gde je najbliža {benzinska pumpa}?",
+        "de": "Wo ist die nächste Tankstelle?"
+      },
+      {
+        "sr": "Stanimo na {benzinskoj pumpi}.",
+        "de": "Lass uns an der Tankstelle halten."
+      }
+    ]
+  },
+  {
+    "word": "gorivo",
+    "meanings": [
+      "Kraftstoff",
+      "Sprit"
+    ],
+    "label": "neutrum",
+    "level": 3,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Nemamo više {goriva}.",
+        "de": "Wir haben keinen Sprit mehr."
+      },
+      {
+        "sr": "{Gorivo} je ovde jeftinije.",
+        "de": "Der Sprit ist hier günstiger."
+      }
+    ]
+  },
+  {
+    "word": "kvar",
+    "meanings": [
+      "Panne",
+      "Defekt"
+    ],
+    "label": "maskulin",
+    "level": 3,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Imamo {kvar} na autu.",
+        "de": "Wir haben eine Panne am Auto."
+      },
+      {
+        "sr": "Stojimo na autoputu zbog {kvara}.",
+        "de": "Wir stehen wegen einer Panne auf der Autobahn."
+      }
+    ]
+  },
+  {
+    "word": "iznajmiti",
+    "meanings": [
+      "mieten"
+    ],
+    "label": "vollendet",
+    "level": 3,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Želim da {iznajmim} auto.",
+        "de": "Ich möchte ein Auto mieten."
+      },
+      {
+        "sr": "{Iznajmili} smo stan na pet dana.",
+        "de": "Wir haben für fünf Tage eine Wohnung gemietet."
+      }
+    ]
+  },
+  {
+    "word": "vozačka dozvola",
+    "meanings": [
+      "Führerschein"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Imate li {vozačku dozvolu}?",
+        "de": "Haben Sie einen Führerschein?"
+      },
+      {
+        "sr": "Moja {vozačka dozvola} je nemačka.",
+        "de": "Mein Führerschein ist deutsch."
+      }
+    ]
+  },
+  {
+    "word": "granica",
+    "meanings": [
+      "Grenze"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Na {granici} smo čekali dva sata.",
+        "de": "An der Grenze haben wir zwei Stunden gewartet."
+      },
+      {
+        "sr": "Prešli smo {granicu} u ponoć.",
+        "de": "Wir haben die Grenze um Mitternacht überquert."
+      }
+    ]
+  },
+  {
+    "word": "carina",
+    "meanings": [
+      "Zoll"
+    ],
+    "label": "feminin",
+    "level": 3,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Na {carini} su nam pregledali kofere.",
+        "de": "Beim Zoll haben sie unsere Koffer durchsucht."
+      },
+      {
+        "sr": "{Carina} je odmah posle granice.",
+        "de": "Der Zoll kommt gleich nach der Grenze."
+      }
+    ]
+  },
+  {
+    "word": "pasoš",
+    "meanings": [
+      "Reisepass"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Pokažite {pasoš}, molim.",
+        "de": "Zeigen Sie bitte Ihren Reisepass."
+      },
+      {
+        "sr": "Putujem sa nemačkim {pasošem}.",
+        "de": "Ich reise mit einem deutschen Reisepass."
+      }
+    ]
+  },
+  {
+    "word": "lična karta",
+    "meanings": [
+      "Personalausweis"
+    ],
+    "label": null,
+    "level": 3,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Ovde je moja {lična karta}.",
+        "de": "Hier ist mein Personalausweis."
+      },
+      {
+        "sr": "Dovoljno je da pokažete {ličnu kartu}.",
+        "de": "Es genügt, wenn Sie den Personalausweis zeigen."
+      }
+    ]
+  },
+  {
+    "word": "prtljag",
+    "meanings": [
+      "Gepäck"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Gde mogu da ostavim {prtljag}?",
+        "de": "Wo kann ich das Gepäck lassen?"
+      },
+      {
+        "sr": "Imam mnogo {prtljaga}.",
+        "de": "Ich habe viel Gepäck."
+      }
+    ]
+  },
+  {
+    "word": "kofer",
+    "meanings": [
+      "Koffer"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Moj {kofer} je težak.",
+        "de": "Mein Koffer ist schwer."
+      },
+      {
+        "sr": "Stavi {kofer} u gepek.",
+        "de": "Leg den Koffer in den Kofferraum."
+      }
+    ]
+  },
+  {
+    "word": "torba",
+    "meanings": [
+      "Tasche"
+    ],
+    "label": "feminin",
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Zaboravio sam {torbu} u autobusu.",
+        "de": "Ich habe die Tasche im Bus vergessen."
+      },
+      {
+        "sr": "Pasoš je u mojoj {torbi}.",
+        "de": "Der Reisepass ist in meiner Tasche."
+      }
+    ]
+  },
+  {
+    "word": "hotel",
+    "meanings": [
+      "Hotel"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Naš {hotel} je blizu reke.",
+        "de": "Unser Hotel ist nah am Fluss."
+      },
+      {
+        "sr": "U {hotelu} imaju doručak.",
+        "de": "Im Hotel gibt es Frühstück."
+      }
+    ]
+  },
+  {
+    "word": "smeštaj",
+    "meanings": [
+      "Unterkunft"
+    ],
+    "label": "maskulin",
+    "level": 3,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Tražimo {smeštaj} za dve noći.",
+        "de": "Wir suchen eine Unterkunft für zwei Nächte."
+      },
+      {
+        "sr": "{Smeštaj} je bio čist i jeftin.",
+        "de": "Die Unterkunft war sauber und günstig."
+      }
+    ]
+  },
+  {
+    "word": "rezervacija",
+    "meanings": [
+      "Reservierung"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Imam {rezervaciju} na ime Miler.",
+        "de": "Ich habe eine Reservierung auf den Namen Müller."
+      },
+      {
+        "sr": "Želim da otkažem {rezervaciju}.",
+        "de": "Ich möchte die Reservierung stornieren."
+      }
+    ]
+  },
+  {
+    "word": "toalet",
+    "meanings": [
+      "Toilette"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Da li ovde ima {toalet}?",
+        "de": "Gibt es hier eine Toilette?"
+      },
+      {
+        "sr": "Moram do {toaleta}.",
+        "de": "Ich muss zur Toilette."
+      }
+    ]
+  },
+  {
+    "word": "banka",
+    "meanings": [
+      "Bank"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "{Banka} radi do pet.",
+        "de": "Die Bank hat bis fünf geöffnet."
+      },
+      {
+        "sr": "Moram da odem do {banke}.",
+        "de": "Ich muss zur Bank."
+      }
+    ]
+  },
+  {
+    "word": "bankomat",
+    "meanings": [
+      "Geldautomat"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Ima li ovde {bankomat}?",
+        "de": "Gibt es hier einen Geldautomaten?"
+      },
+      {
+        "sr": "Podigao sam novac na {bankomatu}.",
+        "de": "Ich habe am Geldautomaten Geld abgehoben."
+      }
+    ]
+  },
+  {
+    "word": "menjačnica",
+    "meanings": [
+      "Wechselstube"
+    ],
+    "label": "feminin",
+    "level": 3,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Gde je najbliža {menjačnica}?",
+        "de": "Wo ist die nächste Wechselstube?"
+      },
+      {
+        "sr": "U {menjačnici} menjam evre u dinare.",
+        "de": "In der Wechselstube tausche ich Euro in Dinar."
+      }
+    ]
+  },
+  {
+    "word": "pošta",
+    "meanings": [
+      "Post"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "{Pošta} je preko puta banke.",
+        "de": "Die Post ist gegenüber der Bank."
+      },
+      {
+        "sr": "Idem u {poštu} da pošaljem razglednicu.",
+        "de": "Ich gehe zur Post, um eine Postkarte zu schicken."
+      }
+    ]
+  },
+  {
+    "word": "apoteka",
+    "meanings": [
+      "Apotheke"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Ima li {apoteka} u blizini?",
+        "de": "Gibt es eine Apotheke in der Nähe?"
+      },
+      {
+        "sr": "U {apoteci} sam kupio lek.",
+        "de": "In der Apotheke habe ich ein Medikament gekauft."
+      }
+    ]
+  },
+  {
+    "word": "bolnica",
+    "meanings": [
+      "Krankenhaus"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "{Bolnica} je na kraju ulice.",
+        "de": "Das Krankenhaus ist am Ende der Straße."
+      },
+      {
+        "sr": "Njena baka je u {bolnici}.",
+        "de": "Ihre Oma ist im Krankenhaus."
+      }
+    ]
+  },
+  {
+    "word": "policija",
+    "meanings": [
+      "Polizei"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Pozovite {policiju}!",
+        "de": "Rufen Sie die Polizei!"
+      },
+      {
+        "sr": "{Policija} je zaustavila naš auto.",
+        "de": "Die Polizei hat unser Auto angehalten."
+      }
+    ]
+  },
+  {
+    "word": "muzej",
+    "meanings": [
+      "Museum"
+    ],
+    "label": "maskulin",
+    "level": 2,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Ovaj {muzej} je zatvoren ponedeljkom.",
+        "de": "Dieses Museum ist montags geschlossen."
+      },
+      {
+        "sr": "Bili smo u {muzeju} Nikole Tesle.",
+        "de": "Wir waren im Nikola-Tesla-Museum."
+      }
+    ]
+  },
+  {
+    "word": "park",
+    "meanings": [
+      "Park"
+    ],
+    "label": "maskulin",
+    "level": 1,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Šetamo po {parku}.",
+        "de": "Wir gehen im Park spazieren."
+      },
+      {
+        "sr": "Ovaj {park} je lep u jesen.",
+        "de": "Dieser Park ist im Herbst schön."
+      }
+    ]
+  },
+  {
+    "word": "reka",
+    "meanings": [
+      "Fluss"
+    ],
+    "label": "feminin",
+    "level": 2,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Dunav je velika {reka}.",
+        "de": "Die Donau ist ein großer Fluss."
+      },
+      {
+        "sr": "Sedimo u kafiću pored {reke}.",
+        "de": "Wir sitzen in einem Café am Fluss."
+      }
+    ]
+  },
+  {
+    "word": "tvrđava",
+    "meanings": [
+      "Festung"
+    ],
+    "label": "feminin",
+    "level": 3,
+    "listId": "unterwegs-in-serbien",
+    "sentences": [
+      {
+        "sr": "Kalemegdan je stara {tvrđava}.",
+        "de": "Kalemegdan ist eine alte Festung."
+      },
+      {
+        "sr": "Sa {tvrđave} se vidi ceo grad.",
+        "de": "Von der Festung aus sieht man die ganze Stadt."
+      }
+    ]
+  }
+]
